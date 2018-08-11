@@ -1,0 +1,4 @@
+var a = document.body.appendChild(document.createElement('a'));
+a.download = "export.txt";
+a.href = "data:text/plain;base64," + btoa(JSON.stringify(CryptoCurrencyChart.chart.data()));
+a.innerHTML = "download data!";
