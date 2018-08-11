@@ -1,0 +1,1 @@
+This is the collection of slides, scripts, and data that I used for the talk I gave to the Southfield Misec group in August of 2018. The video for the talk can be found [here](https://www.youtube.com/watch?v=LYLuZbJCgyk&t=9s).
