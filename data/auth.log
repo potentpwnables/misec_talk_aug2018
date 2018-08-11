@@ -1,0 +1,293 @@
+Aug  8 21:43:37 potentpwnables systemd-logind[1108]: Lid opened.
+Aug  8 21:43:38 potentpwnables dbus[1074]: [system] Rejected send message, 3 matched rules; type="error", sender=":1.68" (uid=1000 pid=2186 comm="/usr/bin/pulseaudio --start --log-target=syslog ") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.4" (uid=0 pid=1106 comm="/usr/lib/bluetooth/bluetoothd ")
+Aug  8 21:43:38 potentpwnables dbus[1074]: message repeated 3 times: [ [system] Rejected send message, 3 matched rules; type="error", sender=":1.68" (uid=1000 pid=2186 comm="/usr/bin/pulseaudio --start --log-target=syslog ") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.4" (uid=0 pid=1106 comm="/usr/lib/bluetooth/bluetoothd ")]
+Aug  8 21:43:38 potentpwnables pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Aug  8 21:43:38 potentpwnables pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Aug  8 21:43:38 potentpwnables pkexec[10807]: potentpwnables: Executing command [USER=root] [TTY=unknown] [CWD=/home/potentpwnables] [COMMAND=/usr/lib/unity-settings-daemon/usd-backlight-helper --set-brightness 4800]
+Aug  8 21:43:38 potentpwnables systemd-logind[1108]: Operation 'sleep' finished.
+Aug  8 21:43:43 potentpwnables sshd[1259]: Received SIGHUP; restarting.
+Aug  8 21:43:43 potentpwnables sshd[1259]: Server listening on 0.0.0.0 port 22.
+Aug  8 21:43:43 potentpwnables sshd[1259]: Server listening on :: port 22.
+Aug  8 21:43:43 potentpwnables sshd[1259]: Received SIGHUP; restarting.
+Aug  8 21:43:43 potentpwnables sshd[1259]: Server listening on 0.0.0.0 port 22.
+Aug  8 21:43:43 potentpwnables sshd[1259]: Server listening on :: port 22.
+Aug  8 21:43:46 potentpwnables compiz: gkr-pam: unlocked login keyring
+Aug  8 21:45:01 potentpwnables CRON[11745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 21:45:01 potentpwnables CRON[11745]: pam_unix(cron:session): session closed for user root
+Aug  8 21:45:29 potentpwnables pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Aug  8 21:45:29 potentpwnables pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Aug  8 21:45:29 potentpwnables pkexec[11754]: potentpwnables: Executing command [USER=root] [TTY=unknown] [CWD=/home/potentpwnables] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Aug  8 21:47:15 potentpwnables sshd[11787]: Did not receive identification string from 122.152.210.200
+Aug  8 21:55:01 potentpwnables CRON[12260]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 21:55:01 potentpwnables CRON[12260]: pam_unix(cron:session): session closed for user root
+Aug  8 22:05:01 potentpwnables CRON[12689]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 22:05:01 potentpwnables CRON[12689]: pam_unix(cron:session): session closed for user root
+Aug  8 22:05:05 potentpwnables sshd[12695]: Received disconnect from 115.238.245.8 port 49730:11:  [preauth]
+Aug  8 22:05:05 potentpwnables sshd[12695]: Disconnected from 115.238.245.8 port 49730 [preauth]
+Aug  8 22:05:42 potentpwnables sshd[12817]: Received disconnect from 115.238.245.2 port 38468:11:  [preauth]
+Aug  8 22:05:42 potentpwnables sshd[12817]: Disconnected from 115.238.245.2 port 38468 [preauth]
+Aug  8 22:06:37 potentpwnables sshd[12837]: Received disconnect from 221.194.47.221 port 55790:11:  [preauth]
+Aug  8 22:06:37 potentpwnables sshd[12837]: Disconnected from 221.194.47.221 port 55790 [preauth]
+Aug  8 22:06:50 potentpwnables sshd[12862]: Received disconnect from 221.194.47.239 port 53608:11:  [preauth]
+Aug  8 22:06:50 potentpwnables sshd[12862]: Disconnected from 221.194.47.239 port 53608 [preauth]
+Aug  8 22:07:25 potentpwnables sshd[12888]: Received disconnect from 221.194.47.236 port 38429:11:  [preauth]
+Aug  8 22:07:25 potentpwnables sshd[12888]: Disconnected from 221.194.47.236 port 38429 [preauth]
+Aug  8 22:07:33 potentpwnables sshd[12890]: Received disconnect from 115.238.245.14 port 36606:11:  [preauth]
+Aug  8 22:07:33 potentpwnables sshd[12890]: Disconnected from 115.238.245.14 port 36606 [preauth]
+Aug  8 22:07:50 potentpwnables sshd[12892]: Connection closed by 121.18.238.123 port 46229 [preauth]
+Aug  8 22:08:18 potentpwnables sshd[12898]: Received disconnect from 115.238.245.2 port 42251:11:  [preauth]
+Aug  8 22:08:18 potentpwnables sshd[12898]: Disconnected from 115.238.245.2 port 42251 [preauth]
+Aug  8 22:08:37 potentpwnables sshd[12903]: Received disconnect from 221.194.47.205 port 37800:11:  [preauth]
+Aug  8 22:08:37 potentpwnables sshd[12903]: Disconnected from 221.194.47.205 port 37800 [preauth]
+Aug  8 22:08:52 potentpwnables sshd[12909]: Received disconnect from 221.194.47.221 port 38407:11:  [preauth]
+Aug  8 22:08:52 potentpwnables sshd[12909]: Disconnected from 221.194.47.221 port 38407 [preauth]
+Aug  8 22:09:30 potentpwnables sshd[13025]: Received disconnect from 119.249.54.217 port 60822:11:  [preauth]
+Aug  8 22:09:30 potentpwnables sshd[13025]: Disconnected from 119.249.54.217 port 60822 [preauth]
+Aug  8 22:09:31 potentpwnables sshd[13027]: Received disconnect from 115.238.245.2 port 42644:11:  [preauth]
+Aug  8 22:09:31 potentpwnables sshd[13027]: Disconnected from 115.238.245.2 port 42644 [preauth]
+Aug  8 22:10:07 potentpwnables sshd[13045]: Received disconnect from 221.194.44.211 port 53494:11:  [preauth]
+Aug  8 22:10:07 potentpwnables sshd[13045]: Disconnected from 221.194.44.211 port 53494 [preauth]
+Aug  8 22:10:33 potentpwnables sshd[13049]: Received disconnect from 115.238.245.2 port 52419:11:  [preauth]
+Aug  8 22:10:33 potentpwnables sshd[13049]: Disconnected from 115.238.245.2 port 52419 [preauth]
+Aug  8 22:11:03 potentpwnables sshd[13055]: Received disconnect from 221.194.47.239 port 59055:11:  [preauth]
+Aug  8 22:11:03 potentpwnables sshd[13055]: Disconnected from 221.194.47.239 port 59055 [preauth]
+Aug  8 22:11:08 potentpwnables sshd[13057]: Received disconnect from 115.238.245.2 port 44662:11:  [preauth]
+Aug  8 22:11:08 potentpwnables sshd[13057]: Disconnected from 115.238.245.2 port 44662 [preauth]
+Aug  8 22:11:19 potentpwnables sshd[13064]: Received disconnect from 221.194.47.221 port 54106:11:  [preauth]
+Aug  8 22:11:19 potentpwnables sshd[13064]: Disconnected from 221.194.47.221 port 54106 [preauth]
+Aug  8 22:12:38 potentpwnables sshd[13158]: Received disconnect from 221.194.44.211 port 41140:11:  [preauth]
+Aug  8 22:12:38 potentpwnables sshd[13158]: Disconnected from 221.194.44.211 port 41140 [preauth]
+Aug  8 22:13:50 potentpwnables sshd[13179]: Received disconnect from 115.238.245.2 port 49060:11:  [preauth]
+Aug  8 22:13:50 potentpwnables sshd[13179]: Disconnected from 115.238.245.2 port 49060 [preauth]
+Aug  8 22:14:25 potentpwnables sshd[13182]: Received disconnect from 121.18.238.123 port 58075:11:  [preauth]
+Aug  8 22:14:25 potentpwnables sshd[13182]: Disconnected from 121.18.238.123 port 58075 [preauth]
+Aug  8 22:14:26 potentpwnables sshd[13184]: Received disconnect from 221.194.44.211 port 49950:11:  [preauth]
+Aug  8 22:14:26 potentpwnables sshd[13184]: Disconnected from 221.194.44.211 port 49950 [preauth]
+Aug  8 22:15:01 potentpwnables CRON[13190]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 22:15:01 potentpwnables CRON[13190]: pam_unix(cron:session): session closed for user root
+Aug  8 22:15:41 potentpwnables sshd[13207]: Received disconnect from 221.194.47.239 port 55440:11:  [preauth]
+Aug  8 22:15:41 potentpwnables sshd[13207]: Disconnected from 221.194.47.239 port 55440 [preauth]
+Aug  8 22:16:47 potentpwnables sshd[13218]: Received disconnect from 221.194.44.211 port 33352:11:  [preauth]
+Aug  8 22:16:47 potentpwnables sshd[13218]: Disconnected from 221.194.44.211 port 33352 [preauth]
+Aug  8 22:16:47 potentpwnables sshd[13220]: Received disconnect from 121.18.238.115 port 33550:11:  [preauth]
+Aug  8 22:16:47 potentpwnables sshd[13220]: Disconnected from 121.18.238.115 port 33550 [preauth]
+Aug  8 22:17:01 potentpwnables CRON[13231]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 22:17:01 potentpwnables CRON[13231]: pam_unix(cron:session): session closed for user root
+Aug  8 22:17:05 potentpwnables sshd[13229]: Received disconnect from 115.238.245.4 port 51859:11:  [preauth]
+Aug  8 22:17:05 potentpwnables sshd[13229]: Disconnected from 115.238.245.4 port 51859 [preauth]
+Aug  8 22:18:48 potentpwnables sshd[13249]: Received disconnect from 115.238.245.8 port 57775:11:  [preauth]
+Aug  8 22:18:48 potentpwnables sshd[13249]: Disconnected from 115.238.245.8 port 57775 [preauth]
+Aug  8 22:19:11 potentpwnables sshd[13255]: Received disconnect from 121.18.238.123 port 35908:11:  [preauth]
+Aug  8 22:19:11 potentpwnables sshd[13255]: Disconnected from 121.18.238.123 port 35908 [preauth]
+Aug  8 22:19:19 potentpwnables sshd[13258]: Received disconnect from 221.194.44.211 port 39166:11:  [preauth]
+Aug  8 22:19:19 potentpwnables sshd[13258]: Disconnected from 221.194.44.211 port 39166 [preauth]
+Aug  8 22:19:33 potentpwnables sshd[13261]: Received disconnect from 121.18.238.115 port 34535:11:  [preauth]
+Aug  8 22:19:33 potentpwnables sshd[13261]: Disconnected from 121.18.238.115 port 34535 [preauth]
+Aug  8 22:20:56 potentpwnables sshd[13276]: Received disconnect from 221.194.47.233 port 38695:11:  [preauth]
+Aug  8 22:20:56 potentpwnables sshd[13276]: Disconnected from 221.194.47.233 port 38695 [preauth]
+Aug  8 22:21:25 potentpwnables sshd[13283]: Received disconnect from 121.18.238.115 port 48528:11:  [preauth]
+Aug  8 22:21:25 potentpwnables sshd[13283]: Disconnected from 121.18.238.115 port 48528 [preauth]
+Aug  8 22:21:59 potentpwnables sshd[13290]: Received disconnect from 121.18.238.123 port 60106:11:  [preauth]
+Aug  8 22:21:59 potentpwnables sshd[13290]: Disconnected from 121.18.238.123 port 60106 [preauth]
+Aug  8 22:22:21 potentpwnables sshd[13293]: Received disconnect from 115.238.245.14 port 51784:11:  [preauth]
+Aug  8 22:22:21 potentpwnables sshd[13293]: Disconnected from 115.238.245.14 port 51784 [preauth]
+Aug  8 22:22:58 potentpwnables sshd[13326]: Received disconnect from 221.194.47.233 port 60724:11:  [preauth]
+Aug  8 22:22:58 potentpwnables sshd[13326]: Disconnected from 221.194.47.233 port 60724 [preauth]
+Aug  8 22:23:09 potentpwnables sshd[13331]: Received disconnect from 115.238.245.8 port 36185:11:  [preauth]
+Aug  8 22:23:09 potentpwnables sshd[13331]: Disconnected from 115.238.245.8 port 36185 [preauth]
+Aug  8 22:23:35 potentpwnables sshd[13361]: Received disconnect from 115.238.245.4 port 52082:11:  [preauth]
+Aug  8 22:23:35 potentpwnables sshd[13361]: Disconnected from 115.238.245.4 port 52082 [preauth]
+Aug  8 22:25:01 potentpwnables CRON[13396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 22:25:01 potentpwnables CRON[13396]: pam_unix(cron:session): session closed for user root
+Aug  8 22:25:05 potentpwnables sshd[13399]: Received disconnect from 221.194.47.233 port 42165:11:  [preauth]
+Aug  8 22:25:05 potentpwnables sshd[13399]: Disconnected from 221.194.47.233 port 42165 [preauth]
+Aug  8 22:26:44 potentpwnables sshd[13445]: Received disconnect from 115.238.245.8 port 54499:11:  [preauth]
+Aug  8 22:26:44 potentpwnables sshd[13445]: Disconnected from 115.238.245.8 port 54499 [preauth]
+Aug  8 22:26:56 potentpwnables sshd[13455]: Received disconnect from 221.194.47.239 port 43119:11:  [preauth]
+Aug  8 22:26:56 potentpwnables sshd[13455]: Disconnected from 221.194.47.239 port 43119 [preauth]
+Aug  8 22:28:33 potentpwnables sshd[13513]: Received disconnect from 221.194.47.205 port 42384:11:  [preauth]
+Aug  8 22:28:33 potentpwnables sshd[13513]: Disconnected from 221.194.47.205 port 42384 [preauth]
+Aug  8 22:28:53 potentpwnables sshd[13523]: Received disconnect from 121.18.238.123 port 42416:11:  [preauth]
+Aug  8 22:28:53 potentpwnables sshd[13523]: Disconnected from 121.18.238.123 port 42416 [preauth]
+Aug  8 22:29:45 potentpwnables sudo: potentpwnables : TTY=pts/11 ; PWD=/home/potentpwnables/Projects/misec_talk/data ; USER=root ; COMMAND=/usr/bin/wget https://raw.github.com/pandas-dev/pandas/master/pandas/tests/data/tips.csv -O tips.csv
+Aug  8 22:29:45 potentpwnables sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  8 22:29:46 potentpwnables sudo: pam_unix(sudo:session): session closed for user root
+Aug  8 22:32:21 potentpwnables sshd[13614]: Received disconnect from 115.238.245.8 port 45475:11:  [preauth]
+Aug  8 22:32:21 potentpwnables sshd[13614]: Disconnected from 115.238.245.8 port 45475 [preauth]
+Aug  8 22:34:03 potentpwnables sshd[13754]: Received disconnect from 115.238.245.4 port 42812:11:  [preauth]
+Aug  8 22:34:03 potentpwnables sshd[13754]: Disconnected from 115.238.245.4 port 42812 [preauth]
+Aug  8 22:34:11 potentpwnables sshd[13756]: Received disconnect from 221.194.44.232 port 54055:11:  [preauth]
+Aug  8 22:34:11 potentpwnables sshd[13756]: Disconnected from 221.194.44.232 port 54055 [preauth]
+Aug  8 22:34:30 potentpwnables sshd[13770]: Received disconnect from 122.226.181.166 port 47046:11:  [preauth]
+Aug  8 22:34:30 potentpwnables sshd[13770]: Disconnected from 122.226.181.166 port 47046 [preauth]
+Aug  8 22:34:57 potentpwnables sshd[13779]: Connection closed by 183.131.83.50 port 1173 [preauth]
+Aug  8 22:35:01 potentpwnables CRON[13781]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 22:35:01 potentpwnables CRON[13781]: pam_unix(cron:session): session closed for user root
+Aug  8 22:36:28 potentpwnables sshd[13818]: Received disconnect from 221.194.44.232 port 40557:11:  [preauth]
+Aug  8 22:36:28 potentpwnables sshd[13818]: Disconnected from 221.194.44.232 port 40557 [preauth]
+Aug  8 22:39:56 potentpwnables sshd[14007]: Received disconnect from 122.226.181.164 port 44658:11:  [preauth]
+Aug  8 22:39:56 potentpwnables sshd[14007]: Disconnected from 122.226.181.164 port 44658 [preauth]
+Aug  8 22:44:55 potentpwnables sshd[14227]: Received disconnect from 115.238.245.4 port 45415:11:  [preauth]
+Aug  8 22:44:55 potentpwnables sshd[14227]: Disconnected from 115.238.245.4 port 45415 [preauth]
+Aug  8 22:45:01 potentpwnables CRON[14230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 22:45:01 potentpwnables CRON[14230]: pam_unix(cron:session): session closed for user root
+Aug  8 22:45:17 potentpwnables sshd[14238]: Received disconnect from 121.18.238.115 port 37774:11:  [preauth]
+Aug  8 22:45:17 potentpwnables sshd[14238]: Disconnected from 121.18.238.115 port 37774 [preauth]
+Aug  8 22:55:01 potentpwnables CRON[14516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 22:55:01 potentpwnables CRON[14516]: pam_unix(cron:session): session closed for user root
+Aug  8 22:55:55 potentpwnables sshd[14530]: Received disconnect from 221.194.47.205 port 56640:11:  [preauth]
+Aug  8 22:55:55 potentpwnables sshd[14530]: Disconnected from 221.194.47.205 port 56640 [preauth]
+Aug  8 22:59:52 potentpwnables sshd[14681]: Received disconnect from 221.194.47.233 port 49240:11:  [preauth]
+Aug  8 22:59:52 potentpwnables sshd[14681]: Disconnected from 221.194.47.233 port 49240 [preauth]
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: New seat seat0.
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: Watching system buttons on /dev/input/event3 (Power Button)
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: Watching system buttons on /dev/input/event6 (Video Bus)
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: Watching system buttons on /dev/input/event7 (Video Bus)
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: Watching system buttons on /dev/input/event1 (Power Button)
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: Watching system buttons on /dev/input/event2 (Sleep Button)
+Aug  8 23:05:44 potentpwnables systemd-logind[1110]: Watching system buttons on /dev/input/event11 (Dell WMI hotkeys)
+Aug  8 23:05:46 potentpwnables sshd[1244]: Server listening on 0.0.0.0 port 22.
+Aug  8 23:05:46 potentpwnables sshd[1244]: Server listening on :: port 22.
+Aug  8 23:05:49 potentpwnables lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Aug  8 23:05:49 potentpwnables lightdm: PAM adding faulty module: pam_kwallet.so
+Aug  8 23:05:49 potentpwnables lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Aug  8 23:05:49 potentpwnables lightdm: PAM adding faulty module: pam_kwallet5.so
+Aug  8 23:05:49 potentpwnables lightdm: pam_unix(lightdm-greeter:session): session opened for user lightdm by (uid=0)
+Aug  8 23:05:49 potentpwnables systemd-logind[1110]: New session c1 of user lightdm.
+Aug  8 23:05:49 potentpwnables systemd: pam_unix(systemd-user:session): session opened for user lightdm by (uid=0)
+Aug  8 23:05:51 potentpwnables lightdm: PAM unable to dlopen(pam_kwallet.so): /lib/security/pam_kwallet.so: cannot open shared object file: No such file or directory
+Aug  8 23:05:51 potentpwnables lightdm: PAM adding faulty module: pam_kwallet.so
+Aug  8 23:05:51 potentpwnables lightdm: PAM unable to dlopen(pam_kwallet5.so): /lib/security/pam_kwallet5.so: cannot open shared object file: No such file or directory
+Aug  8 23:05:51 potentpwnables lightdm: PAM adding faulty module: pam_kwallet5.so
+Aug  8 23:05:51 potentpwnables lightdm: pam_succeed_if(lightdm:auth): requirement "user ingroup nopasswdlogin" not met by user "potentpwnables"
+Aug  8 23:06:11 potentpwnables lightdm: pam_unix(lightdm-greeter:session): session closed for user lightdm
+Aug  8 23:06:11 potentpwnables lightdm: pam_unix(lightdm:session): session opened for user potentpwnables by (uid=0)
+Aug  8 23:06:11 potentpwnables systemd-logind[1110]: New session c2 of user potentpwnables.
+Aug  8 23:06:11 potentpwnables systemd: pam_unix(systemd-user:session): session opened for user potentpwnables by (uid=0)
+Aug  8 23:06:16 potentpwnables sshd[1244]: Received SIGHUP; restarting.
+Aug  8 23:06:16 potentpwnables sshd[1244]: Server listening on 0.0.0.0 port 22.
+Aug  8 23:06:16 potentpwnables sshd[1244]: Server listening on :: port 22.
+Aug  8 23:06:19 potentpwnables gnome-keyring-daemon[1570]: The SSH agent was already initialized
+Aug  8 23:06:19 potentpwnables gnome-keyring-daemon[1570]: The PKCS#11 component was already initialized
+Aug  8 23:06:19 potentpwnables gnome-keyring-daemon[1570]: The Secret Service was already initialized
+Aug  8 23:06:19 potentpwnables polkitd(authority=local): Registered Authentication Agent for unix-session:c2 (system bus name :1.70 [/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1], object path /org/gnome/PolicyKit1/AuthenticationAgent, locale en_US.UTF-8)
+Aug  8 23:06:48 potentpwnables dbus[1123]: [system] Failed to activate service 'org.freedesktop.fwupd': timed out
+Aug  8 23:07:25 potentpwnables pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Aug  8 23:07:25 potentpwnables pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Aug  8 23:07:25 potentpwnables pkexec[2434]: potentpwnables: Executing command [USER=root] [TTY=unknown] [CWD=/home/potentpwnables] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Aug  8 23:07:49 potentpwnables systemd-logind[1110]: Removed session c1.
+Aug  8 23:07:49 potentpwnables systemd: pam_unix(systemd-user:session): session closed for user lightdm
+Aug  8 23:09:23 potentpwnables gnome-keyring-daemon[1570]: asked to register item /org/freedesktop/secrets/collection/login/3, but it's already registered
+Aug  8 23:12:28 potentpwnables sshd[3266]: Received disconnect from 221.194.44.211 port 46396:11:  [preauth]
+Aug  8 23:12:28 potentpwnables sshd[3266]: Disconnected from 221.194.44.211 port 46396 [preauth]
+Aug  8 23:14:29 potentpwnables sshd[3280]: Received disconnect from 221.194.44.232 port 57520:11:  [preauth]
+Aug  8 23:14:29 potentpwnables sshd[3280]: Disconnected from 221.194.44.232 port 57520 [preauth]
+Aug  8 23:15:01 potentpwnables CRON[3295]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 23:15:01 potentpwnables CRON[3295]: pam_unix(cron:session): session closed for user root
+Aug  8 23:17:01 potentpwnables CRON[3333]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 23:17:01 potentpwnables CRON[3333]: pam_unix(cron:session): session closed for user root
+Aug  8 23:18:17 potentpwnables sshd[3346]: Received disconnect from 122.226.181.164 port 38512:11:  [preauth]
+Aug  8 23:18:17 potentpwnables sshd[3346]: Disconnected from 122.226.181.164 port 38512 [preauth]
+Aug  8 23:25:01 potentpwnables CRON[3409]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 23:25:01 potentpwnables CRON[3409]: pam_unix(cron:session): session closed for user root
+Aug  8 23:32:51 potentpwnables sshd[3579]: Received disconnect from 221.194.47.239 port 33094:11:  [preauth]
+Aug  8 23:32:51 potentpwnables sshd[3579]: Disconnected from 221.194.47.239 port 33094 [preauth]
+Aug  8 23:35:01 potentpwnables CRON[3629]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 23:35:01 potentpwnables CRON[3629]: pam_unix(cron:session): session closed for user root
+Aug  8 23:45:01 potentpwnables CRON[3833]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 23:45:01 potentpwnables CRON[3833]: pam_unix(cron:session): session closed for user root
+Aug  8 23:55:01 potentpwnables CRON[4047]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 23:55:01 potentpwnables CRON[4047]: pam_unix(cron:session): session closed for user root
+Aug  8 23:59:01 potentpwnables CRON[4231]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  8 23:59:01 potentpwnables CRON[4231]: pam_unix(cron:session): session closed for user root
+Aug  9 00:01:04 potentpwnables sshd[4336]: Connection closed by 122.226.181.167 port 37694 [preauth]
+Aug  9 00:01:21 potentpwnables sshd[4341]: Received disconnect from 221.194.47.239 port 34320:11:  [preauth]
+Aug  9 00:01:21 potentpwnables sshd[4341]: Disconnected from 221.194.47.239 port 34320 [preauth]
+Aug  9 00:01:55 potentpwnables sshd[4345]: Received disconnect from 121.18.238.123 port 55955:11:  [preauth]
+Aug  9 00:01:55 potentpwnables sshd[4345]: Disconnected from 121.18.238.123 port 55955 [preauth]
+Aug  9 00:04:31 potentpwnables sshd[4450]: Received disconnect from 122.226.181.165 port 40886:11:  [preauth]
+Aug  9 00:04:31 potentpwnables sshd[4450]: Disconnected from 122.226.181.165 port 40886 [preauth]
+Aug  9 00:04:55 potentpwnables sshd[4452]: Received disconnect from 115.238.245.8 port 48846:11:  [preauth]
+Aug  9 00:04:55 potentpwnables sshd[4452]: Disconnected from 115.238.245.8 port 48846 [preauth]
+Aug  9 00:05:01 potentpwnables CRON[4455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 00:05:01 potentpwnables CRON[4455]: pam_unix(cron:session): session closed for user root
+Aug  9 00:15:01 potentpwnables CRON[4874]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 00:15:01 potentpwnables CRON[4874]: pam_unix(cron:session): session closed for user root
+Aug  9 00:17:01 potentpwnables CRON[4908]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 00:17:01 potentpwnables CRON[4908]: pam_unix(cron:session): session closed for user root
+Aug  9 00:20:38 potentpwnables sshd[5048]: Received disconnect from 122.226.181.165 port 53732:11:  [preauth]
+Aug  9 00:20:38 potentpwnables sshd[5048]: Disconnected from 122.226.181.165 port 53732 [preauth]
+Aug  9 00:25:01 potentpwnables CRON[5129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 00:25:01 potentpwnables CRON[5129]: pam_unix(cron:session): session closed for user root
+Aug  9 00:30:18 potentpwnables sshd[5918]: Received disconnect from 221.194.47.221 port 43207:11:  [preauth]
+Aug  9 00:30:18 potentpwnables sshd[5918]: Disconnected from 221.194.47.221 port 43207 [preauth]
+Aug  9 00:35:01 potentpwnables CRON[6029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 00:35:01 potentpwnables CRON[6029]: pam_unix(cron:session): session closed for user root
+Aug  9 00:35:30 potentpwnables sshd[6038]: Invalid user admin from 49.51.82.246
+Aug  9 00:35:30 potentpwnables sshd[6038]: input_userauth_request: invalid user admin [preauth]
+Aug  9 00:35:30 potentpwnables sshd[6038]: Received disconnect from 49.51.82.246 port 41356:11: disconnected by user [preauth]
+Aug  9 00:35:30 potentpwnables sshd[6038]: Disconnected from 49.51.82.246 port 41356 [preauth]
+Aug  9 00:39:45 potentpwnables sshd[6156]: Received disconnect from 221.194.47.236 port 52650:11:  [preauth]
+Aug  9 00:39:45 potentpwnables sshd[6156]: Disconnected from 221.194.47.236 port 52650 [preauth]
+Aug  9 00:45:01 potentpwnables CRON[6301]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 00:45:01 potentpwnables CRON[6301]: pam_unix(cron:session): session closed for user root
+Aug  9 00:49:56 potentpwnables pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Aug  9 00:49:56 potentpwnables pkexec: pam_systemd(polkit-1:session): Cannot create session: Already running in a session
+Aug  9 00:49:56 potentpwnables pkexec[6442]: potentpwnables: Executing command [USER=root] [TTY=unknown] [CWD=/home/potentpwnables] [COMMAND=/usr/lib/unity-settings-daemon/usd-backlight-helper --set-brightness 4800]
+Aug  9 00:55:01 potentpwnables CRON[6678]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 00:55:01 potentpwnables CRON[6678]: pam_unix(cron:session): session closed for user root
+Aug  9 01:05:01 potentpwnables CRON[7010]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 01:05:01 potentpwnables CRON[7010]: pam_unix(cron:session): session closed for user root
+Aug  9 01:09:56 potentpwnables sshd[7168]: Received disconnect from 221.194.47.239 port 55318:11:  [preauth]
+Aug  9 01:09:56 potentpwnables sshd[7168]: Disconnected from 221.194.47.239 port 55318 [preauth]
+Aug  9 01:14:10 potentpwnables sshd[7289]: Received disconnect from 221.194.47.205 port 40156:11:  [preauth]
+Aug  9 01:14:10 potentpwnables sshd[7289]: Disconnected from 221.194.47.205 port 40156 [preauth]
+Aug  9 01:15:01 potentpwnables CRON[7299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 01:15:01 potentpwnables CRON[7299]: pam_unix(cron:session): session closed for user root
+Aug  9 01:17:01 potentpwnables CRON[7400]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 01:17:01 potentpwnables CRON[7400]: pam_unix(cron:session): session closed for user root
+Aug  9 01:22:47 potentpwnables sshd[7541]: Received disconnect from 122.226.181.165 port 43810:11:  [preauth]
+Aug  9 01:22:47 potentpwnables sshd[7541]: Disconnected from 122.226.181.165 port 43810 [preauth]
+Aug  9 01:25:01 potentpwnables CRON[7624]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 01:25:01 potentpwnables CRON[7624]: pam_unix(cron:session): session closed for user root
+Aug  9 01:35:01 potentpwnables CRON[7757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 01:35:01 potentpwnables CRON[7757]: pam_unix(cron:session): session closed for user root
+Aug  9 01:45:01 potentpwnables CRON[7936]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 01:45:01 potentpwnables CRON[7936]: pam_unix(cron:session): session closed for user root
+Aug  9 01:54:54 potentpwnables sudo: potentpwnables : TTY=pts/2 ; PWD=/home/potentpwnables/Projects/misec_talk/scripts ; USER=root ; COMMAND=/bin/chmod +x tidy_reuters.R
+Aug  9 01:54:54 potentpwnables sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  9 01:54:54 potentpwnables sudo: pam_unix(sudo:session): session closed for user root
+Aug  9 01:55:01 potentpwnables CRON[8073]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 01:55:01 potentpwnables CRON[8073]: pam_unix(cron:session): session closed for user root
+Aug  9 01:56:11 potentpwnables sshd[8120]: Received disconnect from 115.238.245.2 port 58660:11:  [preauth]
+Aug  9 01:56:11 potentpwnables sshd[8120]: Disconnected from 115.238.245.2 port 58660 [preauth]
+Aug  9 01:56:48 potentpwnables sshd[8140]: Received disconnect from 115.238.245.4 port 59726:11:  [preauth]
+Aug  9 01:56:48 potentpwnables sshd[8140]: Disconnected from 115.238.245.4 port 59726 [preauth]
+Aug  9 01:59:18 potentpwnables sshd[8190]: Received disconnect from 122.226.181.166 port 41380:11:  [preauth]
+Aug  9 01:59:18 potentpwnables sshd[8190]: Disconnected from 122.226.181.166 port 41380 [preauth]
+Aug  9 02:05:01 potentpwnables CRON[8482]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 02:05:01 potentpwnables CRON[8482]: pam_unix(cron:session): session closed for user root
+Aug  9 02:13:32 potentpwnables sshd[8612]: Received disconnect from 122.226.181.164 port 44478:11:  [preauth]
+Aug  9 02:13:32 potentpwnables sshd[8612]: Disconnected from 122.226.181.164 port 44478 [preauth]
+Aug  9 02:15:01 potentpwnables CRON[8695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 02:15:01 potentpwnables CRON[8695]: pam_unix(cron:session): session closed for user root
+Aug  9 02:17:01 potentpwnables CRON[8800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 02:17:01 potentpwnables CRON[8800]: pam_unix(cron:session): session closed for user root
+Aug  9 02:18:10 potentpwnables sshd[8818]: Received disconnect from 221.194.47.239 port 34792:11:  [preauth]
+Aug  9 02:18:10 potentpwnables sshd[8818]: Disconnected from 221.194.47.239 port 34792 [preauth]
+Aug  9 02:22:19 potentpwnables sshd[8961]: Connection closed by 112.23.0.33 port 39965 [preauth]
+Aug  9 02:22:23 potentpwnables sshd[9049]: Invalid user admin from 177.125.23.14
+Aug  9 02:22:23 potentpwnables sshd[9049]: input_userauth_request: invalid user admin [preauth]
+Aug  9 02:22:23 potentpwnables sshd[9049]: Connection closed by 177.125.23.14 port 49618 [preauth]
+Aug  9 02:22:29 potentpwnables sshd[9051]: Invalid user admin from 171.228.26.164
+Aug  9 02:22:29 potentpwnables sshd[9051]: input_userauth_request: invalid user admin [preauth]
+Aug  9 02:22:31 potentpwnables sshd[9051]: Connection closed by 171.228.26.164 port 52413 [preauth]
+Aug  9 02:23:32 potentpwnables sshd[9076]: Received disconnect from 221.194.44.211 port 45984:11:  [preauth]
+Aug  9 02:23:32 potentpwnables sshd[9076]: Disconnected from 221.194.44.211 port 45984 [preauth]
+Aug  9 02:25:01 potentpwnables CRON[9153]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 02:25:01 potentpwnables CRON[9153]: pam_unix(cron:session): session closed for user root
+Aug  9 02:31:26 potentpwnables sshd[9347]: Received disconnect from 221.194.44.232 port 46090:11:  [preauth]
+Aug  9 02:31:26 potentpwnables sshd[9347]: Disconnected from 221.194.44.232 port 46090 [preauth]
+Aug  9 02:35:01 potentpwnables CRON[9371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  9 02:35:01 potentpwnables CRON[9371]: pam_unix(cron:session): session closed for user root

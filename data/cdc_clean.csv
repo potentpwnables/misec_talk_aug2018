@@ -1,0 +1,2227 @@
+state,survey_type,total_kindergarten_population,percent_surveyed,target,footnotes,year,percent_vaccinated,vaccination
+Alabama,Census,75358,100.0,95.0,≥. *. **,2009_10,94.0,1 dose Varicella Vaccination (unknown disease history)
+Alabama,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alabama,Census,73190,100.0,95.0,≥. * .**,2011_12,93.6,1 dose Varicella Vaccination (unknown disease history)
+Alabama,Census,72929,100.0,95.0,≥. * . ‡. **,2012_13,92.8,1 dose Varicella Vaccination (unknown disease history)
+Alabama,Census,76927,100.0,95.0,≥. *. **,2013_14,92.0,1 dose Varicella Vaccination (unknown disease history)
+Alabama,Census,59660,100.0,95.0,≥. *,2014_15,93.5,1 dose Varicella Vaccination (unknown disease history)
+Alabama,Census,60392,100.0,95.0,≥.*,2015_16,93.1,1 dose Varicella Vaccination (unknown disease history)
+Alabama,Census,75358,100.0,95.0,*. **,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Alabama,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Alabama,Census,73190,100.0,95.0,* .**,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Alabama,Census,72929,100.0,95.0,* . ‡. **,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Alabama,Census,76927,100.0,95.0,*. **,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Alabama,Census,59660,100.0,95.0,*,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Alabama,Census,60392,100.0,95.0,≥.*,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+Alabama,Census,75358,100.0,95.0,≥. *. **,2009_10,94.0,DTP/DTaP/DT Vaccination
+Alabama,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Alabama,Census,73190,100.0,95.0,≥. * .**,2011_12,93.6,DTP/DTaP/DT Vaccination
+Alabama,Census,72929,100.0,95.0,≥. * . ‡. **,2012_13,92.8,DTP/DTaP/DT Vaccination
+Alabama,Census,76927,100.0,95.0,≥. *. **,2013_14,92.0,DTP/DTaP/DT Vaccination
+Alabama,Census,59660,100.0,95.0,≥. *,2014_15,93.5,DTP/DTaP/DT Vaccination
+Alabama,Census,60392,100.0,95.0,≥.*,2015_16,93.1,DTP/DTaP/DT Vaccination
+Alabama,Census,75358,100.0,95.0,*. **,2009_10,NReq,Hepatitis B Vaccination
+Alabama,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Alabama,Census,73190,100.0,95.0,* .**,2011_12,NReq,Hepatitis B Vaccination
+Alabama,Census,72929,100.0,95.0,* . ‡. **,2012_13,NReq,Hepatitis B Vaccination
+Alabama,Census,76927,100.0,95.0,*. **,2013_14,NReq,Hepatitis B Vaccination
+Alabama,Census,59660,100.0,95.0,*,2014_15,NReq,Hepatitis B Vaccination
+Alabama,Census,60392,100.0,95.0,≥.*,2015_16,NReq,Hepatitis B Vaccination
+Alabama,Census,75358,100.0,95.0,≥. *. **,2009_10,94.0,MMR Vaccination
+Alabama,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Alabama,Census,73190,100.0,95.0,≥. * .**,2011_12,93.6,MMR Vaccination
+Alabama,Census,72929,100.0,95.0,≥. * . ‡. **,2012_13,92.8,MMR Vaccination
+Alabama,Census,76927,100.0,95.0,≥. *. **,2013_14,92.0,MMR Vaccination
+Alabama,Census,59660,100.0,95.0,≥. *,2014_15,93.5,MMR Vaccination
+Alabama,Census,60392,100.0,95.0,≥.*,2015_16,93.1,MMR Vaccination
+Alabama,Census,75358,100.0,95.0,≥. *. **,2009_10,94.0,Polio Vaccination
+Alabama,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Alabama,Census,73190,100.0,95.0,≥. * .**,2011_12,93.6,Polio Vaccination
+Alabama,Census,72929,100.0,95.0,≥. * . ‡. **,2012_13,92.8,Polio Vaccination
+Alabama,Census,76927,100.0,95.0,≥. *. **,2013_14,92.0,Polio Vaccination
+Alabama,Census,59660,100.0,95.0,≥. *,2014_15,93.5,Polio Vaccination
+Alabama,Census,60392,100.0,95.0,≥.*,2015_16,93.1,Polio Vaccination
+Alaska,Voluntary response,9641,76.4,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alaska,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alaska,Non-random Cluster Sample,10286,7.3,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alaska,Census,10319,97.8,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alaska,Stratified  2-stage cluster sample,10222,9.3,95.0,†,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alaska,Stratified 2-stage cluster sample,10129,7.8,95.0,†,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alaska,Stratified 2-stage cluster sample,9937,7.8,95.0,†.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Alaska,Voluntary response,9641,76.4,95.0,NaN,2009_10,"NA",2 doses Varicella Vaccination (unknown disease history)
+Alaska,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Alaska,Non-random Cluster Sample,10286,7.3,95.0,NaN,2011_12,"NA",2 doses Varicella Vaccination (unknown disease history)
+Alaska,Census,10319,97.8,95.0,NaN,2012_13,"NA",2 doses Varicella Vaccination (unknown disease history)
+Alaska,Stratified  2-stage cluster sample,10222,9.3,95.0,†,2013_14,92.5,2 doses Varicella Vaccination (unknown disease history)
+Alaska,Stratified 2-stage cluster sample,10129,7.8,95.0,†,2014_15,91.6,2 doses Varicella Vaccination (unknown disease history)
+Alaska,Stratified 2-stage cluster sample,9937,7.8,95.0,†.§,2015_16,92.6,2 doses Varicella Vaccination (unknown disease history)
+Alaska,Voluntary response,9641,76.4,95.0,NaN,2009_10,"NA",DTP/DTaP/DT Vaccination
+Alaska,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Alaska,Non-random Cluster Sample,10286,7.3,95.0,NaN,2011_12,"NA",DTP/DTaP/DT Vaccination
+Alaska,Census,10319,97.8,95.0,NaN,2012_13,"NA",DTP/DTaP/DT Vaccination
+Alaska,Stratified  2-stage cluster sample,10222,9.3,95.0,†,2013_14,96.0,DTP/DTaP/DT Vaccination
+Alaska,Stratified 2-stage cluster sample,10129,7.8,95.0,†,2014_15,92.7,DTP/DTaP/DT Vaccination
+Alaska,Stratified 2-stage cluster sample,9937,7.8,95.0,†.§,2015_16,92.8,DTP/DTaP/DT Vaccination
+Alaska,Voluntary response,9641,76.4,95.0,NaN,2009_10,"NA",Hepatitis B Vaccination
+Alaska,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Alaska,Non-random Cluster Sample,10286,7.3,95.0,NaN,2011_12,"NA",Hepatitis B Vaccination
+Alaska,Census,10319,97.8,95.0,NaN,2012_13,"NA",Hepatitis B Vaccination
+Alaska,Stratified  2-stage cluster sample,10222,9.3,95.0,†,2013_14,97.2,Hepatitis B Vaccination
+Alaska,Stratified 2-stage cluster sample,10129,7.8,95.0,†,2014_15,94.5,Hepatitis B Vaccination
+Alaska,Stratified 2-stage cluster sample,9937,7.8,95.0,†.§,2015_16,95.2,Hepatitis B Vaccination
+Alaska,Voluntary response,9641,76.4,95.0,NaN,2009_10,"NA",MMR Vaccination
+Alaska,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Alaska,Non-random Cluster Sample,10286,7.3,95.0,NaN,2011_12,"NA",MMR Vaccination
+Alaska,Census,10319,97.8,95.0,NaN,2012_13,"NA",MMR Vaccination
+Alaska,Stratified  2-stage cluster sample,10222,9.3,95.0,†,2013_14,94.4,MMR Vaccination
+Alaska,Stratified 2-stage cluster sample,10129,7.8,95.0,†,2014_15,92.7,MMR Vaccination
+Alaska,Stratified 2-stage cluster sample,9937,7.8,95.0,†.§,2015_16,93.5,MMR Vaccination
+Alaska,Voluntary response,9641,76.4,95.0,NaN,2009_10,"NA",Polio Vaccination
+Alaska,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Alaska,Non-random Cluster Sample,10286,7.3,95.0,NaN,2011_12,"NA",Polio Vaccination
+Alaska,Census,10319,97.8,95.0,NaN,2012_13,"NA",Polio Vaccination
+Alaska,Stratified  2-stage cluster sample,10222,9.3,95.0,†,2013_14,97.2,Polio Vaccination
+Alaska,Stratified 2-stage cluster sample,10129,7.8,95.0,†,2014_15,94.8,Polio Vaccination
+Alaska,Stratified 2-stage cluster sample,9937,7.8,95.0,†.§,2015_16,95.2,Polio Vaccination
+Arizona,Census,89287,93.9,95.0,NaN,2009_10,97.5,1 dose Varicella Vaccination (unknown disease history)
+Arizona,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Arizona,Census,88293,96.9,95.0,NaN,2011_12,96.9,1 dose Varicella Vaccination (unknown disease history)
+Arizona,Census,90054,97.6,95.0,NaN,2012_13,96.8,1 dose Varicella Vaccination (unknown disease history)
+Arizona,Census,89606,95.8,95.0,NaN,2013_14,96.4,1 dose Varicella Vaccination (unknown disease history)
+Arizona,Census,86153,98.3,95.0,NaN,2014_15,96.6,1 dose Varicella Vaccination (unknown disease history)
+Arizona,Census,83088,100.0,95.0,*,2015_16,96.7,1 dose Varicella Vaccination (unknown disease history)
+Arizona,Census,89287,93.9,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Arizona,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Arizona,Census,88293,96.9,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Arizona,Census,90054,97.6,95.0,NaN,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Arizona,Census,89606,95.8,95.0,NaN,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Arizona,Census,86153,98.3,95.0,NaN,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Arizona,Census,83088,100.0,95.0,*,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+Arizona,Census,89287,93.9,95.0,NaN,2009_10,95.0,DTP/DTaP/DT Vaccination
+Arizona,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Arizona,Census,88293,96.9,95.0,NaN,2011_12,94.9,DTP/DTaP/DT Vaccination
+Arizona,Census,90054,97.6,95.0,NaN,2012_13,94.6,DTP/DTaP/DT Vaccination
+Arizona,Census,89606,95.8,95.0,NaN,2013_14,94.3,DTP/DTaP/DT Vaccination
+Arizona,Census,86153,98.3,95.0,NaN,2014_15,94.3,DTP/DTaP/DT Vaccination
+Arizona,Census,83088,100.0,95.0,*,2015_16,94.2,DTP/DTaP/DT Vaccination
+Arizona,Census,89287,93.9,95.0,NaN,2009_10,96.8,Hepatitis B Vaccination
+Arizona,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Arizona,Census,88293,96.9,95.0,NaN,2011_12,96.3,Hepatitis B Vaccination
+Arizona,Census,90054,97.6,95.0,NaN,2012_13,95.9,Hepatitis B Vaccination
+Arizona,Census,89606,95.8,95.0,NaN,2013_14,95.9,Hepatitis B Vaccination
+Arizona,Census,86153,98.3,95.0,NaN,2014_15,95.7,Hepatitis B Vaccination
+Arizona,Census,83088,100.0,95.0,*,2015_16,95.5,Hepatitis B Vaccination
+Arizona,Census,89287,93.9,95.0,NaN,2009_10,95.0,MMR Vaccination
+Arizona,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Arizona,Census,88293,96.9,95.0,NaN,2011_12,94.7,MMR Vaccination
+Arizona,Census,90054,97.6,95.0,NaN,2012_13,94.5,MMR Vaccination
+Arizona,Census,89606,95.8,95.0,NaN,2013_14,93.9,MMR Vaccination
+Arizona,Census,86153,98.3,95.0,NaN,2014_15,94.2,MMR Vaccination
+Arizona,Census,83088,100.0,95.0,*,2015_16,94.2,MMR Vaccination
+Arizona,Census,89287,93.9,95.0,NaN,2009_10,95.5,Polio Vaccination
+Arizona,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Arizona,Census,88293,96.9,95.0,NaN,2011_12,94.9,Polio Vaccination
+Arizona,Census,90054,97.6,95.0,NaN,2012_13,94.7,Polio Vaccination
+Arizona,Census,89606,95.8,95.0,NaN,2013_14,94.7,Polio Vaccination
+Arizona,Census,86153,98.3,95.0,NaN,2014_15,94.7,Polio Vaccination
+Arizona,Census,83088,100.0,95.0,*,2015_16,94.6,Polio Vaccination
+Arkansas,Census,34733,100.0,95.0,*,2009_10,98.3,1 dose Varicella Vaccination (unknown disease history)
+Arkansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Arkansas,Census,38754,92.2,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Arkansas,Census,43212,96.3,95.0,‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Arkansas,Census,42649,96.3,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Arkansas,Census (public); Voluntary response (private),41252,95.9,95.0,‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Arkansas,Census (public); Voluntary response (private),40258,95.6,95.0,‡,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Arkansas,Census,34733,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Arkansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Arkansas,Census,38754,92.2,95.0,NaN,2011_12,95.4,2 doses Varicella Vaccination (unknown disease history)
+Arkansas,Census,43212,96.3,95.0,‡,2012_13,84.8,2 doses Varicella Vaccination (unknown disease history)
+Arkansas,Census,42649,96.3,95.0,NaN,2013_14,85.4,2 doses Varicella Vaccination (unknown disease history)
+Arkansas,Census (public); Voluntary response (private),41252,95.9,95.0,‡,2014_15,88.0,2 doses Varicella Vaccination (unknown disease history)
+Arkansas,Census (public); Voluntary response (private),40258,95.6,95.0,‡,2015_16,90.6,2 doses Varicella Vaccination (unknown disease history)
+Arkansas,Census,34733,100.0,95.0,*,2009_10,97.5,DTP/DTaP/DT Vaccination
+Arkansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Arkansas,Census,38754,92.2,95.0,NaN,2011_12,84.1,DTP/DTaP/DT Vaccination
+Arkansas,Census,43212,96.3,95.0,‡,2012_13,82.9,DTP/DTaP/DT Vaccination
+Arkansas,Census,42649,96.3,95.0,NaN,2013_14,83.3,DTP/DTaP/DT Vaccination
+Arkansas,Census (public); Voluntary response (private),41252,95.9,95.0,‡,2014_15,85.6,DTP/DTaP/DT Vaccination
+Arkansas,Census (public); Voluntary response (private),40258,95.6,95.0,‡,2015_16,88.2,DTP/DTaP/DT Vaccination
+Arkansas,Census,34733,100.0,95.0,*,2009_10,98.5,Hepatitis B Vaccination
+Arkansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Arkansas,Census,38754,92.2,95.0,NaN,2011_12,98.1,Hepatitis B Vaccination
+Arkansas,Census,43212,96.3,95.0,‡,2012_13,87.4,Hepatitis B Vaccination
+Arkansas,Census,42649,96.3,95.0,NaN,2013_14,88.4,Hepatitis B Vaccination
+Arkansas,Census (public); Voluntary response (private),41252,95.9,95.0,‡,2014_15,90.2,Hepatitis B Vaccination
+Arkansas,Census (public); Voluntary response (private),40258,95.6,95.0,‡,2015_16,92.4,Hepatitis B Vaccination
+Arkansas,Census,34733,100.0,95.0,*,2009_10,98.3,MMR Vaccination
+Arkansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Arkansas,Census,38754,92.2,95.0,NaN,2011_12,94.9,MMR Vaccination
+Arkansas,Census,43212,96.3,95.0,‡,2012_13,85.9,MMR Vaccination
+Arkansas,Census,42649,96.3,95.0,NaN,2013_14,86.5,MMR Vaccination
+Arkansas,Census (public); Voluntary response (private),41252,95.9,95.0,‡,2014_15,88.4,MMR Vaccination
+Arkansas,Census (public); Voluntary response (private),40258,95.6,95.0,‡,2015_16,90.8,MMR Vaccination
+Arkansas,Census,34733,100.0,95.0,*,2009_10,98.0,Polio Vaccination
+Arkansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Arkansas,Census,38754,92.2,95.0,NaN,2011_12,84.3,Polio Vaccination
+Arkansas,Census,43212,96.3,95.0,‡,2012_13,81.1,Polio Vaccination
+Arkansas,Census,42649,96.3,95.0,NaN,2013_14,80.2,Polio Vaccination
+Arkansas,Census (public); Voluntary response (private),41252,95.9,95.0,‡,2014_15,84.5,Polio Vaccination
+Arkansas,Census (public); Voluntary response (private),40258,95.6,95.0,‡,2015_16,88.1,Polio Vaccination
+California,Census,507191,100.0,95.0,*,2009_10,96.6,1 dose Varicella Vaccination (unknown disease history)
+California,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+California,Census,542544,97.6,95.0,NaN,2011_12,96.1,1 dose Varicella Vaccination (unknown disease history)
+California,Census,535523,99.0,95.0,‡,2012_13,95.6,1 dose Varicella Vaccination (unknown disease history)
+California,Census,548606,97.3,95.0,‡,2013_14,95.3,1 dose Varicella Vaccination (unknown disease history)
+California,Census,552583,96.9,95.0,‡,2014_15,95.5,1 dose Varicella Vaccination (unknown disease history)
+California,Census,593788,92.8,95.0,‡,2015_16,96.3,1 dose Varicella Vaccination (unknown disease history)
+California,Census,507191,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+California,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+California,Census,542544,97.6,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+California,Census,535523,99.0,95.0,‡,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+California,Census,548606,97.3,95.0,‡,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+California,Census,552583,96.9,95.0,‡,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+California,Census,593788,92.8,95.0,‡,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+California,Census,507191,100.0,95.0,*,2009_10,93.1,DTP/DTaP/DT Vaccination
+California,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+California,Census,542544,97.6,95.0,NaN,2011_12,93.0,DTP/DTaP/DT Vaccination
+California,Census,535523,99.0,95.0,‡,2012_13,92.5,DTP/DTaP/DT Vaccination
+California,Census,548606,97.3,95.0,‡,2013_14,92.2,DTP/DTaP/DT Vaccination
+California,Census,552583,96.9,95.0,‡,2014_15,92.4,DTP/DTaP/DT Vaccination
+California,Census,593788,92.8,95.0,‡,2015_16,94.2,DTP/DTaP/DT Vaccination
+California,Census,507191,100.0,95.0,*,2009_10,96.1,Hepatitis B Vaccination
+California,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+California,Census,542544,97.6,95.0,NaN,2011_12,95.7,Hepatitis B Vaccination
+California,Census,535523,99.0,95.0,‡,2012_13,95.2,Hepatitis B Vaccination
+California,Census,548606,97.3,95.0,‡,2013_14,94.8,Hepatitis B Vaccination
+California,Census,552583,96.9,95.0,‡,2014_15,94.9,Hepatitis B Vaccination
+California,Census,593788,92.8,95.0,‡,2015_16,95.8,Hepatitis B Vaccination
+California,Census,507191,100.0,95.0,*,2009_10,93.6,MMR Vaccination
+California,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+California,Census,542544,97.6,95.0,NaN,2011_12,93.2,MMR Vaccination
+California,Census,535523,99.0,95.0,‡,2012_13,92.7,MMR Vaccination
+California,Census,548606,97.3,95.0,‡,2013_14,92.3,MMR Vaccination
+California,Census,552583,96.9,95.0,‡,2014_15,92.6,MMR Vaccination
+California,Census,593788,92.8,95.0,‡,2015_16,94.5,MMR Vaccination
+California,Census,507191,100.0,95.0,*,2009_10,93.6,Polio Vaccination
+California,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+California,Census,542544,97.6,95.0,NaN,2011_12,93.2,Polio Vaccination
+California,Census,535523,99.0,95.0,‡,2012_13,92.6,Polio Vaccination
+California,Census,548606,97.3,95.0,‡,2013_14,92.6,Polio Vaccination
+California,Census,552583,96.9,95.0,‡,2014_15,93.0,Polio Vaccination
+California,Census,593788,92.8,95.0,‡,2015_16,94.7,Polio Vaccination
+Colorado,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Colorado,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Colorado,Simple Random Sample,70142,0.5,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Colorado,Simple Random Sample,70657,0.5,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Colorado,Random Sample,69904,0.5,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Colorado,Simple random sample,70597,0.5,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Colorado,Simple random sample,69137,0.5,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Colorado,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",2 doses Varicella Vaccination (unknown disease history)
+Colorado,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Colorado,Simple Random Sample,70142,0.5,95.0,NaN,2011_12,84.0,2 doses Varicella Vaccination (unknown disease history)
+Colorado,Simple Random Sample,70657,0.5,95.0,NaN,2012_13,84.6,2 doses Varicella Vaccination (unknown disease history)
+Colorado,Random Sample,69904,0.5,95.0,NaN,2013_14,81.7,2 doses Varicella Vaccination (unknown disease history)
+Colorado,Simple random sample,70597,0.5,95.0,NaN,2014_15,85.4,2 doses Varicella Vaccination (unknown disease history)
+Colorado,Simple random sample,69137,0.5,95.0,NaN,2015_16,85.7,2 doses Varicella Vaccination (unknown disease history)
+Colorado,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",DTP/DTaP/DT Vaccination
+Colorado,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Colorado,Simple Random Sample,70142,0.5,95.0,NaN,2011_12,85.5,DTP/DTaP/DT Vaccination
+Colorado,Simple Random Sample,70657,0.5,95.0,NaN,2012_13,82.9,DTP/DTaP/DT Vaccination
+Colorado,Random Sample,69904,0.5,95.0,NaN,2013_14,80.9,DTP/DTaP/DT Vaccination
+Colorado,Simple random sample,70597,0.5,95.0,NaN,2014_15,84.3,DTP/DTaP/DT Vaccination
+Colorado,Simple random sample,69137,0.5,95.0,NaN,2015_16,86.6,DTP/DTaP/DT Vaccination
+Colorado,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",Hepatitis B Vaccination
+Colorado,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Colorado,Simple Random Sample,70142,0.5,95.0,NaN,2011_12,93.1,Hepatitis B Vaccination
+Colorado,Simple Random Sample,70657,0.5,95.0,NaN,2012_13,94.3,Hepatitis B Vaccination
+Colorado,Random Sample,69904,0.5,95.0,NaN,2013_14,79.4,Hepatitis B Vaccination
+Colorado,Simple random sample,70597,0.5,95.0,NaN,2014_15,86.9,Hepatitis B Vaccination
+Colorado,Simple random sample,69137,0.5,95.0,NaN,2015_16,90.3,Hepatitis B Vaccination
+Colorado,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",MMR Vaccination
+Colorado,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Colorado,Simple Random Sample,70142,0.5,95.0,NaN,2011_12,86.8,MMR Vaccination
+Colorado,Simple Random Sample,70657,0.5,95.0,NaN,2012_13,85.7,MMR Vaccination
+Colorado,Random Sample,69904,0.5,95.0,NaN,2013_14,81.7,MMR Vaccination
+Colorado,Simple random sample,70597,0.5,95.0,NaN,2014_15,86.9,MMR Vaccination
+Colorado,Simple random sample,69137,0.5,95.0,NaN,2015_16,87.1,MMR Vaccination
+Colorado,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",Polio Vaccination
+Colorado,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Colorado,Simple Random Sample,70142,0.5,95.0,NaN,2011_12,87.4,Polio Vaccination
+Colorado,Simple Random Sample,70657,0.5,95.0,NaN,2012_13,88.6,Polio Vaccination
+Colorado,Random Sample,69904,0.5,95.0,NaN,2013_14,78.3,Polio Vaccination
+Colorado,Simple random sample,70597,0.5,95.0,NaN,2014_15,81.4,Polio Vaccination
+Colorado,Simple random sample,69137,0.5,95.0,NaN,2015_16,82.3,Polio Vaccination
+Connecticut,Census,46158,100.0,95.0,*,2009_10,98.4,1 dose Varicella Vaccination (unknown disease history)
+Connecticut,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Connecticut,Census,45695,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Connecticut,Census,41604,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Connecticut,Census,40978,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Connecticut,Census,39948,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Connecticut,Census,39533,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Connecticut,Census,46158,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Connecticut,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Connecticut,Census,45695,100.0,95.0,*,2011_12,97.1,2 doses Varicella Vaccination (unknown disease history)
+Connecticut,Census,41604,100.0,95.0,*,2012_13,96.8,2 doses Varicella Vaccination (unknown disease history)
+Connecticut,Census,40978,100.0,95.0,*,2013_14,96.7,2 doses Varicella Vaccination (unknown disease history)
+Connecticut,Census,39948,100.0,95.0,*,2014_15,96.8,2 doses Varicella Vaccination (unknown disease history)
+Connecticut,Census,39533,100.0,95.0,*,2015_16,96.6,2 doses Varicella Vaccination (unknown disease history)
+Connecticut,Census,46158,100.0,95.0,*,2009_10,98.5,DTP/DTaP/DT Vaccination
+Connecticut,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Connecticut,Census,45695,100.0,95.0,*,2011_12,97.8,DTP/DTaP/DT Vaccination
+Connecticut,Census,41604,100.0,95.0,*,2012_13,97.2,DTP/DTaP/DT Vaccination
+Connecticut,Census,40978,100.0,95.0,*,2013_14,97.0,DTP/DTaP/DT Vaccination
+Connecticut,Census,39948,100.0,95.0,*,2014_15,97.0,DTP/DTaP/DT Vaccination
+Connecticut,Census,39533,100.0,95.0,*,2015_16,97.0,DTP/DTaP/DT Vaccination
+Connecticut,Census,46158,100.0,95.0,*,2009_10,98.4,Hepatitis B Vaccination
+Connecticut,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Connecticut,Census,45695,100.0,95.0,*,2011_12,98.0,Hepatitis B Vaccination
+Connecticut,Census,41604,100.0,95.0,*,2012_13,97.4,Hepatitis B Vaccination
+Connecticut,Census,40978,100.0,95.0,*,2013_14,98.9,Hepatitis B Vaccination
+Connecticut,Census,39948,100.0,95.0,*,2014_15,97.0,Hepatitis B Vaccination
+Connecticut,Census,39533,100.0,95.0,*,2015_16,97.4,Hepatitis B Vaccination
+Connecticut,Census,46158,100.0,95.0,*,2009_10,98.5,MMR Vaccination
+Connecticut,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Connecticut,Census,45695,100.0,95.0,*,2011_12,97.4,MMR Vaccination
+Connecticut,Census,41604,100.0,95.0,*,2012_13,97.1,MMR Vaccination
+Connecticut,Census,40978,100.0,95.0,*,2013_14,96.9,MMR Vaccination
+Connecticut,Census,39948,100.0,95.0,*,2014_15,97.0,MMR Vaccination
+Connecticut,Census,39533,100.0,95.0,*,2015_16,97.0,MMR Vaccination
+Connecticut,Census,46158,100.0,95.0,*,2009_10,98.3,Polio Vaccination
+Connecticut,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Connecticut,Census,45695,100.0,95.0,*,2011_12,97.7,Polio Vaccination
+Connecticut,Census,41604,100.0,95.0,*,2012_13,97.2,Polio Vaccination
+Connecticut,Census,40978,100.0,95.0,*,2013_14,98.7,Polio Vaccination
+Connecticut,Census,39948,100.0,95.0,*,2014_15,97.0,Polio Vaccination
+Connecticut,Census,39533,100.0,95.0,*,2015_16,97.0,Polio Vaccination
+Delaware,Random sample,11327,9.2,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Delaware,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Delaware,2-stage Cluster Sample,11327,7.4,95.0,≥,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Delaware,2-stage Cluster Sample,11997,7.8,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Delaware,Stratified  2-stage cluster sample,11997,12.2,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Delaware,Stratified 2-stage cluster sample,11476,7.9,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Delaware,Stratified 2-stage cluster sample,11589,9.5,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Delaware,Random sample,11327,9.2,95.0,NaN,2009_10,89.0,2 doses Varicella Vaccination (unknown disease history)
+Delaware,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Delaware,2-stage Cluster Sample,11327,7.4,95.0,≥,2011_12,96.9,2 doses Varicella Vaccination (unknown disease history)
+Delaware,2-stage Cluster Sample,11997,7.8,95.0,≥,2012_13,95.7,2 doses Varicella Vaccination (unknown disease history)
+Delaware,Stratified  2-stage cluster sample,11997,12.2,95.0,≥,2013_14,96.4,2 doses Varicella Vaccination (unknown disease history)
+Delaware,Stratified 2-stage cluster sample,11476,7.9,95.0,NaN,2014_15,97.7,2 doses Varicella Vaccination (unknown disease history)
+Delaware,Stratified 2-stage cluster sample,11589,9.5,95.0,NaN,2015_16,97.6,2 doses Varicella Vaccination (unknown disease history)
+Delaware,Random sample,11327,9.2,95.0,NaN,2009_10,89.6,DTP/DTaP/DT Vaccination
+Delaware,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Delaware,2-stage Cluster Sample,11327,7.4,95.0,≥,2011_12,96.9,DTP/DTaP/DT Vaccination
+Delaware,2-stage Cluster Sample,11997,7.8,95.0,≥,2012_13,95.7,DTP/DTaP/DT Vaccination
+Delaware,Stratified  2-stage cluster sample,11997,12.2,95.0,≥,2013_14,96.4,DTP/DTaP/DT Vaccination
+Delaware,Stratified 2-stage cluster sample,11476,7.9,95.0,NaN,2014_15,97.7,DTP/DTaP/DT Vaccination
+Delaware,Stratified 2-stage cluster sample,11589,9.5,95.0,NaN,2015_16,98.0,DTP/DTaP/DT Vaccination
+Delaware,Random sample,11327,9.2,95.0,NaN,2009_10,88.9,Hepatitis B Vaccination
+Delaware,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Delaware,2-stage Cluster Sample,11327,7.4,95.0,≥,2011_12,96.9,Hepatitis B Vaccination
+Delaware,2-stage Cluster Sample,11997,7.8,95.0,≥,2012_13,95.7,Hepatitis B Vaccination
+Delaware,Stratified  2-stage cluster sample,11997,12.2,95.0,≥,2013_14,96.4,Hepatitis B Vaccination
+Delaware,Stratified 2-stage cluster sample,11476,7.9,95.0,NaN,2014_15,97.5,Hepatitis B Vaccination
+Delaware,Stratified 2-stage cluster sample,11589,9.5,95.0,NaN,2015_16,99.0,Hepatitis B Vaccination
+Delaware,Random sample,11327,9.2,95.0,NaN,2009_10,89.7,MMR Vaccination
+Delaware,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Delaware,2-stage Cluster Sample,11327,7.4,95.0,≥,2011_12,96.9,MMR Vaccination
+Delaware,2-stage Cluster Sample,11997,7.8,95.0,≥,2012_13,95.7,MMR Vaccination
+Delaware,Stratified  2-stage cluster sample,11997,12.2,95.0,≥,2013_14,96.4,MMR Vaccination
+Delaware,Stratified 2-stage cluster sample,11476,7.9,95.0,NaN,2014_15,97.8,MMR Vaccination
+Delaware,Stratified 2-stage cluster sample,11589,9.5,95.0,NaN,2015_16,97.6,MMR Vaccination
+Delaware,Random sample,11327,9.2,95.0,NaN,2009_10,89.4,Polio Vaccination
+Delaware,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Delaware,2-stage Cluster Sample,11327,7.4,95.0,≥,2011_12,96.9,Polio Vaccination
+Delaware,2-stage Cluster Sample,11997,7.8,95.0,≥,2012_13,95.7,Polio Vaccination
+Delaware,Stratified  2-stage cluster sample,11997,12.2,95.0,≥,2013_14,96.4,Polio Vaccination
+Delaware,Stratified 2-stage cluster sample,11476,7.9,95.0,NaN,2014_15,98.2,Polio Vaccination
+Delaware,Stratified 2-stage cluster sample,11589,9.5,95.0,NaN,2015_16,98.2,Polio Vaccination
+District of Columbia,Census,6092,100.0,95.0,*,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+District of Columbia,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+District of Columbia,Census,6854,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+District of Columbia,Census,7842,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+District of Columbia,Census,7856,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+District of Columbia,Census,7840,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+District of Columbia,Census,8080,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+District of Columbia,Census,6092,100.0,95.0,*,2009_10,"NA",2 doses Varicella Vaccination (unknown disease history)
+District of Columbia,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+District of Columbia,Census,6854,100.0,95.0,*,2011_12,"NA",2 doses Varicella Vaccination (unknown disease history)
+District of Columbia,Census,7842,100.0,95.0,*,2012_13,"NA",2 doses Varicella Vaccination (unknown disease history)
+District of Columbia,Census,7856,100.0,95.0,*,2013_14,"NA",2 doses Varicella Vaccination (unknown disease history)
+District of Columbia,Census,7840,100.0,95.0,*,2014_15,89.5,2 doses Varicella Vaccination (unknown disease history)
+District of Columbia,Census,8080,100.0,95.0,*,2015_16,88.1,2 doses Varicella Vaccination (unknown disease history)
+District of Columbia,Census,6092,100.0,95.0,*,2009_10,"NA",DTP/DTaP/DT Vaccination
+District of Columbia,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+District of Columbia,Census,6854,100.0,95.0,*,2011_12,"NA",DTP/DTaP/DT Vaccination
+District of Columbia,Census,7842,100.0,95.0,*,2012_13,"NA",DTP/DTaP/DT Vaccination
+District of Columbia,Census,7856,100.0,95.0,*,2013_14,"NA",DTP/DTaP/DT Vaccination
+District of Columbia,Census,7840,100.0,95.0,*,2014_15,89.8,DTP/DTaP/DT Vaccination
+District of Columbia,Census,8080,100.0,95.0,*,2015_16,88.2,DTP/DTaP/DT Vaccination
+District of Columbia,Census,6092,100.0,95.0,*,2009_10,"NA",Hepatitis B Vaccination
+District of Columbia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+District of Columbia,Census,6854,100.0,95.0,*,2011_12,"NA",Hepatitis B Vaccination
+District of Columbia,Census,7842,100.0,95.0,*,2012_13,"NA",Hepatitis B Vaccination
+District of Columbia,Census,7856,100.0,95.0,*,2013_14,"NA",Hepatitis B Vaccination
+District of Columbia,Census,7840,100.0,95.0,*,2014_15,95.4,Hepatitis B Vaccination
+District of Columbia,Census,8080,100.0,95.0,*,2015_16,92.5,Hepatitis B Vaccination
+District of Columbia,Census,6092,100.0,95.0,*,2009_10,"NA",MMR Vaccination
+District of Columbia,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+District of Columbia,Census,6854,100.0,95.0,*,2011_12,"NA",MMR Vaccination
+District of Columbia,Census,7842,100.0,95.0,*,2012_13,"NA",MMR Vaccination
+District of Columbia,Census,7856,100.0,95.0,*,2013_14,"NA",MMR Vaccination
+District of Columbia,Census,7840,100.0,95.0,*,2014_15,89.9,MMR Vaccination
+District of Columbia,Census,8080,100.0,95.0,*,2015_16,88.5,MMR Vaccination
+District of Columbia,Census,6092,100.0,95.0,*,2009_10,"NA",Polio Vaccination
+District of Columbia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+District of Columbia,Census,6854,100.0,95.0,*,2011_12,"NA",Polio Vaccination
+District of Columbia,Census,7842,100.0,95.0,*,2012_13,"NA",Polio Vaccination
+District of Columbia,Census,7856,100.0,95.0,*,2013_14,"NA",Polio Vaccination
+District of Columbia,Census,7840,100.0,95.0,*,2014_15,92.2,Polio Vaccination
+District of Columbia,Census,8080,100.0,95.0,*,2015_16,90.7,Polio Vaccination
+Florida,Census,218630,100.0,95.0,* .§,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Florida,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Florida,Census,225532,100.0,95.0,* .§ ,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Florida,Census,234628,100.0,95.0,*. §,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Florida,Census,233797,100.0,95.0,*. §,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Florida,Census,228982,100.0,95.0,*. §,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Florida,Census,224430,100.0,95.0,≥.*.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Florida,Census,218630,100.0,95.0,≥. * .§,2009_10,91.3,2 doses Varicella Vaccination (unknown disease history)
+Florida,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Florida,Census,225532,100.0,95.0,≥. * .§ ,2011_12,92.6,2 doses Varicella Vaccination (unknown disease history)
+Florida,Census,234628,100.0,95.0,≥. *. §,2012_13,92.1,2 doses Varicella Vaccination (unknown disease history)
+Florida,Census,233797,100.0,95.0,≥. *. §,2013_14,93.2,2 doses Varicella Vaccination (unknown disease history)
+Florida,Census,228982,100.0,95.0,≥. *. §,2014_15,93.3,2 doses Varicella Vaccination (unknown disease history)
+Florida,Census,224430,100.0,95.0,≥.*.§,2015_16,93.7,2 doses Varicella Vaccination (unknown disease history)
+Florida,Census,218630,100.0,95.0,≥. * .§,2009_10,91.3,DTP/DTaP/DT Vaccination
+Florida,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Florida,Census,225532,100.0,95.0,≥. * .§ ,2011_12,92.6,DTP/DTaP/DT Vaccination
+Florida,Census,234628,100.0,95.0,≥. *. §,2012_13,92.1,DTP/DTaP/DT Vaccination
+Florida,Census,233797,100.0,95.0,≥. *. §,2013_14,93.2,DTP/DTaP/DT Vaccination
+Florida,Census,228982,100.0,95.0,≥. *. §,2014_15,93.3,DTP/DTaP/DT Vaccination
+Florida,Census,224430,100.0,95.0,≥.*.§,2015_16,93.7,DTP/DTaP/DT Vaccination
+Florida,Census,218630,100.0,95.0,≥. * .§,2009_10,91.3,Hepatitis B Vaccination
+Florida,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Florida,Census,225532,100.0,95.0,≥. * .§ ,2011_12,92.6,Hepatitis B Vaccination
+Florida,Census,234628,100.0,95.0,≥. *. §,2012_13,92.1,Hepatitis B Vaccination
+Florida,Census,233797,100.0,95.0,≥. *. §,2013_14,93.2,Hepatitis B Vaccination
+Florida,Census,228982,100.0,95.0,≥. *. §,2014_15,93.3,Hepatitis B Vaccination
+Florida,Census,224430,100.0,95.0,≥.*.§,2015_16,93.7,Hepatitis B Vaccination
+Florida,Census,218630,100.0,95.0,≥. * .§,2009_10,91.3,MMR Vaccination
+Florida,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Florida,Census,225532,100.0,95.0,≥. * .§ ,2011_12,92.6,MMR Vaccination
+Florida,Census,234628,100.0,95.0,≥. *. §,2012_13,92.1,MMR Vaccination
+Florida,Census,233797,100.0,95.0,≥. *. §,2013_14,93.2,MMR Vaccination
+Florida,Census,228982,100.0,95.0,≥. *. §,2014_15,93.3,MMR Vaccination
+Florida,Census,224430,100.0,95.0,≥.*.§,2015_16,93.7,MMR Vaccination
+Florida,Census,218630,100.0,95.0,≥. * .§,2009_10,91.3,Polio Vaccination
+Florida,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Florida,Census,225532,100.0,95.0,≥. * .§ ,2011_12,92.6,Polio Vaccination
+Florida,Census,234628,100.0,95.0,≥. *. §,2012_13,92.1,Polio Vaccination
+Florida,Census,233797,100.0,95.0,≥. *. §,2013_14,93.2,Polio Vaccination
+Florida,Census,228982,100.0,95.0,≥. *. §,2014_15,93.3,Polio Vaccination
+Florida,Census,224430,100.0,95.0,≥.*.§,2015_16,93.7,Polio Vaccination
+Georgia,Random sample,141949,1.2,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Georgia,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Georgia,2-stage Cluster Sample,143065,1.9,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Georgia,2-stage Cluster Sample,142732,2.4,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Georgia,Census,143988,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Georgia,Census,139471,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Georgia,Census,131403,100.0,95.0,≥.*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Georgia,Random sample,141949,1.2,95.0,NaN,2009_10,99.6,2 doses Varicella Vaccination (unknown disease history)
+Georgia,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Georgia,2-stage Cluster Sample,143065,1.9,95.0,NaN,2011_12,96.6,2 doses Varicella Vaccination (unknown disease history)
+Georgia,2-stage Cluster Sample,142732,2.4,95.0,≥,2012_13,95.1,2 doses Varicella Vaccination (unknown disease history)
+Georgia,Census,143988,100.0,95.0,≥. *,2013_14,94.0,2 doses Varicella Vaccination (unknown disease history)
+Georgia,Census,139471,100.0,95.0,≥. *,2014_15,94.0,2 doses Varicella Vaccination (unknown disease history)
+Georgia,Census,131403,100.0,95.0,≥.*,2015_16,94.6,2 doses Varicella Vaccination (unknown disease history)
+Georgia,Random sample,141949,1.2,95.0,NaN,2009_10,99.9,DTP/DTaP/DT Vaccination
+Georgia,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Georgia,2-stage Cluster Sample,143065,1.9,95.0,NaN,2011_12,96.7,DTP/DTaP/DT Vaccination
+Georgia,2-stage Cluster Sample,142732,2.4,95.0,≥,2012_13,95.1,DTP/DTaP/DT Vaccination
+Georgia,Census,143988,100.0,95.0,≥. *,2013_14,94.0,DTP/DTaP/DT Vaccination
+Georgia,Census,139471,100.0,95.0,≥. *,2014_15,94.0,DTP/DTaP/DT Vaccination
+Georgia,Census,131403,100.0,95.0,≥.*,2015_16,94.6,DTP/DTaP/DT Vaccination
+Georgia,Random sample,141949,1.2,95.0,NaN,2009_10,100.0,Hepatitis B Vaccination
+Georgia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Georgia,2-stage Cluster Sample,143065,1.9,95.0,NaN,2011_12,96.7,Hepatitis B Vaccination
+Georgia,2-stage Cluster Sample,142732,2.4,95.0,≥,2012_13,95.1,Hepatitis B Vaccination
+Georgia,Census,143988,100.0,95.0,≥. *,2013_14,94.0,Hepatitis B Vaccination
+Georgia,Census,139471,100.0,95.0,≥. *,2014_15,94.0,Hepatitis B Vaccination
+Georgia,Census,131403,100.0,95.0,≥.*,2015_16,94.6,Hepatitis B Vaccination
+Georgia,Random sample,141949,1.2,95.0,NaN,2009_10,99.6,MMR Vaccination
+Georgia,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Georgia,2-stage Cluster Sample,143065,1.9,95.0,NaN,2011_12,96.6,MMR Vaccination
+Georgia,2-stage Cluster Sample,142732,2.4,95.0,≥,2012_13,95.1,MMR Vaccination
+Georgia,Census,143988,100.0,95.0,≥. *,2013_14,94.0,MMR Vaccination
+Georgia,Census,139471,100.0,95.0,≥. *,2014_15,94.0,MMR Vaccination
+Georgia,Census,131403,100.0,95.0,≥.*,2015_16,94.6,MMR Vaccination
+Georgia,Random sample,141949,1.2,95.0,NaN,2009_10,100.0,Polio Vaccination
+Georgia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Georgia,2-stage Cluster Sample,143065,1.9,95.0,NaN,2011_12,96.7,Polio Vaccination
+Georgia,2-stage Cluster Sample,142732,2.4,95.0,≥,2012_13,95.1,Polio Vaccination
+Georgia,Census,143988,100.0,95.0,≥. *,2013_14,94.0,Polio Vaccination
+Georgia,Census,139471,100.0,95.0,≥. *,2014_15,94.0,Polio Vaccination
+Georgia,Census,131403,100.0,95.0,≥.*,2015_16,94.6,Polio Vaccination
+Hawaii,Random sample,18427,6.4,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Hawaii,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Hawaii,2-stage Cluster Sample,19443,7.7,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Hawaii,2-stage Cluster Sample,20104,6.7,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Hawaii,Stratified  2-stage cluster sample,20056,5.4,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Hawaii,Stratified 2-stage cluster sample,20085,5.6,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Hawaii,Stratified 2-stage cluster sample,16325,6.7,95.0,NaN,2015_16,95.4,1 dose Varicella Vaccination (unknown disease history)
+Hawaii,Random sample,18427,6.4,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Hawaii,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Hawaii,2-stage Cluster Sample,19443,7.7,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Hawaii,2-stage Cluster Sample,20104,6.7,95.0,NaN,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Hawaii,Stratified  2-stage cluster sample,20056,5.4,95.0,NaN,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Hawaii,Stratified 2-stage cluster sample,20085,5.6,95.0,NaN,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Hawaii,Stratified 2-stage cluster sample,16325,6.7,95.0,NaN,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+Hawaii,Random sample,18427,6.4,95.0,NaN,2009_10,"NA",DTP/DTaP/DT Vaccination
+Hawaii,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Hawaii,2-stage Cluster Sample,19443,7.7,95.0,NaN,2011_12,"NA",DTP/DTaP/DT Vaccination
+Hawaii,2-stage Cluster Sample,20104,6.7,95.0,NaN,2012_13,"NA",DTP/DTaP/DT Vaccination
+Hawaii,Stratified  2-stage cluster sample,20056,5.4,95.0,NaN,2013_14,"NA",DTP/DTaP/DT Vaccination
+Hawaii,Stratified 2-stage cluster sample,20085,5.6,95.0,NaN,2014_15,"NA",DTP/DTaP/DT Vaccination
+Hawaii,Stratified 2-stage cluster sample,16325,6.7,95.0,NaN,2015_16,93.8,DTP/DTaP/DT Vaccination
+Hawaii,Random sample,18427,6.4,95.0,NaN,2009_10,"NA",Hepatitis B Vaccination
+Hawaii,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Hawaii,2-stage Cluster Sample,19443,7.7,95.0,NaN,2011_12,"NA",Hepatitis B Vaccination
+Hawaii,2-stage Cluster Sample,20104,6.7,95.0,NaN,2012_13,"NA",Hepatitis B Vaccination
+Hawaii,Stratified  2-stage cluster sample,20056,5.4,95.0,NaN,2013_14,"NA",Hepatitis B Vaccination
+Hawaii,Stratified 2-stage cluster sample,20085,5.6,95.0,NaN,2014_15,"NA",Hepatitis B Vaccination
+Hawaii,Stratified 2-stage cluster sample,16325,6.7,95.0,NaN,2015_16,94.4,Hepatitis B Vaccination
+Hawaii,Random sample,18427,6.4,95.0,NaN,2009_10,"NA",MMR Vaccination
+Hawaii,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Hawaii,2-stage Cluster Sample,19443,7.7,95.0,NaN,2011_12,"NA",MMR Vaccination
+Hawaii,2-stage Cluster Sample,20104,6.7,95.0,NaN,2012_13,"NA",MMR Vaccination
+Hawaii,Stratified  2-stage cluster sample,20056,5.4,95.0,NaN,2013_14,"NA",MMR Vaccination
+Hawaii,Stratified 2-stage cluster sample,20085,5.6,95.0,NaN,2014_15,"NA",MMR Vaccination
+Hawaii,Stratified 2-stage cluster sample,16325,6.7,95.0,NaN,2015_16,91.6,MMR Vaccination
+Hawaii,Random sample,18427,6.4,95.0,NaN,2009_10,"NA",Polio Vaccination
+Hawaii,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Hawaii,2-stage Cluster Sample,19443,7.7,95.0,NaN,2011_12,"NA",Polio Vaccination
+Hawaii,2-stage Cluster Sample,20104,6.7,95.0,NaN,2012_13,"NA",Polio Vaccination
+Hawaii,Stratified  2-stage cluster sample,20056,5.4,95.0,NaN,2013_14,"NA",Polio Vaccination
+Hawaii,Stratified 2-stage cluster sample,20085,5.6,95.0,NaN,2014_15,"NA",Polio Vaccination
+Hawaii,Stratified 2-stage cluster sample,16325,6.7,95.0,NaN,2015_16,94.4,Polio Vaccination
+HP 2020 Target,NaN,NaN,NaN,NaN,NaN,2009_10,NaN,1 dose Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,NaN,NaN,2010_11,NaN,1 dose Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,NaN,NaN,2011_12,NaN,1 dose Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,NaN,NaN,2012_13,NaN,1 dose Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,NaN,NaN,2013_14,NaN,1 dose Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,NaN,NaN,2014_15,NaN,1 dose Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,NaN,NaN,2015_16,NaN,1 dose Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2009_10,95.0,2 doses Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2010_11,95.0,2 doses Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2011_12,95.0,2 doses Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2012_13,95.0,2 doses Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2013_14,95.0,2 doses Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2014_15,95.0,2 doses Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2015_16,95.0,2 doses Varicella Vaccination (unknown disease history)
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2009_10,95.0,DTP/DTaP/DT Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2010_11,95.0,DTP/DTaP/DT Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2011_12,95.0,DTP/DTaP/DT Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2012_13,95.0,DTP/DTaP/DT Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2013_14,95.0,DTP/DTaP/DT Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2014_15,95.0,DTP/DTaP/DT Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2015_16,95.0,DTP/DTaP/DT Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2009_10,95.0,Hepatitis B Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2010_11,95.0,Hepatitis B Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2011_12,95.0,Hepatitis B Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2012_13,95.0,Hepatitis B Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2013_14,95.0,Hepatitis B Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2014_15,95.0,Hepatitis B Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2015_16,95.0,Hepatitis B Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2009_10,95.0,MMR Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2010_11,95.0,MMR Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2011_12,95.0,MMR Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2012_13,95.0,MMR Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2013_14,95.0,MMR Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2014_15,95.0,MMR Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2015_16,95.0,MMR Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2009_10,95.0,Polio Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2010_11,95.0,Polio Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2011_12,95.0,Polio Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2012_13,95.0,Polio Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2013_14,95.0,Polio Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2014_15,95.0,Polio Vaccination
+HP 2020 Target,NaN,NaN,NaN,95.0,NaN,2015_16,95.0,Polio Vaccination
+Idaho,Census,22624,100.0,95.0,*,2009_10,NReq,1 dose Varicella Vaccination (unknown disease history)
+Idaho,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Idaho,Census,22762,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Idaho,Census,23888,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Idaho,Census,23934,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Idaho,Census,22968,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Idaho,Census,22686,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Idaho,Census,22624,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Idaho,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Idaho,Census,22762,100.0,95.0,*,2011_12,85.8,2 doses Varicella Vaccination (unknown disease history)
+Idaho,Census,23888,100.0,95.0,*,2012_13,86.6,2 doses Varicella Vaccination (unknown disease history)
+Idaho,Census,23934,100.0,95.0,*,2013_14,86.5,2 doses Varicella Vaccination (unknown disease history)
+Idaho,Census,22968,100.0,95.0,*,2014_15,88.4,2 doses Varicella Vaccination (unknown disease history)
+Idaho,Census,22686,100.0,95.0,*,2015_16,89.1,2 doses Varicella Vaccination (unknown disease history)
+Idaho,Census,22624,100.0,95.0,*,2009_10,86.8,DTP/DTaP/DT Vaccination
+Idaho,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Idaho,Census,22762,100.0,95.0,*,2011_12,89.0,DTP/DTaP/DT Vaccination
+Idaho,Census,23888,100.0,95.0,*,2012_13,88.3,DTP/DTaP/DT Vaccination
+Idaho,Census,23934,100.0,95.0,*,2013_14,88.0,DTP/DTaP/DT Vaccination
+Idaho,Census,22968,100.0,95.0,*,2014_15,89.4,DTP/DTaP/DT Vaccination
+Idaho,Census,22686,100.0,95.0,*,2015_16,89.8,DTP/DTaP/DT Vaccination
+Idaho,Census,22624,100.0,95.0,*,2009_10,93.0,Hepatitis B Vaccination
+Idaho,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Idaho,Census,22762,100.0,95.0,*,2011_12,92.3,Hepatitis B Vaccination
+Idaho,Census,23888,100.0,95.0,*,2012_13,91.7,Hepatitis B Vaccination
+Idaho,Census,23934,100.0,95.0,*,2013_14,91.2,Hepatitis B Vaccination
+Idaho,Census,22968,100.0,95.0,*,2014_15,92.5,Hepatitis B Vaccination
+Idaho,Census,22686,100.0,95.0,*,2015_16,92.5,Hepatitis B Vaccination
+Idaho,Census,22624,100.0,95.0,*,2009_10,87.0,MMR Vaccination
+Idaho,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Idaho,Census,22762,100.0,95.0,*,2011_12,89.2,MMR Vaccination
+Idaho,Census,23888,100.0,95.0,*,2012_13,88.4,MMR Vaccination
+Idaho,Census,23934,100.0,95.0,*,2013_14,88.2,MMR Vaccination
+Idaho,Census,22968,100.0,95.0,*,2014_15,89.5,MMR Vaccination
+Idaho,Census,22686,100.0,95.0,*,2015_16,90.2,MMR Vaccination
+Idaho,Census,22624,100.0,95.0,*,2009_10,92.8,Polio Vaccination
+Idaho,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Idaho,Census,22762,100.0,95.0,*,2011_12,89.6,Polio Vaccination
+Idaho,Census,23888,100.0,95.0,*,2012_13,88.5,Polio Vaccination
+Idaho,Census,23934,100.0,95.0,*,2013_14,88.4,Polio Vaccination
+Idaho,Census,22968,100.0,95.0,*,2014_15,90.1,Polio Vaccination
+Idaho,Census,22686,100.0,95.0,*,2015_16,90.6,Polio Vaccination
+Illinois,Census,165845,100.0,95.0,NaN,2009_10,96.5,1 dose Varicella Vaccination (unknown disease history)
+Illinois,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Illinois,Census,163311,100.0,95.0,*,2011_12,98.0,1 dose Varicella Vaccination (unknown disease history)
+Illinois,Census,166884,100.0,95.0,*,2012_13,96.6,1 dose Varicella Vaccination (unknown disease history)
+Illinois,Census,163316,100.0,95.0,*,2013_14,96.6,1 dose Varicella Vaccination (unknown disease history)
+Illinois,Census,156942,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Illinois,Census,151309,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Illinois,Census,165845,100.0,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Illinois,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Illinois,Census,163311,100.0,95.0,*,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Illinois,Census,166884,100.0,95.0,*,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Illinois,Census,163316,100.0,95.0,*,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Illinois,Census,156942,100.0,95.0,*,2014_15,95.3,2 doses Varicella Vaccination (unknown disease history)
+Illinois,Census,151309,100.0,95.0,*,2015_16,95.5,2 doses Varicella Vaccination (unknown disease history)
+Illinois,Census,165845,100.0,95.0,NaN,2009_10,95.6,DTP/DTaP/DT Vaccination
+Illinois,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Illinois,Census,163311,100.0,95.0,*,2011_12,96.4,DTP/DTaP/DT Vaccination
+Illinois,Census,166884,100.0,95.0,*,2012_13,94.6,DTP/DTaP/DT Vaccination
+Illinois,Census,163316,100.0,95.0,*,2013_14,95.0,DTP/DTaP/DT Vaccination
+Illinois,Census,156942,100.0,95.0,*,2014_15,94.9,DTP/DTaP/DT Vaccination
+Illinois,Census,151309,100.0,95.0,*,2015_16,95.0,DTP/DTaP/DT Vaccination
+Illinois,Census,165845,100.0,95.0,NaN,2009_10,NReq,Hepatitis B Vaccination
+Illinois,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Illinois,Census,163311,100.0,95.0,*,2011_12,NReq,Hepatitis B Vaccination
+Illinois,Census,166884,100.0,95.0,*,2012_13,NReq,Hepatitis B Vaccination
+Illinois,Census,163316,100.0,95.0,*,2013_14,NReq,Hepatitis B Vaccination
+Illinois,Census,156942,100.0,95.0,*,2014_15,NReq,Hepatitis B Vaccination
+Illinois,Census,151309,100.0,95.0,*,2015_16,NReq,Hepatitis B Vaccination
+Illinois,Census,165845,100.0,95.0,NaN,2009_10,94.5,MMR Vaccination
+Illinois,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Illinois,Census,163311,100.0,95.0,*,2011_12,97.3,MMR Vaccination
+Illinois,Census,166884,100.0,95.0,*,2012_13,95.5,MMR Vaccination
+Illinois,Census,163316,100.0,95.0,*,2013_14,94.7,MMR Vaccination
+Illinois,Census,156942,100.0,95.0,*,2014_15,94.7,MMR Vaccination
+Illinois,Census,151309,100.0,95.0,*,2015_16,94.9,MMR Vaccination
+Illinois,Census,165845,100.0,95.0,NaN,2009_10,95.8,Polio Vaccination
+Illinois,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Illinois,Census,163311,100.0,95.0,*,2011_12,96.2,Polio Vaccination
+Illinois,Census,166884,100.0,95.0,*,2012_13,94.4,Polio Vaccination
+Illinois,Census,163316,100.0,95.0,*,2013_14,94.9,Polio Vaccination
+Illinois,Census,156942,100.0,95.0,*,2014_15,94.8,Polio Vaccination
+Illinois,Census,151309,100.0,95.0,*,2015_16,94.9,Polio Vaccination
+Indiana,Census,84390,94.7,95.0,NaN,2009_10,96.0,1 dose Varicella Vaccination (unknown disease history)
+Indiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Indiana,Voluntary Response,83416,67.5,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Indiana,Voluntary Response,86983,83.4,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Indiana,Voluntary response,87193,70.3,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Indiana,Voluntary response,85477,70.1,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Indiana,Voluntary response,83525,69.5,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Indiana,Census,84390,94.7,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Indiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Indiana,Voluntary Response,83416,67.5,95.0,NaN,2011_12,91.9,2 doses Varicella Vaccination (unknown disease history)
+Indiana,Voluntary Response,86983,83.4,95.0,NaN,2012_13,93.9,2 doses Varicella Vaccination (unknown disease history)
+Indiana,Voluntary response,87193,70.3,95.0,NaN,2013_14,90.2,2 doses Varicella Vaccination (unknown disease history)
+Indiana,Voluntary response,85477,70.1,95.0,NaN,2014_15,90.1,2 doses Varicella Vaccination (unknown disease history)
+Indiana,Voluntary response,83525,69.5,95.0,NaN,2015_16,88.0,2 doses Varicella Vaccination (unknown disease history)
+Indiana,Census,84390,94.7,95.0,NaN,2009_10,91.1,DTP/DTaP/DT Vaccination
+Indiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Indiana,Voluntary Response,83416,67.5,95.0,NaN,2011_12,90.2,DTP/DTaP/DT Vaccination
+Indiana,Voluntary Response,86983,83.4,95.0,NaN,2012_13,90.1,DTP/DTaP/DT Vaccination
+Indiana,Voluntary response,87193,70.3,95.0,NaN,2013_14,81.8,DTP/DTaP/DT Vaccination
+Indiana,Voluntary response,85477,70.1,95.0,NaN,2014_15,92.7,DTP/DTaP/DT Vaccination
+Indiana,Voluntary response,83525,69.5,95.0,NaN,2015_16,92.6,DTP/DTaP/DT Vaccination
+Indiana,Census,84390,94.7,95.0,NaN,2009_10,95.2,Hepatitis B Vaccination
+Indiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Indiana,Voluntary Response,83416,67.5,95.0,NaN,2011_12,93.2,Hepatitis B Vaccination
+Indiana,Voluntary Response,86983,83.4,95.0,NaN,2012_13,95.6,Hepatitis B Vaccination
+Indiana,Voluntary response,87193,70.3,95.0,NaN,2013_14,97.1,Hepatitis B Vaccination
+Indiana,Voluntary response,85477,70.1,95.0,NaN,2014_15,90.3,Hepatitis B Vaccination
+Indiana,Voluntary response,83525,69.5,95.0,NaN,2015_16,90.3,Hepatitis B Vaccination
+Indiana,Census,84390,94.7,95.0,NaN,2009_10,92.8,MMR Vaccination
+Indiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Indiana,Voluntary Response,83416,67.5,95.0,NaN,2011_12,93.3,MMR Vaccination
+Indiana,Voluntary Response,86983,83.4,95.0,NaN,2012_13,95.4,MMR Vaccination
+Indiana,Voluntary response,87193,70.3,95.0,NaN,2013_14,92.9,MMR Vaccination
+Indiana,Voluntary response,85477,70.1,95.0,NaN,2014_15,89.3,MMR Vaccination
+Indiana,Voluntary response,83525,69.5,95.0,NaN,2015_16,89.2,MMR Vaccination
+Indiana,Census,84390,94.7,95.0,NaN,2009_10,92.9,Polio Vaccination
+Indiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Indiana,Voluntary Response,83416,67.5,95.0,NaN,2011_12,90.4,Polio Vaccination
+Indiana,Voluntary Response,86983,83.4,95.0,NaN,2012_13,93.4,Polio Vaccination
+Indiana,Voluntary response,87193,70.3,95.0,NaN,2013_14,90.0,Polio Vaccination
+Indiana,Voluntary response,85477,70.1,95.0,NaN,2014_15,89.7,Polio Vaccination
+Indiana,Voluntary response,83525,69.5,95.0,NaN,2015_16,89.7,Polio Vaccination
+Iowa,Census,42698,100.0,95.0,≥,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Iowa,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Iowa,Census,40978,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Iowa,Census,41701,99.9,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Iowa,Census,43728,94.6,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Iowa,Census,43239,96.3,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Iowa,Census,41215,100.0,95.0,≥.*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Iowa,Census,42698,100.0,95.0,≥,2009_10,84.5,2 doses Varicella Vaccination (unknown disease history)
+Iowa,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Iowa,Census,40978,100.0,95.0,≥. *,2011_12,91.1,2 doses Varicella Vaccination (unknown disease history)
+Iowa,Census,41701,99.9,95.0,≥,2012_13,90.5,2 doses Varicella Vaccination (unknown disease history)
+Iowa,Census,43728,94.6,95.0,≥,2013_14,91.0,2 doses Varicella Vaccination (unknown disease history)
+Iowa,Census,43239,96.3,95.0,≥,2014_15,91.9,2 doses Varicella Vaccination (unknown disease history)
+Iowa,Census,41215,100.0,95.0,≥.*,2015_16,91.8,2 doses Varicella Vaccination (unknown disease history)
+Iowa,Census,42698,100.0,95.0,≥,2009_10,84.5,DTP/DTaP/DT Vaccination
+Iowa,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Iowa,Census,40978,100.0,95.0,≥. *,2011_12,91.1,DTP/DTaP/DT Vaccination
+Iowa,Census,41701,99.9,95.0,≥,2012_13,90.5,DTP/DTaP/DT Vaccination
+Iowa,Census,43728,94.6,95.0,≥,2013_14,91.0,DTP/DTaP/DT Vaccination
+Iowa,Census,43239,96.3,95.0,≥,2014_15,91.9,DTP/DTaP/DT Vaccination
+Iowa,Census,41215,100.0,95.0,≥.*,2015_16,91.8,DTP/DTaP/DT Vaccination
+Iowa,Census,42698,100.0,95.0,≥,2009_10,84.5,Hepatitis B Vaccination
+Iowa,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Iowa,Census,40978,100.0,95.0,≥. *,2011_12,91.1,Hepatitis B Vaccination
+Iowa,Census,41701,99.9,95.0,≥,2012_13,90.5,Hepatitis B Vaccination
+Iowa,Census,43728,94.6,95.0,≥,2013_14,91.0,Hepatitis B Vaccination
+Iowa,Census,43239,96.3,95.0,≥,2014_15,91.9,Hepatitis B Vaccination
+Iowa,Census,41215,100.0,95.0,≥.*,2015_16,91.8,Hepatitis B Vaccination
+Iowa,Census,42698,100.0,95.0,≥,2009_10,84.5,MMR Vaccination
+Iowa,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Iowa,Census,40978,100.0,95.0,≥. *,2011_12,91.1,MMR Vaccination
+Iowa,Census,41701,99.9,95.0,≥,2012_13,90.5,MMR Vaccination
+Iowa,Census,43728,94.6,95.0,≥,2013_14,91.0,MMR Vaccination
+Iowa,Census,43239,96.3,95.0,≥,2014_15,91.9,MMR Vaccination
+Iowa,Census,41215,100.0,95.0,≥.*,2015_16,91.8,MMR Vaccination
+Iowa,Census,42698,100.0,95.0,≥,2009_10,84.5,Polio Vaccination
+Iowa,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Iowa,Census,40978,100.0,95.0,≥. *,2011_12,91.1,Polio Vaccination
+Iowa,Census,41701,99.9,95.0,≥,2012_13,90.5,Polio Vaccination
+Iowa,Census,43728,94.6,95.0,≥,2013_14,91.0,Polio Vaccination
+Iowa,Census,43239,96.3,95.0,≥,2014_15,91.9,Polio Vaccination
+Iowa,Census,41215,100.0,95.0,≥.*,2015_16,91.8,Polio Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),39073,39.1,95.0,†,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),38402,52.7,95.0,†,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),40738,31.8,95.0,†. ‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample (Public); Census (Private),41107,29.0,95.0,†. ‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kansas,Stratified 2-stage cluster sample,39685,24.5,95.0,†.‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kansas,Stratified 2-stage cluster sample,39555,21.0,95.0,†.‡.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),39073,39.1,95.0,†,2009_10,85.3,2 doses Varicella Vaccination (unknown disease history)
+Kansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),38402,52.7,95.0,†,2011_12,85.9,2 doses Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),40738,31.8,95.0,†. ‡,2012_13,88.4,2 doses Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample (Public); Census (Private),41107,29.0,95.0,†. ‡,2013_14,85.5,2 doses Varicella Vaccination (unknown disease history)
+Kansas,Stratified 2-stage cluster sample,39685,24.5,95.0,†.‡,2014_15,88.9,2 doses Varicella Vaccination (unknown disease history)
+Kansas,Stratified 2-stage cluster sample,39555,21.0,95.0,†.‡.§,2015_16,87.9,2 doses Varicella Vaccination (unknown disease history)
+Kansas,Stratified 1-stage sample  (Public).  Census (Private),39073,39.1,95.0,†,2009_10,97.1,DTP/DTaP/DT Vaccination
+Kansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),38402,52.7,95.0,†,2011_12,88.0,DTP/DTaP/DT Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),40738,31.8,95.0,†. ‡,2012_13,88.9,DTP/DTaP/DT Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),41107,29.0,95.0,†. ‡,2013_14,87.6,DTP/DTaP/DT Vaccination
+Kansas,Stratified 2-stage cluster sample,39685,24.5,95.0,†.‡,2014_15,89.6,DTP/DTaP/DT Vaccination
+Kansas,Stratified 2-stage cluster sample,39555,21.0,95.0,†.‡.§,2015_16,89.4,DTP/DTaP/DT Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),39073,39.1,95.0,†,2009_10,97.0,Hepatitis B Vaccination
+Kansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),38402,52.7,95.0,†,2011_12,95.8,Hepatitis B Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),40738,31.8,95.0,†. ‡,2012_13,88.1,Hepatitis B Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),41107,29.0,95.0,†. ‡,2013_14,95.3,Hepatitis B Vaccination
+Kansas,Stratified 2-stage cluster sample,39685,24.5,95.0,†.‡,2014_15,97.6,Hepatitis B Vaccination
+Kansas,Stratified 2-stage cluster sample,39555,21.0,95.0,†.‡.§,2015_16,96.8,Hepatitis B Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),39073,39.1,95.0,†,2009_10,90.9,MMR Vaccination
+Kansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),38402,52.7,95.0,†,2011_12,88.2,MMR Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),40738,31.8,95.0,†. ‡,2012_13,90.0,MMR Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),41107,29.0,95.0,†. ‡,2013_14,86.9,MMR Vaccination
+Kansas,Stratified 2-stage cluster sample,39685,24.5,95.0,†.‡,2014_15,89.2,MMR Vaccination
+Kansas,Stratified 2-stage cluster sample,39555,21.0,95.0,†.‡.§,2015_16,89.4,MMR Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),39073,39.1,95.0,†,2009_10,97.9,Polio Vaccination
+Kansas,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),38402,52.7,95.0,†,2011_12,96.9,Polio Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),40738,31.8,95.0,†. ‡,2012_13,86.7,Polio Vaccination
+Kansas,Stratified 1-stage sample  (Public);  Census (Private),41107,29.0,95.0,†. ‡,2013_14,86.7,Polio Vaccination
+Kansas,Stratified 2-stage cluster sample,39685,24.5,95.0,†.‡,2014_15,90.0,Polio Vaccination
+Kansas,Stratified 2-stage cluster sample,39555,21.0,95.0,†.‡.§,2015_16,88.3,Polio Vaccination
+Kentucky,Census,56526,92.9,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kentucky,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kentucky,Census,58185,91.8,95.0,NaN,2011_12,75.7,1 dose Varicella Vaccination (unknown disease history)
+Kentucky,Census,58466,97.2,95.0,‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kentucky,Census,57857,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kentucky,Census,57884,97.2,95.0,‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kentucky,Census,54353,99.5,95.0,‡.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Kentucky,Census,56526,92.9,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Kentucky,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Kentucky,Census,58185,91.8,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Kentucky,Census,58466,97.2,95.0,‡,2012_13,89.5,2 doses Varicella Vaccination (unknown disease history)
+Kentucky,Census,57857,100.0,95.0,*,2013_14,91.9,2 doses Varicella Vaccination (unknown disease history)
+Kentucky,Census,57884,97.2,95.0,‡,2014_15,92.3,2 doses Varicella Vaccination (unknown disease history)
+Kentucky,Census,54353,99.5,95.0,‡.§,2015_16,91.6,2 doses Varicella Vaccination (unknown disease history)
+Kentucky,Census,56526,92.9,95.0,NaN,2009_10,93.2,DTP/DTaP/DT Vaccination
+Kentucky,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Kentucky,Census,58185,91.8,95.0,NaN,2011_12,93.7,DTP/DTaP/DT Vaccination
+Kentucky,Census,58466,97.2,95.0,‡,2012_13,94.1,DTP/DTaP/DT Vaccination
+Kentucky,Census,57857,100.0,95.0,*,2013_14,93.9,DTP/DTaP/DT Vaccination
+Kentucky,Census,57884,97.2,95.0,‡,2014_15,94.4,DTP/DTaP/DT Vaccination
+Kentucky,Census,54353,99.5,95.0,‡.§,2015_16,93.9,DTP/DTaP/DT Vaccination
+Kentucky,Census,56526,92.9,95.0,NaN,2009_10,93.0,Hepatitis B Vaccination
+Kentucky,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Kentucky,Census,58185,91.8,95.0,NaN,2011_12,93.3,Hepatitis B Vaccination
+Kentucky,Census,58466,97.2,95.0,‡,2012_13,93.7,Hepatitis B Vaccination
+Kentucky,Census,57857,100.0,95.0,*,2013_14,94.1,Hepatitis B Vaccination
+Kentucky,Census,57884,97.2,95.0,‡,2014_15,94.1,Hepatitis B Vaccination
+Kentucky,Census,54353,99.5,95.0,‡.§,2015_16,93.5,Hepatitis B Vaccination
+Kentucky,Census,56526,92.9,95.0,NaN,2009_10,92.2,MMR Vaccination
+Kentucky,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Kentucky,Census,58185,91.8,95.0,NaN,2011_12,92.0,MMR Vaccination
+Kentucky,Census,58466,97.2,95.0,‡,2012_13,92.4,MMR Vaccination
+Kentucky,Census,57857,100.0,95.0,*,2013_14,92.6,MMR Vaccination
+Kentucky,Census,57884,97.2,95.0,‡,2014_15,92.7,MMR Vaccination
+Kentucky,Census,54353,99.5,95.0,‡.§,2015_16,92.2,MMR Vaccination
+Kentucky,Census,56526,92.9,95.0,NaN,2009_10,94.1,Polio Vaccination
+Kentucky,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Kentucky,Census,58185,91.8,95.0,NaN,2011_12,95.0,Polio Vaccination
+Kentucky,Census,58466,97.2,95.0,‡,2012_13,94.3,Polio Vaccination
+Kentucky,Census,57857,100.0,95.0,*,2013_14,94.3,Polio Vaccination
+Kentucky,Census,57884,97.2,95.0,‡,2014_15,94.7,Polio Vaccination
+Kentucky,Census,54353,99.5,95.0,‡.§,2015_16,94.3,Polio Vaccination
+Louisiana,Census,53846,100.0,95.0,*,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Louisiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Louisiana,Census,69013,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Louisiana,Census,68874,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Louisiana,Census,63976,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Louisiana,Census,60377,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Louisiana,Census,59159,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Louisiana,Census,53846,100.0,95.0,*,2009_10,93.7,2 doses Varicella Vaccination (unknown disease history)
+Louisiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Louisiana,Census,69013,100.0,95.0,*,2011_12,97.2,2 doses Varicella Vaccination (unknown disease history)
+Louisiana,Census,68874,100.0,95.0,*,2012_13,96.5,2 doses Varicella Vaccination (unknown disease history)
+Louisiana,Census,63976,100.0,95.0,*,2013_14,96.1,2 doses Varicella Vaccination (unknown disease history)
+Louisiana,Census,60377,100.0,95.0,*,2014_15,96.7,2 doses Varicella Vaccination (unknown disease history)
+Louisiana,Census,59159,100.0,95.0,*,2015_16,96.8,2 doses Varicella Vaccination (unknown disease history)
+Louisiana,Census,53846,100.0,95.0,*,2009_10,98.0,DTP/DTaP/DT Vaccination
+Louisiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Louisiana,Census,69013,100.0,95.0,*,2011_12,98.9,DTP/DTaP/DT Vaccination
+Louisiana,Census,68874,100.0,95.0,*,2012_13,98.3,DTP/DTaP/DT Vaccination
+Louisiana,Census,63976,100.0,95.0,*,2013_14,98.3,DTP/DTaP/DT Vaccination
+Louisiana,Census,60377,100.0,95.0,*,2014_15,98.3,DTP/DTaP/DT Vaccination
+Louisiana,Census,59159,100.0,95.0,*,2015_16,98.3,DTP/DTaP/DT Vaccination
+Louisiana,Census,53846,100.0,95.0,*,2009_10,98.0,Hepatitis B Vaccination
+Louisiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Louisiana,Census,69013,100.0,95.0,*,2011_12,99.3,Hepatitis B Vaccination
+Louisiana,Census,68874,100.0,95.0,*,2012_13,98.8,Hepatitis B Vaccination
+Louisiana,Census,63976,100.0,95.0,*,2013_14,98.8,Hepatitis B Vaccination
+Louisiana,Census,60377,100.0,95.0,*,2014_15,98.8,Hepatitis B Vaccination
+Louisiana,Census,59159,100.0,95.0,*,2015_16,98.9,Hepatitis B Vaccination
+Louisiana,Census,53846,100.0,95.0,*,2009_10,96.9,MMR Vaccination
+Louisiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Louisiana,Census,69013,100.0,95.0,*,2011_12,98.1,MMR Vaccination
+Louisiana,Census,68874,100.0,95.0,*,2012_13,96.6,MMR Vaccination
+Louisiana,Census,63976,100.0,95.0,*,2013_14,96.8,MMR Vaccination
+Louisiana,Census,60377,100.0,95.0,*,2014_15,96.8,MMR Vaccination
+Louisiana,Census,59159,100.0,95.0,*,2015_16,96.8,MMR Vaccination
+Louisiana,Census,53846,100.0,95.0,*,2009_10,98.9,Polio Vaccination
+Louisiana,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Louisiana,Census,69013,100.0,95.0,*,2011_12,99.6,Polio Vaccination
+Louisiana,Census,68874,100.0,95.0,*,2012_13,99.0,Polio Vaccination
+Louisiana,Census,63976,100.0,95.0,*,2013_14,99.0,Polio Vaccination
+Louisiana,Census,60377,100.0,95.0,*,2014_15,98.9,Polio Vaccination
+Louisiana,Census,59159,100.0,95.0,*,2015_16,96.9,Polio Vaccination
+Maine,Voluntary response,14162,75.3,95.0,NaN,2009_10,95.9,1 dose Varicella Vaccination (unknown disease history)
+Maine,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Maine,Census,13829,97.0,95.0,NaN,2011_12,94.9,1 dose Varicella Vaccination (unknown disease history)
+Maine,Census,14313,94.6,95.0,‡,2012_13,95.1,1 dose Varicella Vaccination (unknown disease history)
+Maine,Voluntary response,15441,82.4,95.0,‡,2013_14,93.8,1 dose Varicella Vaccination (unknown disease history)
+Maine,Voluntary response (public); Census (private),13704,88.9,95.0,‡,2014_15,96.2,1 dose Varicella Vaccination (unknown disease history)
+Maine,Census,13526,90.5,95.0,NaN,2015_16,96.1,1 dose Varicella Vaccination (unknown disease history)
+Maine,Voluntary response,14162,75.3,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maine,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Maine,Census,13829,97.0,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maine,Census,14313,94.6,95.0,‡,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maine,Voluntary response,15441,82.4,95.0,‡,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maine,Voluntary response (public); Census (private),13704,88.9,95.0,‡,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maine,Census,13526,90.5,95.0,NaN,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maine,Voluntary response,14162,75.3,95.0,NaN,2009_10,96.2,DTP/DTaP/DT Vaccination
+Maine,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Maine,Census,13829,97.0,95.0,NaN,2011_12,96.6,DTP/DTaP/DT Vaccination
+Maine,Census,14313,94.6,95.0,‡,2012_13,95.2,DTP/DTaP/DT Vaccination
+Maine,Voluntary response,15441,82.4,95.0,‡,2013_14,94.4,DTP/DTaP/DT Vaccination
+Maine,Voluntary response (public); Census (private),13704,88.9,95.0,‡,2014_15,95.4,DTP/DTaP/DT Vaccination
+Maine,Census,13526,90.5,95.0,NaN,2015_16,96.1,DTP/DTaP/DT Vaccination
+Maine,Voluntary response,14162,75.3,95.0,NaN,2009_10,NReq,Hepatitis B Vaccination
+Maine,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Maine,Census,13829,97.0,95.0,NaN,2011_12,NReq,Hepatitis B Vaccination
+Maine,Census,14313,94.6,95.0,‡,2012_13,NReq,Hepatitis B Vaccination
+Maine,Voluntary response,15441,82.4,95.0,‡,2013_14,NReq,Hepatitis B Vaccination
+Maine,Voluntary response (public); Census (private),13704,88.9,95.0,‡,2014_15,NReq,Hepatitis B Vaccination
+Maine,Census,13526,90.5,95.0,NaN,2015_16,NReq,Hepatitis B Vaccination
+Maine,Voluntary response,14162,75.3,95.0,NaN,2009_10,95.5,MMR Vaccination
+Maine,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Maine,Census,13829,97.0,95.0,NaN,2011_12,93.0,MMR Vaccination
+Maine,Census,14313,94.6,95.0,‡,2012_13,91.3,MMR Vaccination
+Maine,Voluntary response,15441,82.4,95.0,‡,2013_14,89.9,MMR Vaccination
+Maine,Voluntary response (public); Census (private),13704,88.9,95.0,‡,2014_15,92.1,MMR Vaccination
+Maine,Census,13526,90.5,95.0,NaN,2015_16,95.1,MMR Vaccination
+Maine,Voluntary response,14162,75.3,95.0,NaN,2009_10,95.4,Polio Vaccination
+Maine,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Maine,Census,13829,97.0,95.0,NaN,2011_12,96.1,Polio Vaccination
+Maine,Census,14313,94.6,95.0,‡,2012_13,95.2,Polio Vaccination
+Maine,Voluntary response,15441,82.4,95.0,‡,2013_14,93.4,Polio Vaccination
+Maine,Voluntary response (public); Census (private),13704,88.9,95.0,‡,2014_15,95.6,Polio Vaccination
+Maine,Census,13526,90.5,95.0,NaN,2015_16,96.0,Polio Vaccination
+Maryland,Voluntary response,75061,75.0,95.0,NaN,2009_10,99.5,1 dose Varicella Vaccination (unknown disease history)
+Maryland,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Maryland,Voluntary Response,72957,67.2,95.0,NaN,2011_12,99.7,1 dose Varicella Vaccination (unknown disease history)
+Maryland,Voluntary Response,75007,84.3,95.0,‡,2012_13,99.6,1 dose Varicella Vaccination (unknown disease history)
+Maryland,Census,75659,96.9,95.0,‡,2013_14,99.0,1 dose Varicella Vaccination (unknown disease history)
+Maryland,Census (public); Voluntary response (private),75391,90.2,95.0,‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Maryland,Census (public); Voluntary response (private),72012,94.3,95.0,‡,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Maryland,Voluntary response,75061,75.0,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maryland,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Maryland,Voluntary Response,72957,67.2,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maryland,Voluntary Response,75007,84.3,95.0,‡,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maryland,Census,75659,96.9,95.0,‡,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Maryland,Census (public); Voluntary response (private),75391,90.2,95.0,‡,2014_15,98.8,2 doses Varicella Vaccination (unknown disease history)
+Maryland,Census (public); Voluntary response (private),72012,94.3,95.0,‡,2015_16,99.2,2 doses Varicella Vaccination (unknown disease history)
+Maryland,Voluntary response,75061,75.0,95.0,NaN,2009_10,99.6,DTP/DTaP/DT Vaccination
+Maryland,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Maryland,Voluntary Response,72957,67.2,95.0,NaN,2011_12,99.6,DTP/DTaP/DT Vaccination
+Maryland,Voluntary Response,75007,84.3,95.0,‡,2012_13,99.4,DTP/DTaP/DT Vaccination
+Maryland,Census,75659,96.9,95.0,‡,2013_14,99.0,DTP/DTaP/DT Vaccination
+Maryland,Census (public); Voluntary response (private),75391,90.2,95.0,‡,2014_15,99.6,DTP/DTaP/DT Vaccination
+Maryland,Census (public); Voluntary response (private),72012,94.3,95.0,‡,2015_16,99.6,DTP/DTaP/DT Vaccination
+Maryland,Voluntary response,75061,75.0,95.0,NaN,2009_10,99.7,Hepatitis B Vaccination
+Maryland,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Maryland,Voluntary Response,72957,67.2,95.0,NaN,2011_12,99.6,Hepatitis B Vaccination
+Maryland,Voluntary Response,75007,84.3,95.0,‡,2012_13,99.4,Hepatitis B Vaccination
+Maryland,Census,75659,96.9,95.0,‡,2013_14,99.0,Hepatitis B Vaccination
+Maryland,Census (public); Voluntary response (private),75391,90.2,95.0,‡,2014_15,99.5,Hepatitis B Vaccination
+Maryland,Census (public); Voluntary response (private),72012,94.3,95.0,‡,2015_16,99.6,Hepatitis B Vaccination
+Maryland,Voluntary response,75061,75.0,95.0,NaN,2009_10,98.9,MMR Vaccination
+Maryland,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Maryland,Voluntary Response,72957,67.2,95.0,NaN,2011_12,98.7,MMR Vaccination
+Maryland,Voluntary Response,75007,84.3,95.0,‡,2012_13,98.2,MMR Vaccination
+Maryland,Census,75659,96.9,95.0,‡,2013_14,97.6,MMR Vaccination
+Maryland,Census (public); Voluntary response (private),75391,90.2,95.0,‡,2014_15,99.1,MMR Vaccination
+Maryland,Census (public); Voluntary response (private),72012,94.3,95.0,‡,2015_16,99.4,MMR Vaccination
+Maryland,Voluntary response,75061,75.0,95.0,NaN,2009_10,99.8,Polio Vaccination
+Maryland,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Maryland,Voluntary Response,72957,67.2,95.0,NaN,2011_12,99.7,Polio Vaccination
+Maryland,Voluntary Response,75007,84.3,95.0,‡,2012_13,99.6,Polio Vaccination
+Maryland,Census,75659,96.9,95.0,‡,2013_14,99.2,Polio Vaccination
+Maryland,Census (public); Voluntary response (private),75391,90.2,95.0,‡,2014_15,99.7,Polio Vaccination
+Maryland,Census (public); Voluntary response (private),72012,94.3,95.0,‡,2015_16,99.8,Polio Vaccination
+Massachusetts,Census,74476,100.0,95.0,*,2009_10,98.6,1 dose Varicella Vaccination (unknown disease history)
+Massachusetts,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Massachusetts,Census,79551,97.5,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Massachusetts,Census,79661,97.6,95.0,‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Massachusetts,Census,79894,97.9,95.0,‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Massachusetts,Census,74869,100.0,95.0,*. ‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Massachusetts,Census,72897,100.0,95.0,*.‡,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Massachusetts,Census,74476,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Massachusetts,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Massachusetts,Census,79551,97.5,95.0,NaN,2011_12,92.7,2 doses Varicella Vaccination (unknown disease history)
+Massachusetts,Census,79661,97.6,95.0,‡,2012_13,93.6,2 doses Varicella Vaccination (unknown disease history)
+Massachusetts,Census,79894,97.9,95.0,‡,2013_14,93.9,2 doses Varicella Vaccination (unknown disease history)
+Massachusetts,Census,74869,100.0,95.0,*. ‡,2014_15,94.1,2 doses Varicella Vaccination (unknown disease history)
+Massachusetts,Census,72897,100.0,95.0,*.‡,2015_16,95.8,2 doses Varicella Vaccination (unknown disease history)
+Massachusetts,Census,74476,100.0,95.0,*,2009_10,92.4,DTP/DTaP/DT Vaccination
+Massachusetts,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Massachusetts,Census,79551,97.5,95.0,NaN,2011_12,92.5,DTP/DTaP/DT Vaccination
+Massachusetts,Census,79661,97.6,95.0,‡,2012_13,93.1,DTP/DTaP/DT Vaccination
+Massachusetts,Census,79894,97.9,95.0,‡,2013_14,93.0,DTP/DTaP/DT Vaccination
+Massachusetts,Census,74869,100.0,95.0,*. ‡,2014_15,92.9,DTP/DTaP/DT Vaccination
+Massachusetts,Census,72897,100.0,95.0,*.‡,2015_16,94.9,DTP/DTaP/DT Vaccination
+Massachusetts,Census,74476,100.0,95.0,*,2009_10,97.7,Hepatitis B Vaccination
+Massachusetts,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Massachusetts,Census,79551,97.5,95.0,NaN,2011_12,97.8,Hepatitis B Vaccination
+Massachusetts,Census,79661,97.6,95.0,‡,2012_13,97.8,Hepatitis B Vaccination
+Massachusetts,Census,79894,97.9,95.0,‡,2013_14,97.2,Hepatitis B Vaccination
+Massachusetts,Census,74869,100.0,95.0,*. ‡,2014_15,96.9,Hepatitis B Vaccination
+Massachusetts,Census,72897,100.0,95.0,*.‡,2015_16,97.6,Hepatitis B Vaccination
+Massachusetts,Census,74476,100.0,95.0,*,2009_10,93.0,MMR Vaccination
+Massachusetts,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Massachusetts,Census,79551,97.5,95.0,NaN,2011_12,94.2,MMR Vaccination
+Massachusetts,Census,79661,97.6,95.0,‡,2012_13,94.8,MMR Vaccination
+Massachusetts,Census,79894,97.9,95.0,‡,2013_14,95.1,MMR Vaccination
+Massachusetts,Census,74869,100.0,95.0,*. ‡,2014_15,94.7,MMR Vaccination
+Massachusetts,Census,72897,100.0,95.0,*.‡,2015_16,96.4,MMR Vaccination
+Massachusetts,Census,74476,100.0,95.0,*,2009_10,92.9,Polio Vaccination
+Massachusetts,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Massachusetts,Census,79551,97.5,95.0,NaN,2011_12,93.3,Polio Vaccination
+Massachusetts,Census,79661,97.6,95.0,‡,2012_13,94.2,Polio Vaccination
+Massachusetts,Census,79894,97.9,95.0,‡,2013_14,94.4,Polio Vaccination
+Massachusetts,Census,74869,100.0,95.0,*. ‡,2014_15,95.0,Polio Vaccination
+Massachusetts,Census,72897,100.0,95.0,*.‡,2015_16,96.7,Polio Vaccination
+Michigan,Census,129810,100.0,95.0,*,2009_10,97.3,1 dose Varicella Vaccination (unknown disease history)
+Michigan,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Michigan,Census,124962,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Michigan,Census,124662,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Michigan,Census,120297,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Michigan,Census,117963,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Michigan,Census,116299,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Michigan,Census,129810,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Michigan,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Michigan,Census,124962,100.0,95.0,*,2011_12,93.2,2 doses Varicella Vaccination (unknown disease history)
+Michigan,Census,124662,100.0,95.0,*,2012_13,92.9,2 doses Varicella Vaccination (unknown disease history)
+Michigan,Census,120297,100.0,95.0,*,2013_14,93.0,2 doses Varicella Vaccination (unknown disease history)
+Michigan,Census,117963,100.0,95.0,*,2014_15,93.9,2 doses Varicella Vaccination (unknown disease history)
+Michigan,Census,116299,100.0,95.0,*,2015_16,95.2,2 doses Varicella Vaccination (unknown disease history)
+Michigan,Census,129810,100.0,95.0,*,2009_10,96.0,DTP/DTaP/DT Vaccination
+Michigan,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Michigan,Census,124962,100.0,95.0,*,2011_12,95.6,DTP/DTaP/DT Vaccination
+Michigan,Census,124662,100.0,95.0,*,2012_13,95.1,DTP/DTaP/DT Vaccination
+Michigan,Census,120297,100.0,95.0,*,2013_14,94.8,DTP/DTaP/DT Vaccination
+Michigan,Census,117963,100.0,95.0,*,2014_15,95.1,DTP/DTaP/DT Vaccination
+Michigan,Census,116299,100.0,95.0,*,2015_16,95.9,DTP/DTaP/DT Vaccination
+Michigan,Census,129810,100.0,95.0,*,2009_10,97.3,Hepatitis B Vaccination
+Michigan,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Michigan,Census,124962,100.0,95.0,*,2011_12,96.8,Hepatitis B Vaccination
+Michigan,Census,124662,100.0,95.0,*,2012_13,96.3,Hepatitis B Vaccination
+Michigan,Census,120297,100.0,95.0,*,2013_14,95.8,Hepatitis B Vaccination
+Michigan,Census,117963,100.0,95.0,*,2014_15,95.8,Hepatitis B Vaccination
+Michigan,Census,116299,100.0,95.0,*,2015_16,96.6,Hepatitis B Vaccination
+Michigan,Census,129810,100.0,95.0,*,2009_10,95.3,MMR Vaccination
+Michigan,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Michigan,Census,124962,100.0,95.0,*,2011_12,95.0,MMR Vaccination
+Michigan,Census,124662,100.0,95.0,*,2012_13,94.4,MMR Vaccination
+Michigan,Census,120297,100.0,95.0,*,2013_14,97.5,MMR Vaccination
+Michigan,Census,117963,100.0,95.0,*,2014_15,94.3,MMR Vaccination
+Michigan,Census,116299,100.0,95.0,*,2015_16,95.7,MMR Vaccination
+Michigan,Census,129810,100.0,95.0,*,2009_10,96.6,Polio Vaccination
+Michigan,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Michigan,Census,124962,100.0,95.0,*,2011_12,95.9,Polio Vaccination
+Michigan,Census,124662,100.0,95.0,*,2012_13,95.5,Polio Vaccination
+Michigan,Census,120297,100.0,95.0,*,2013_14,95.4,Polio Vaccination
+Michigan,Census,117963,100.0,95.0,*,2014_15,95.6,Polio Vaccination
+Michigan,Census,116299,100.0,95.0,*,2015_16,96.3,Polio Vaccination
+Minnesota,Census,70653,100.0,95.0,*,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Minnesota,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Minnesota,Census,71213,99.2,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Minnesota,Census,73310,100.0,95.0,*. ‡ ,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Minnesota,Census,72087,98.5,95.0,‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Minnesota,Census,70896,97.8,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Minnesota,Census,69710,97.8,95.0,§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Minnesota,Census,70653,100.0,95.0,*,2009_10,94.0,2 doses Varicella Vaccination (unknown disease history)
+Minnesota,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Minnesota,Census,71213,99.2,95.0,NaN,2011_12,94.9,2 doses Varicella Vaccination (unknown disease history)
+Minnesota,Census,73310,100.0,95.0,*. ‡ ,2012_13,95.9,2 doses Varicella Vaccination (unknown disease history)
+Minnesota,Census,72087,98.5,95.0,‡,2013_14,92.6,2 doses Varicella Vaccination (unknown disease history)
+Minnesota,Census,70896,97.8,95.0,NaN,2014_15,92.7,2 doses Varicella Vaccination (unknown disease history)
+Minnesota,Census,69710,97.8,95.0,§,2015_16,92.3,2 doses Varicella Vaccination (unknown disease history)
+Minnesota,Census,70653,100.0,95.0,*,2009_10,94.3,DTP/DTaP/DT Vaccination
+Minnesota,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Minnesota,Census,71213,99.2,95.0,NaN,2011_12,95.5,DTP/DTaP/DT Vaccination
+Minnesota,Census,73310,100.0,95.0,*. ‡ ,2012_13,96.7,DTP/DTaP/DT Vaccination
+Minnesota,Census,72087,98.5,95.0,‡,2013_14,96.6,DTP/DTaP/DT Vaccination
+Minnesota,Census,70896,97.8,95.0,NaN,2014_15,93.7,DTP/DTaP/DT Vaccination
+Minnesota,Census,69710,97.8,95.0,§,2015_16,93.0,DTP/DTaP/DT Vaccination
+Minnesota,Census,70653,100.0,95.0,*,2009_10,96.4,Hepatitis B Vaccination
+Minnesota,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Minnesota,Census,71213,99.2,95.0,NaN,2011_12,97.5,Hepatitis B Vaccination
+Minnesota,Census,73310,100.0,95.0,*. ‡ ,2012_13,96.8,Hepatitis B Vaccination
+Minnesota,Census,72087,98.5,95.0,‡,2013_14,96.6,Hepatitis B Vaccination
+Minnesota,Census,70896,97.8,95.0,NaN,2014_15,95.4,Hepatitis B Vaccination
+Minnesota,Census,69710,97.8,95.0,§,2015_16,95.2,Hepatitis B Vaccination
+Minnesota,Census,70653,100.0,95.0,*,2009_10,95.1,MMR Vaccination
+Minnesota,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Minnesota,Census,71213,99.2,95.0,NaN,2011_12,95.7,MMR Vaccination
+Minnesota,Census,73310,100.0,95.0,*. ‡ ,2012_13,96.3,MMR Vaccination
+Minnesota,Census,72087,98.5,95.0,‡,2013_14,93.4,MMR Vaccination
+Minnesota,Census,70896,97.8,95.0,NaN,2014_15,93.5,MMR Vaccination
+Minnesota,Census,69710,97.8,95.0,§,2015_16,92.8,MMR Vaccination
+Minnesota,Census,70653,100.0,95.0,*,2009_10,94.8,Polio Vaccination
+Minnesota,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Minnesota,Census,71213,99.2,95.0,NaN,2011_12,95.8,Polio Vaccination
+Minnesota,Census,73310,100.0,95.0,*. ‡ ,2012_13,96.7,Polio Vaccination
+Minnesota,Census,72087,98.5,95.0,‡,2013_14,96.6,Polio Vaccination
+Minnesota,Census,70896,97.8,95.0,NaN,2014_15,94.3,Polio Vaccination
+Minnesota,Census,69710,97.8,95.0,§,2015_16,93.7,Polio Vaccination
+Mississippi,Census,46922,100.0,95.0,*,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Mississippi,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Mississippi,Census,44912,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Mississippi,Census,46595,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Mississippi,Census,45719,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Mississippi,Census,44129,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Mississippi,Census,41042,100.0,95.0,≥.*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Mississippi,Census,46922,100.0,95.0,≥. *,2009_10,99.7,2 doses Varicella Vaccination (unknown disease history)
+Mississippi,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Mississippi,Census,44912,100.0,95.0,≥. *,2011_12,99.2,2 doses Varicella Vaccination (unknown disease history)
+Mississippi,Census,46595,100.0,95.0,≥. *,2012_13,99.9,2 doses Varicella Vaccination (unknown disease history)
+Mississippi,Census,45719,100.0,95.0,≥. *,2013_14,99.7,2 doses Varicella Vaccination (unknown disease history)
+Mississippi,Census,44129,100.0,95.0,≥. *,2014_15,99.2,2 doses Varicella Vaccination (unknown disease history)
+Mississippi,Census,41042,100.0,95.0,≥.*,2015_16,99.4,2 doses Varicella Vaccination (unknown disease history)
+Mississippi,Census,46922,100.0,95.0,≥. *,2009_10,99.7,DTP/DTaP/DT Vaccination
+Mississippi,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Mississippi,Census,44912,100.0,95.0,≥. *,2011_12,99.2,DTP/DTaP/DT Vaccination
+Mississippi,Census,46595,100.0,95.0,≥. *,2012_13,99.9,DTP/DTaP/DT Vaccination
+Mississippi,Census,45719,100.0,95.0,≥. *,2013_14,99.7,DTP/DTaP/DT Vaccination
+Mississippi,Census,44129,100.0,95.0,≥. *,2014_15,99.2,DTP/DTaP/DT Vaccination
+Mississippi,Census,41042,100.0,95.0,≥.*,2015_16,99.4,DTP/DTaP/DT Vaccination
+Mississippi,Census,46922,100.0,95.0,≥. *,2009_10,99.7,Hepatitis B Vaccination
+Mississippi,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Mississippi,Census,44912,100.0,95.0,≥. *,2011_12,99.2,Hepatitis B Vaccination
+Mississippi,Census,46595,100.0,95.0,≥. *,2012_13,99.9,Hepatitis B Vaccination
+Mississippi,Census,45719,100.0,95.0,≥. *,2013_14,99.7,Hepatitis B Vaccination
+Mississippi,Census,44129,100.0,95.0,≥. *,2014_15,99.2,Hepatitis B Vaccination
+Mississippi,Census,41042,100.0,95.0,≥.*,2015_16,99.4,Hepatitis B Vaccination
+Mississippi,Census,46922,100.0,95.0,≥. *,2009_10,99.7,MMR Vaccination
+Mississippi,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Mississippi,Census,44912,100.0,95.0,≥. *,2011_12,99.2,MMR Vaccination
+Mississippi,Census,46595,100.0,95.0,≥. *,2012_13,99.9,MMR Vaccination
+Mississippi,Census,45719,100.0,95.0,≥. *,2013_14,99.7,MMR Vaccination
+Mississippi,Census,44129,100.0,95.0,≥. *,2014_15,99.2,MMR Vaccination
+Mississippi,Census,41042,100.0,95.0,≥.*,2015_16,99.4,MMR Vaccination
+Mississippi,Census,46922,100.0,95.0,≥. *,2009_10,99.7,Polio Vaccination
+Mississippi,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Mississippi,Census,44912,100.0,95.0,≥. *,2011_12,99.2,Polio Vaccination
+Mississippi,Census,46595,100.0,95.0,≥. *,2012_13,99.9,Polio Vaccination
+Mississippi,Census,45719,100.0,95.0,≥. *,2013_14,99.7,Polio Vaccination
+Mississippi,Census,44129,100.0,95.0,≥. *,2014_15,99.2,Polio Vaccination
+Mississippi,Census,41042,100.0,95.0,≥.*,2015_16,99.4,Polio Vaccination
+Missouri,Random sample,75958,3.0,95.0,NaN,2009_10,98.8,1 dose Varicella Vaccination (unknown disease history)
+Missouri,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Missouri,2-stage Cluster Sample,75240,4.7,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Missouri,2-stage Cluster Sample,78416,5.9,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Missouri,Census,78140,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Missouri,Census,75900,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Missouri,Census,74413,100.0,95.0,*.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Missouri,Random sample,75958,3.0,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Missouri,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Missouri,2-stage Cluster Sample,75240,4.7,95.0,NaN,2011_12,95.1,2 doses Varicella Vaccination (unknown disease history)
+Missouri,2-stage Cluster Sample,78416,5.9,95.0,NaN,2012_13,96.1,2 doses Varicella Vaccination (unknown disease history)
+Missouri,Census,78140,100.0,95.0,*,2013_14,94.6,2 doses Varicella Vaccination (unknown disease history)
+Missouri,Census,75900,100.0,95.0,*,2014_15,95.3,2 doses Varicella Vaccination (unknown disease history)
+Missouri,Census,74413,100.0,95.0,*.§,2015_16,95.4,2 doses Varicella Vaccination (unknown disease history)
+Missouri,Random sample,75958,3.0,95.0,NaN,2009_10,97.1,DTP/DTaP/DT Vaccination
+Missouri,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Missouri,2-stage Cluster Sample,75240,4.7,95.0,NaN,2011_12,97.1,DTP/DTaP/DT Vaccination
+Missouri,2-stage Cluster Sample,78416,5.9,95.0,NaN,2012_13,96.5,DTP/DTaP/DT Vaccination
+Missouri,Census,78140,100.0,95.0,*,2013_14,96.0,DTP/DTaP/DT Vaccination
+Missouri,Census,75900,100.0,95.0,*,2014_15,96.0,DTP/DTaP/DT Vaccination
+Missouri,Census,74413,100.0,95.0,*.§,2015_16,95.6,DTP/DTaP/DT Vaccination
+Missouri,Random sample,75958,3.0,95.0,NaN,2009_10,97.4,Hepatitis B Vaccination
+Missouri,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Missouri,2-stage Cluster Sample,75240,4.7,95.0,NaN,2011_12,96.0,Hepatitis B Vaccination
+Missouri,2-stage Cluster Sample,78416,5.9,95.0,NaN,2012_13,96.2,Hepatitis B Vaccination
+Missouri,Census,78140,100.0,95.0,*,2013_14,96.5,Hepatitis B Vaccination
+Missouri,Census,75900,100.0,95.0,*,2014_15,96.9,Hepatitis B Vaccination
+Missouri,Census,74413,100.0,95.0,*.§,2015_16,96.9,Hepatitis B Vaccination
+Missouri,Random sample,75958,3.0,95.0,NaN,2009_10,97.3,MMR Vaccination
+Missouri,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Missouri,2-stage Cluster Sample,75240,4.7,95.0,NaN,2011_12,96.8,MMR Vaccination
+Missouri,2-stage Cluster Sample,78416,5.9,95.0,NaN,2012_13,96.7,MMR Vaccination
+Missouri,Census,78140,100.0,95.0,*,2013_14,95.5,MMR Vaccination
+Missouri,Census,75900,100.0,95.0,*,2014_15,95.8,MMR Vaccination
+Missouri,Census,74413,100.0,95.0,*.§,2015_16,95.7,MMR Vaccination
+Missouri,Random sample,75958,3.0,95.0,NaN,2009_10,98.1,Polio Vaccination
+Missouri,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Missouri,2-stage Cluster Sample,75240,4.7,95.0,NaN,2011_12,97.2,Polio Vaccination
+Missouri,2-stage Cluster Sample,78416,5.9,95.0,NaN,2012_13,96.9,Polio Vaccination
+Missouri,Census,78140,100.0,95.0,*,2013_14,95.9,Polio Vaccination
+Missouri,Census,75900,100.0,95.0,*,2014_15,96.3,Polio Vaccination
+Missouri,Census,74413,100.0,95.0,*.§,2015_16,96.0,Polio Vaccination
+Montana,Census,12335,98.8,95.0,NaN,2009_10,NReq,1 dose Varicella Vaccination (unknown disease history)
+Montana,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Montana,Census,12128,100.0,95.0,*,2011_12,NReq,1 dose Varicella Vaccination (unknown disease history)
+Montana,Census,12516,95.8,95.0,NaN,2012_13,NReq,1 dose Varicella Vaccination (unknown disease history)
+Montana,Census,12855,95.4,95.0,NaN,2013_14,NReq,1 dose Varicella Vaccination (unknown disease history)
+Montana,Census (public); Voluntary response (private),12501,95.7,95.0,NaN,2014_15,NReq,1 dose Varicella Vaccination (unknown disease history)
+Montana,Census,11484,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Montana,Census,12335,98.8,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Montana,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Montana,Census,12128,100.0,95.0,*,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Montana,Census,12516,95.8,95.0,NaN,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Montana,Census,12855,95.4,95.0,NaN,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Montana,Census (public); Voluntary response (private),12501,95.7,95.0,NaN,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Montana,Census,11484,100.0,95.0,*,2015_16,93.6,2 doses Varicella Vaccination (unknown disease history)
+Montana,Census,12335,98.8,95.0,NaN,2009_10,96.7,DTP/DTaP/DT Vaccination
+Montana,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Montana,Census,12128,100.0,95.0,*,2011_12,94.8,DTP/DTaP/DT Vaccination
+Montana,Census,12516,95.8,95.0,NaN,2012_13,94.5,DTP/DTaP/DT Vaccination
+Montana,Census,12855,95.4,95.0,NaN,2013_14,94.8,DTP/DTaP/DT Vaccination
+Montana,Census (public); Voluntary response (private),12501,95.7,95.0,NaN,2014_15,94.6,DTP/DTaP/DT Vaccination
+Montana,Census,11484,100.0,95.0,*,2015_16,94.0,DTP/DTaP/DT Vaccination
+Montana,Census,12335,98.8,95.0,NaN,2009_10,NReq,Hepatitis B Vaccination
+Montana,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Montana,Census,12128,100.0,95.0,*,2011_12,NReq,Hepatitis B Vaccination
+Montana,Census,12516,95.8,95.0,NaN,2012_13,NReq,Hepatitis B Vaccination
+Montana,Census,12855,95.4,95.0,NaN,2013_14,NReq,Hepatitis B Vaccination
+Montana,Census (public); Voluntary response (private),12501,95.7,95.0,NaN,2014_15,NReq,Hepatitis B Vaccination
+Montana,Census,11484,100.0,95.0,*,2015_16,NReq,Hepatitis B Vaccination
+Montana,Census,12335,98.8,95.0,NaN,2009_10,95.5,MMR Vaccination
+Montana,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Montana,Census,12128,100.0,95.0,*,2011_12,95.0,MMR Vaccination
+Montana,Census,12516,95.8,95.0,NaN,2012_13,94.8,MMR Vaccination
+Montana,Census,12855,95.4,95.0,NaN,2013_14,93.7,MMR Vaccination
+Montana,Census (public); Voluntary response (private),12501,95.7,95.0,NaN,2014_15,94.6,MMR Vaccination
+Montana,Census,11484,100.0,95.0,*,2015_16,94.9,MMR Vaccination
+Montana,Census,12335,98.8,95.0,NaN,2009_10,96.9,Polio Vaccination
+Montana,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Montana,Census,12128,100.0,95.0,*,2011_12,95.7,Polio Vaccination
+Montana,Census,12516,95.8,95.0,NaN,2012_13,95.0,Polio Vaccination
+Montana,Census,12855,95.4,95.0,NaN,2013_14,95.3,Polio Vaccination
+Montana,Census (public); Voluntary response (private),12501,95.7,95.0,NaN,2014_15,95.2,Polio Vaccination
+Montana,Census,11484,100.0,95.0,*,2015_16,95.3,Polio Vaccination
+Nebraska,Census,29607,96.4,95.0,NaN,2009_10,97.2,1 dose Varicella Vaccination (unknown disease history)
+Nebraska,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nebraska,Census,26715,96.6,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nebraska,Census,24999,96.6,95.0,‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nebraska,Census,27000,97.3,95.0,‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nebraska,Census,26665,100.0,95.0,*. ‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nebraska,Census,30409,100.0,95.0,*.‡,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nebraska,Census,29607,96.4,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Nebraska,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Nebraska,Census,26715,96.6,95.0,NaN,2011_12,96.8,2 doses Varicella Vaccination (unknown disease history)
+Nebraska,Census,24999,96.6,95.0,‡,2012_13,94.7,2 doses Varicella Vaccination (unknown disease history)
+Nebraska,Census,27000,97.3,95.0,‡,2013_14,94.9,2 doses Varicella Vaccination (unknown disease history)
+Nebraska,Census,26665,100.0,95.0,*. ‡,2014_15,95.8,2 doses Varicella Vaccination (unknown disease history)
+Nebraska,Census,30409,100.0,95.0,*.‡,2015_16,97.3,2 doses Varicella Vaccination (unknown disease history)
+Nebraska,Census,29607,96.4,95.0,NaN,2009_10,98.7,DTP/DTaP/DT Vaccination
+Nebraska,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Nebraska,Census,26715,96.6,95.0,NaN,2011_12,99.7,DTP/DTaP/DT Vaccination
+Nebraska,Census,24999,96.6,95.0,‡,2012_13,95.5,DTP/DTaP/DT Vaccination
+Nebraska,Census,27000,97.3,95.0,‡,2013_14,96.8,DTP/DTaP/DT Vaccination
+Nebraska,Census,26665,100.0,95.0,*. ‡,2014_15,96.4,DTP/DTaP/DT Vaccination
+Nebraska,Census,30409,100.0,95.0,*.‡,2015_16,96.8,DTP/DTaP/DT Vaccination
+Nebraska,Census,29607,96.4,95.0,NaN,2009_10,97.5,Hepatitis B Vaccination
+Nebraska,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Nebraska,Census,26715,96.6,95.0,NaN,2011_12,99.3,Hepatitis B Vaccination
+Nebraska,Census,24999,96.6,95.0,‡,2012_13,96.2,Hepatitis B Vaccination
+Nebraska,Census,27000,97.3,95.0,‡,2013_14,95.7,Hepatitis B Vaccination
+Nebraska,Census,26665,100.0,95.0,*. ‡,2014_15,96.9,Hepatitis B Vaccination
+Nebraska,Census,30409,100.0,95.0,*.‡,2015_16,96.8,Hepatitis B Vaccination
+Nebraska,Census,29607,96.4,95.0,NaN,2009_10,97.5,MMR Vaccination
+Nebraska,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Nebraska,Census,26715,96.6,95.0,NaN,2011_12,99.0,MMR Vaccination
+Nebraska,Census,24999,96.6,95.0,‡,2012_13,96.0,MMR Vaccination
+Nebraska,Census,27000,97.3,95.0,‡,2013_14,96.6,MMR Vaccination
+Nebraska,Census,26665,100.0,95.0,*. ‡,2014_15,96.0,MMR Vaccination
+Nebraska,Census,30409,100.0,95.0,*.‡,2015_16,95.6,MMR Vaccination
+Nebraska,Census,29607,96.4,95.0,NaN,2009_10,98.7,Polio Vaccination
+Nebraska,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Nebraska,Census,26715,96.6,95.0,NaN,2011_12,99.5,Polio Vaccination
+Nebraska,Census,24999,96.6,95.0,‡,2012_13,97.5,Polio Vaccination
+Nebraska,Census,27000,97.3,95.0,‡,2013_14,97.1,Polio Vaccination
+Nebraska,Census,26665,100.0,95.0,*. ‡,2014_15,97.6,Polio Vaccination
+Nebraska,Census,30409,100.0,95.0,*.‡,2015_16,97.1,Polio Vaccination
+Nevada,Random sample,35209,5.6,95.0,NaN,2009_10,76.5,1 dose Varicella Vaccination (unknown disease history)
+Nevada,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nevada,2-stage Cluster Sample,36557,5.2,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nevada,2-stage Cluster Sample,36070,4.3,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nevada,Stratified  2-stage cluster sample,35782,3.1,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nevada,Stratified 2-stage cluster sample,36755,2.8,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nevada,Stratified 2-stage cluster sample,37118,3.3,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Nevada,Random sample,35209,5.6,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Nevada,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Nevada,2-stage Cluster Sample,36557,5.2,95.0,NaN,2011_12,90.3,2 doses Varicella Vaccination (unknown disease history)
+Nevada,2-stage Cluster Sample,36070,4.3,95.0,NaN,2012_13,92.2,2 doses Varicella Vaccination (unknown disease history)
+Nevada,Stratified  2-stage cluster sample,35782,3.1,95.0,NaN,2013_14,93.6,2 doses Varicella Vaccination (unknown disease history)
+Nevada,Stratified 2-stage cluster sample,36755,2.8,95.0,NaN,2014_15,92.9,2 doses Varicella Vaccination (unknown disease history)
+Nevada,Stratified 2-stage cluster sample,37118,3.3,95.0,NaN,2015_16,93.4,2 doses Varicella Vaccination (unknown disease history)
+Nevada,Random sample,35209,5.6,95.0,NaN,2009_10,97.9,DTP/DTaP/DT Vaccination
+Nevada,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Nevada,2-stage Cluster Sample,36557,5.2,95.0,NaN,2011_12,97.2,DTP/DTaP/DT Vaccination
+Nevada,2-stage Cluster Sample,36070,4.3,95.0,NaN,2012_13,96.6,DTP/DTaP/DT Vaccination
+Nevada,Stratified  2-stage cluster sample,35782,3.1,95.0,NaN,2013_14,94.4,DTP/DTaP/DT Vaccination
+Nevada,Stratified 2-stage cluster sample,36755,2.8,95.0,NaN,2014_15,93.2,DTP/DTaP/DT Vaccination
+Nevada,Stratified 2-stage cluster sample,37118,3.3,95.0,NaN,2015_16,94.2,DTP/DTaP/DT Vaccination
+Nevada,Random sample,35209,5.6,95.0,NaN,2009_10,98.0,Hepatitis B Vaccination
+Nevada,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Nevada,2-stage Cluster Sample,36557,5.2,95.0,NaN,2011_12,97.8,Hepatitis B Vaccination
+Nevada,2-stage Cluster Sample,36070,4.3,95.0,NaN,2012_13,96.8,Hepatitis B Vaccination
+Nevada,Stratified  2-stage cluster sample,35782,3.1,95.0,NaN,2013_14,95.9,Hepatitis B Vaccination
+Nevada,Stratified 2-stage cluster sample,36755,2.8,95.0,NaN,2014_15,96.7,Hepatitis B Vaccination
+Nevada,Stratified 2-stage cluster sample,37118,3.3,95.0,NaN,2015_16,97.0,Hepatitis B Vaccination
+Nevada,Random sample,35209,5.6,95.0,NaN,2009_10,94.5,MMR Vaccination
+Nevada,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Nevada,2-stage Cluster Sample,36557,5.2,95.0,NaN,2011_12,95.3,MMR Vaccination
+Nevada,2-stage Cluster Sample,36070,4.3,95.0,NaN,2012_13,93.6,MMR Vaccination
+Nevada,Stratified  2-stage cluster sample,35782,3.1,95.0,NaN,2013_14,95.6,MMR Vaccination
+Nevada,Stratified 2-stage cluster sample,36755,2.8,95.0,NaN,2014_15,94.0,MMR Vaccination
+Nevada,Stratified 2-stage cluster sample,37118,3.3,95.0,NaN,2015_16,94.7,MMR Vaccination
+Nevada,Random sample,35209,5.6,95.0,NaN,2009_10,98.7,Polio Vaccination
+Nevada,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Nevada,2-stage Cluster Sample,36557,5.2,95.0,NaN,2011_12,98.3,Polio Vaccination
+Nevada,2-stage Cluster Sample,36070,4.3,95.0,NaN,2012_13,97.4,Polio Vaccination
+Nevada,Stratified  2-stage cluster sample,35782,3.1,95.0,NaN,2013_14,94.8,Polio Vaccination
+Nevada,Stratified 2-stage cluster sample,36755,2.8,95.0,NaN,2014_15,93.7,Polio Vaccination
+Nevada,Stratified 2-stage cluster sample,37118,3.3,95.0,NaN,2015_16,95.6,Polio Vaccination
+New Hampshire,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Hampshire,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Hampshire,Census,13022,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Hampshire,Census,12943,99.2,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Hampshire,Census,13240,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Hampshire,Census (public); Voluntary response (private),12422,98.9,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Hampshire,Census,11852,99.8,95.0,≥,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Hampshire,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",2 doses Varicella Vaccination (unknown disease history)
+New Hampshire,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+New Hampshire,Census,13022,100.0,95.0,*,2011_12,"NA",2 doses Varicella Vaccination (unknown disease history)
+New Hampshire,Census,12943,99.2,95.0,NaN,2012_13,"NA",2 doses Varicella Vaccination (unknown disease history)
+New Hampshire,Census,13240,100.0,95.0,≥. *,2013_14,94.7,2 doses Varicella Vaccination (unknown disease history)
+New Hampshire,Census (public); Voluntary response (private),12422,98.9,95.0,≥,2014_15,91.4,2 doses Varicella Vaccination (unknown disease history)
+New Hampshire,Census,11852,99.8,95.0,≥,2015_16,91.9,2 doses Varicella Vaccination (unknown disease history)
+New Hampshire,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",DTP/DTaP/DT Vaccination
+New Hampshire,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+New Hampshire,Census,13022,100.0,95.0,*,2011_12,"NA",DTP/DTaP/DT Vaccination
+New Hampshire,Census,12943,99.2,95.0,NaN,2012_13,"NA",DTP/DTaP/DT Vaccination
+New Hampshire,Census,13240,100.0,95.0,≥. *,2013_14,94.7,DTP/DTaP/DT Vaccination
+New Hampshire,Census (public); Voluntary response (private),12422,98.9,95.0,≥,2014_15,91.4,DTP/DTaP/DT Vaccination
+New Hampshire,Census,11852,99.8,95.0,≥,2015_16,91.9,DTP/DTaP/DT Vaccination
+New Hampshire,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",Hepatitis B Vaccination
+New Hampshire,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+New Hampshire,Census,13022,100.0,95.0,*,2011_12,"NA",Hepatitis B Vaccination
+New Hampshire,Census,12943,99.2,95.0,NaN,2012_13,"NA",Hepatitis B Vaccination
+New Hampshire,Census,13240,100.0,95.0,≥. *,2013_14,94.7,Hepatitis B Vaccination
+New Hampshire,Census (public); Voluntary response (private),12422,98.9,95.0,≥,2014_15,91.4,Hepatitis B Vaccination
+New Hampshire,Census,11852,99.8,95.0,≥,2015_16,91.9,Hepatitis B Vaccination
+New Hampshire,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",MMR Vaccination
+New Hampshire,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+New Hampshire,Census,13022,100.0,95.0,*,2011_12,"NA",MMR Vaccination
+New Hampshire,Census,12943,99.2,95.0,NaN,2012_13,"NA",MMR Vaccination
+New Hampshire,Census,13240,100.0,95.0,≥. *,2013_14,94.7,MMR Vaccination
+New Hampshire,Census (public); Voluntary response (private),12422,98.9,95.0,≥,2014_15,91.4,MMR Vaccination
+New Hampshire,Census,11852,99.8,95.0,≥,2015_16,91.9,MMR Vaccination
+New Hampshire,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",Polio Vaccination
+New Hampshire,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+New Hampshire,Census,13022,100.0,95.0,*,2011_12,"NA",Polio Vaccination
+New Hampshire,Census,12943,99.2,95.0,NaN,2012_13,"NA",Polio Vaccination
+New Hampshire,Census,13240,100.0,95.0,≥. *,2013_14,94.7,Polio Vaccination
+New Hampshire,Census (public); Voluntary response (private),12422,98.9,95.0,≥,2014_15,91.4,Polio Vaccination
+New Hampshire,Census,11852,99.8,95.0,≥,2015_16,91.9,Polio Vaccination
+New Jersey,Census,118347,95.1,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Jersey,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Jersey,Census,118669,96.6,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Jersey,Census,122516,96.7,95.0,≥. ‡,2012_13,97.0,1 dose Varicella Vaccination (unknown disease history)
+New Jersey,Census,123085,95.4,95.0,≥. ‡,2013_14,96.8,1 dose Varicella Vaccination (unknown disease history)
+New Jersey,Census (public); Voluntary response (private),120471,93.9,95.0,≥. ‡,2014_15,92.3,1 dose Varicella Vaccination (unknown disease history)
+New Jersey,Census,110116,100.0,95.0,≥.*,2015_16,96.3,1 dose Varicella Vaccination (unknown disease history)
+New Jersey,Census,118347,95.1,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+New Jersey,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+New Jersey,Census,118669,96.6,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+New Jersey,Census,122516,96.7,95.0,‡,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+New Jersey,Census,123085,95.4,95.0,≥. ‡,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+New Jersey,Census (public); Voluntary response (private),120471,93.9,95.0,‡,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+New Jersey,Census,110116,100.0,95.0,≥.*,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+New Jersey,Census,118347,95.1,95.0,NaN,2009_10,"NA",DTP/DTaP/DT Vaccination
+New Jersey,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+New Jersey,Census,118669,96.6,95.0,NaN,2011_12,"NA",DTP/DTaP/DT Vaccination
+New Jersey,Census,122516,96.7,95.0,≥. ‡,2012_13,97.0,DTP/DTaP/DT Vaccination
+New Jersey,Census,123085,95.4,95.0,≥. ‡,2013_14,96.8,DTP/DTaP/DT Vaccination
+New Jersey,Census (public); Voluntary response (private),120471,93.9,95.0,≥. ‡,2014_15,92.3,DTP/DTaP/DT Vaccination
+New Jersey,Census,110116,100.0,95.0,≥.*,2015_16,96.3,DTP/DTaP/DT Vaccination
+New Jersey,Census,118347,95.1,95.0,NaN,2009_10,"NA",Hepatitis B Vaccination
+New Jersey,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+New Jersey,Census,118669,96.6,95.0,NaN,2011_12,"NA",Hepatitis B Vaccination
+New Jersey,Census,122516,96.7,95.0,≥. ‡,2012_13,97.0,Hepatitis B Vaccination
+New Jersey,Census,123085,95.4,95.0,≥. ‡,2013_14,96.8,Hepatitis B Vaccination
+New Jersey,Census (public); Voluntary response (private),120471,93.9,95.0,≥. ‡,2014_15,92.3,Hepatitis B Vaccination
+New Jersey,Census,110116,100.0,95.0,≥.*,2015_16,96.3,Hepatitis B Vaccination
+New Jersey,Census,118347,95.1,95.0,NaN,2009_10,"NA",MMR Vaccination
+New Jersey,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+New Jersey,Census,118669,96.6,95.0,NaN,2011_12,"NA",MMR Vaccination
+New Jersey,Census,122516,96.7,95.0,≥. ‡,2012_13,97.0,MMR Vaccination
+New Jersey,Census,123085,95.4,95.0,≥. ‡,2013_14,96.8,MMR Vaccination
+New Jersey,Census (public); Voluntary response (private),120471,93.9,95.0,≥. ‡,2014_15,92.3,MMR Vaccination
+New Jersey,Census,110116,100.0,95.0,≥.*,2015_16,96.3,MMR Vaccination
+New Jersey,Census,118347,95.1,95.0,NaN,2009_10,"NA",Polio Vaccination
+New Jersey,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+New Jersey,Census,118669,96.6,95.0,NaN,2011_12,"NA",Polio Vaccination
+New Jersey,Census,122516,96.7,95.0,≥. ‡,2012_13,97.0,Polio Vaccination
+New Jersey,Census,123085,95.4,95.0,≥. ‡,2013_14,96.8,Polio Vaccination
+New Jersey,Census (public); Voluntary response (private),120471,93.9,95.0,≥. ‡,2014_15,92.3,Polio Vaccination
+New Jersey,Census,110116,100.0,95.0,≥.*,2015_16,96.3,Polio Vaccination
+New Mexico,Random sample,26318,2.2,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Mexico,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Mexico,2-stage Cluster Sample,29159,2.0,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Mexico,2-stage Cluster Sample,29279,3.3,95.0,‡ ,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Mexico,Stratified  2-stage cluster sample,30725,2.7,95.0,‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Mexico,Stratified 2-stage cluster sample,29918,3.3,95.0,†,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Mexico,Stratified 2-stage cluster sample,29049,2.7,95.0,†,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+New Mexico,Random sample,26318,2.2,95.0,NaN,2009_10,94.9,2 doses Varicella Vaccination (unknown disease history)
+New Mexico,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+New Mexico,2-stage Cluster Sample,29159,2.0,95.0,NaN,2011_12,94.2,2 doses Varicella Vaccination (unknown disease history)
+New Mexico,2-stage Cluster Sample,29279,3.3,95.0,‡ ,2012_13,94.0,2 doses Varicella Vaccination (unknown disease history)
+New Mexico,Stratified  2-stage cluster sample,30725,2.7,95.0,‡,2013_14,93.4,2 doses Varicella Vaccination (unknown disease history)
+New Mexico,Stratified 2-stage cluster sample,29918,3.3,95.0,†,2014_15,97.2,2 doses Varicella Vaccination (unknown disease history)
+New Mexico,Stratified 2-stage cluster sample,29049,2.7,95.0,†,2015_16,95.8,2 doses Varicella Vaccination (unknown disease history)
+New Mexico,Random sample,26318,2.2,95.0,NaN,2009_10,99.0,DTP/DTaP/DT Vaccination
+New Mexico,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+New Mexico,2-stage Cluster Sample,29159,2.0,95.0,NaN,2011_12,96.9,DTP/DTaP/DT Vaccination
+New Mexico,2-stage Cluster Sample,29279,3.3,95.0,‡ ,2012_13,96.6,DTP/DTaP/DT Vaccination
+New Mexico,Stratified  2-stage cluster sample,30725,2.7,95.0,‡,2013_14,97.4,DTP/DTaP/DT Vaccination
+New Mexico,Stratified 2-stage cluster sample,29918,3.3,95.0,†,2014_15,96.4,DTP/DTaP/DT Vaccination
+New Mexico,Stratified 2-stage cluster sample,29049,2.7,95.0,†,2015_16,94.7,DTP/DTaP/DT Vaccination
+New Mexico,Random sample,26318,2.2,95.0,NaN,2009_10,99.1,Hepatitis B Vaccination
+New Mexico,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+New Mexico,2-stage Cluster Sample,29159,2.0,95.0,NaN,2011_12,97.3,Hepatitis B Vaccination
+New Mexico,2-stage Cluster Sample,29279,3.3,95.0,‡ ,2012_13,96.2,Hepatitis B Vaccination
+New Mexico,Stratified  2-stage cluster sample,30725,2.7,95.0,‡,2013_14,97.2,Hepatitis B Vaccination
+New Mexico,Stratified 2-stage cluster sample,29918,3.3,95.0,†,2014_15,98.7,Hepatitis B Vaccination
+New Mexico,Stratified 2-stage cluster sample,29049,2.7,95.0,†,2015_16,97.0,Hepatitis B Vaccination
+New Mexico,Random sample,26318,2.2,95.0,NaN,2009_10,97.6,MMR Vaccination
+New Mexico,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+New Mexico,2-stage Cluster Sample,29159,2.0,95.0,NaN,2011_12,95.7,MMR Vaccination
+New Mexico,2-stage Cluster Sample,29279,3.3,95.0,‡ ,2012_13,93.9,MMR Vaccination
+New Mexico,Stratified  2-stage cluster sample,30725,2.7,95.0,‡,2013_14,95.9,MMR Vaccination
+New Mexico,Stratified 2-stage cluster sample,29918,3.3,95.0,†,2014_15,97.7,MMR Vaccination
+New Mexico,Stratified 2-stage cluster sample,29049,2.7,95.0,†,2015_16,96.2,MMR Vaccination
+New Mexico,Random sample,26318,2.2,95.0,NaN,2009_10,99.3,Polio Vaccination
+New Mexico,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+New Mexico,2-stage Cluster Sample,29159,2.0,95.0,NaN,2011_12,97.6,Polio Vaccination
+New Mexico,2-stage Cluster Sample,29279,3.3,95.0,‡ ,2012_13,96.8,Polio Vaccination
+New Mexico,Stratified  2-stage cluster sample,30725,2.7,95.0,‡,2013_14,97.4,Polio Vaccination
+New Mexico,Stratified 2-stage cluster sample,29918,3.3,95.0,†,2014_15,97.9,Polio Vaccination
+New Mexico,Stratified 2-stage cluster sample,29049,2.7,95.0,†,2015_16,95.6,Polio Vaccination
+New York,Census,229273,100.0,95.0,*,2009_10,98.4,1 dose Varicella Vaccination (unknown disease history)
+New York,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+New York,Census,236016,100.0,95.0,*,2011_12,98.4,1 dose Varicella Vaccination (unknown disease history)
+New York,Census,239484,100.0,95.0,*. ‡,2012_13,98.4,1 dose Varicella Vaccination (unknown disease history)
+New York,Census,240318,100.0,95.0,*. ‡,2013_14,98.2,1 dose Varicella Vaccination (unknown disease history)
+New York,Census,237045,100.0,95.0,*. ‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+New York,Census,232521,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+New York,Census,229273,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+New York,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+New York,Census,236016,100.0,95.0,*,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+New York,Census,239484,100.0,95.0,*. ‡,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+New York,Census,240318,100.0,95.0,*. ‡,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+New York,Census,237045,100.0,95.0,*. ‡,2014_15,96.4,2 doses Varicella Vaccination (unknown disease history)
+New York,Census,232521,100.0,95.0,*,2015_16,94.8,2 doses Varicella Vaccination (unknown disease history)
+New York,Census,229273,100.0,95.0,*,2009_10,98.3,DTP/DTaP/DT Vaccination
+New York,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+New York,Census,236016,100.0,95.0,*,2011_12,97.9,DTP/DTaP/DT Vaccination
+New York,Census,239484,100.0,95.0,*. ‡,2012_13,98.4,DTP/DTaP/DT Vaccination
+New York,Census,240318,100.0,95.0,*. ‡,2013_14,98.1,DTP/DTaP/DT Vaccination
+New York,Census,237045,100.0,95.0,*.‡,2014_15,97.5,DTP/DTaP/DT Vaccination
+New York,Census,232521,100.0,95.0,*,2015_16,94.1,DTP/DTaP/DT Vaccination
+New York,Census,229273,100.0,95.0,*,2009_10,98.3,Hepatitis B Vaccination
+New York,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+New York,Census,236016,100.0,95.0,*,2011_12,98.2,Hepatitis B Vaccination
+New York,Census,239484,100.0,95.0,*. ‡,2012_13,98.2,Hepatitis B Vaccination
+New York,Census,240318,100.0,95.0,*. ‡,2013_14,97.9,Hepatitis B Vaccination
+New York,Census,237045,100.0,95.0,*.‡,2014_15,97.3,Hepatitis B Vaccination
+New York,Census,232521,100.0,95.0,*,2015_16,97.0,Hepatitis B Vaccination
+New York,Census,229273,100.0,95.0,*,2009_10,97.6,MMR Vaccination
+New York,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+New York,Census,236016,100.0,95.0,*,2011_12,96.9,MMR Vaccination
+New York,Census,239484,100.0,95.0,*. ‡,2012_13,96.6,MMR Vaccination
+New York,Census,240318,100.0,95.0,*. ‡,2013_14,96.8,MMR Vaccination
+New York,Census,237045,100.0,95.0,*.‡,2014_15,98.2,MMR Vaccination
+New York,Census,232521,100.0,95.0,*,2015_16,95.6,MMR Vaccination
+New York,Census,229273,100.0,95.0,*,2009_10,98.4,Polio Vaccination
+New York,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+New York,Census,236016,100.0,95.0,*,2011_12,98.4,Polio Vaccination
+New York,Census,239484,100.0,95.0,*. ‡,2012_13,98.4,Polio Vaccination
+New York,Census,240318,100.0,95.0,*. ‡,2013_14,98.1,Polio Vaccination
+New York,Census,237045,100.0,95.0,*.‡,2014_15,97.5,Polio Vaccination
+New York,Census,232521,100.0,95.0,*,2015_16,94.0,Polio Vaccination
+North Carolina,Census,116087,96.0,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Carolina,Census,128854,95.4,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Carolina,Census,130612,97.3,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Carolina,Census,126084,97.7,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Carolina,Census (public). Voluntary response (private),129792,95.0,95.0,NaN,2014_15,97.5,1 dose Varicella Vaccination (unknown disease history)
+North Carolina,Census (public). Voluntary response (private),128290,92.0,95.0,‡.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Carolina,Census,116087,96.0,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+North Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+North Carolina,Census,128854,95.4,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+North Carolina,Census,130612,97.3,95.0,NaN,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+North Carolina,Census,126084,97.7,95.0,NaN,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+North Carolina,Census (public). Voluntary response (private),129792,95.0,95.0,NaN,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+North Carolina,Census (public). Voluntary response (private),128290,92.0,95.0,‡.§,2015_16,97.0,2 doses Varicella Vaccination (unknown disease history)
+North Carolina,Census,116087,96.0,95.0,NaN,2009_10,"NA",DTP/DTaP/DT Vaccination
+North Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+North Carolina,Census,128854,95.4,95.0,NaN,2011_12,"NA",DTP/DTaP/DT Vaccination
+North Carolina,Census,130612,97.3,95.0,NaN,2012_13,"NA",DTP/DTaP/DT Vaccination
+North Carolina,Census,126084,97.7,95.0,NaN,2013_14,"NA",DTP/DTaP/DT Vaccination
+North Carolina,Census (public). Voluntary response (private),129792,95.0,95.0,NaN,2014_15,96.5,DTP/DTaP/DT Vaccination
+North Carolina,Census (public). Voluntary response (private),128290,92.0,95.0,‡.§,2015_16,97.1,DTP/DTaP/DT Vaccination
+North Carolina,Census,116087,96.0,95.0,NaN,2009_10,"NA",Hepatitis B Vaccination
+North Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+North Carolina,Census,128854,95.4,95.0,NaN,2011_12,"NA",Hepatitis B Vaccination
+North Carolina,Census,130612,97.3,95.0,NaN,2012_13,"NA",Hepatitis B Vaccination
+North Carolina,Census,126084,97.7,95.0,NaN,2013_14,"NA",Hepatitis B Vaccination
+North Carolina,Census (public). Voluntary response (private),129792,95.0,95.0,NaN,2014_15,97.5,Hepatitis B Vaccination
+North Carolina,Census (public). Voluntary response (private),128290,92.0,95.0,‡.§,2015_16,97.8,Hepatitis B Vaccination
+North Carolina,Census,116087,96.0,95.0,NaN,2009_10,"NA",MMR Vaccination
+North Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+North Carolina,Census,128854,95.4,95.0,NaN,2011_12,"NA",MMR Vaccination
+North Carolina,Census,130612,97.3,95.0,NaN,2012_13,"NA",MMR Vaccination
+North Carolina,Census,126084,97.7,95.0,NaN,2013_14,"NA",MMR Vaccination
+North Carolina,Census (public). Voluntary response (private),129792,95.0,95.0,NaN,2014_15,96.5,MMR Vaccination
+North Carolina,Census (public). Voluntary response (private),128290,92.0,95.0,‡.§,2015_16,97.3,MMR Vaccination
+North Carolina,Census,116087,96.0,95.0,NaN,2009_10,"NA",Polio Vaccination
+North Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+North Carolina,Census,128854,95.4,95.0,NaN,2011_12,"NA",Polio Vaccination
+North Carolina,Census,130612,97.3,95.0,NaN,2012_13,"NA",Polio Vaccination
+North Carolina,Census,126084,97.7,95.0,NaN,2013_14,"NA",Polio Vaccination
+North Carolina,Census (public). Voluntary response (private),129792,95.0,95.0,NaN,2014_15,96.7,Polio Vaccination
+North Carolina,Census (public). Voluntary response (private),128290,92.0,95.0,‡.§,2015_16,97.1,Polio Vaccination
+North Dakota,Random sample,8323,6.0,95.0,¶,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Dakota,Convenient ,8412,5.8,95.0,¶,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Dakota,2-stage Cluster Sample,9503,4.9,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Dakota,Census (Public); Stratified  2-stage cluster sample(Private),9780,96.1,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Dakota,Census,10017,99.9,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Dakota,Census,9875,97.1,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+North Dakota,Random sample,8323,6.0,95.0,¶,2009_10,89.6,2 doses Varicella Vaccination (unknown disease history)
+North Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+North Dakota,Convenient ,8412,5.8,95.0,¶,2011_12,88.9,2 doses Varicella Vaccination (unknown disease history)
+North Dakota,2-stage Cluster Sample,9503,4.9,95.0,NaN,2012_13,88.5,2 doses Varicella Vaccination (unknown disease history)
+North Dakota,Census (Public); Stratified  2-stage cluster sample(Private),9780,96.1,95.0,NaN,2013_14,89.4,2 doses Varicella Vaccination (unknown disease history)
+North Dakota,Census,10017,99.9,95.0,NaN,2014_15,89.5,2 doses Varicella Vaccination (unknown disease history)
+North Dakota,Census,9875,97.1,95.0,NaN,2015_16,90.4,2 doses Varicella Vaccination (unknown disease history)
+North Dakota,Random sample,8323,6.0,95.0,¶,2009_10,90.8,DTP/DTaP/DT Vaccination
+North Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+North Dakota,Convenient ,8412,5.8,95.0,¶,2011_12,91.2,DTP/DTaP/DT Vaccination
+North Dakota,2-stage Cluster Sample,9503,4.9,95.0,NaN,2012_13,89.0,DTP/DTaP/DT Vaccination
+North Dakota,Census (Public); Stratified  2-stage cluster sample(Private),9780,96.1,95.0,NaN,2013_14,90.2,DTP/DTaP/DT Vaccination
+North Dakota,Census,10017,99.9,95.0,NaN,2014_15,89.6,DTP/DTaP/DT Vaccination
+North Dakota,Census,9875,97.1,95.0,NaN,2015_16,90.8,DTP/DTaP/DT Vaccination
+North Dakota,Random sample,8323,6.0,95.0,¶,2009_10,92.6,Hepatitis B Vaccination
+North Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+North Dakota,Convenient ,8412,5.8,95.0,¶,2011_12,91.4,Hepatitis B Vaccination
+North Dakota,2-stage Cluster Sample,9503,4.9,95.0,NaN,2012_13,96.6,Hepatitis B Vaccination
+North Dakota,Census (Public); Stratified  2-stage cluster sample(Private),9780,96.1,95.0,NaN,2013_14,94.6,Hepatitis B Vaccination
+North Dakota,Census,10017,99.9,95.0,NaN,2014_15,92.8,Hepatitis B Vaccination
+North Dakota,Census,9875,97.1,95.0,NaN,2015_16,93.8,Hepatitis B Vaccination
+North Dakota,Random sample,8323,6.0,95.0,¶,2009_10,92.2,MMR Vaccination
+North Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+North Dakota,Convenient ,8412,5.8,95.0,¶,2011_12,90.6,MMR Vaccination
+North Dakota,2-stage Cluster Sample,9503,4.9,95.0,NaN,2012_13,89.9,MMR Vaccination
+North Dakota,Census (Public); Stratified  2-stage cluster sample(Private),9780,96.1,95.0,NaN,2013_14,90.0,MMR Vaccination
+North Dakota,Census,10017,99.9,95.0,NaN,2014_15,89.8,MMR Vaccination
+North Dakota,Census,9875,97.1,95.0,NaN,2015_16,90.7,MMR Vaccination
+North Dakota,Random sample,8323,6.0,95.0,¶,2009_10,92.2,Polio Vaccination
+North Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+North Dakota,Convenient ,8412,5.8,95.0,¶,2011_12,90.6,Polio Vaccination
+North Dakota,2-stage Cluster Sample,9503,4.9,95.0,NaN,2012_13,92.7,Polio Vaccination
+North Dakota,Census (Public); Stratified  2-stage cluster sample(Private),9780,96.1,95.0,NaN,2013_14,90.7,Polio Vaccination
+North Dakota,Census,10017,99.9,95.0,NaN,2014_15,90.9,Polio Vaccination
+North Dakota,Census,9875,97.1,95.0,NaN,2015_16,91.2,Polio Vaccination
+Ohio,Census,131137,100.0,95.0,*,2009_10,91.2,1 dose Varicella Vaccination (unknown disease history)
+Ohio,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Ohio,Convenient ,146144,94.5,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Ohio,Census,163687,86.9,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Ohio,Census,150000,92.5,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Ohio,Census (public); Voluntary response (private),149080,91.0,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Ohio,Census (public); Voluntary response (private),144604,93.7,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Ohio,Census,131137,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Ohio,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Ohio,Convenient ,146144,94.5,95.0,NaN,2011_12,95.4,2 doses Varicella Vaccination (unknown disease history)
+Ohio,Census,163687,86.9,95.0,NaN,2012_13,95.7,2 doses Varicella Vaccination (unknown disease history)
+Ohio,Census,150000,92.5,95.0,NaN,2013_14,95.7,2 doses Varicella Vaccination (unknown disease history)
+Ohio,Census (public); Voluntary response (private),149080,91.0,95.0,NaN,2014_15,91.2,2 doses Varicella Vaccination (unknown disease history)
+Ohio,Census (public); Voluntary response (private),144604,93.7,95.0,NaN,2015_16,91.5,2 doses Varicella Vaccination (unknown disease history)
+Ohio,Census,131137,100.0,95.0,*,2009_10,87.9,DTP/DTaP/DT Vaccination
+Ohio,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Ohio,Convenient ,146144,94.5,95.0,NaN,2011_12,95.9,DTP/DTaP/DT Vaccination
+Ohio,Census,163687,86.9,95.0,NaN,2012_13,96.3,DTP/DTaP/DT Vaccination
+Ohio,Census,150000,92.5,95.0,NaN,2013_14,96.1,DTP/DTaP/DT Vaccination
+Ohio,Census (public); Voluntary response (private),149080,91.0,95.0,NaN,2014_15,92.2,DTP/DTaP/DT Vaccination
+Ohio,Census (public); Voluntary response (private),144604,93.7,95.0,NaN,2015_16,92.1,DTP/DTaP/DT Vaccination
+Ohio,Census,131137,100.0,95.0,*,2009_10,90.5,Hepatitis B Vaccination
+Ohio,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Ohio,Convenient ,146144,94.5,95.0,NaN,2011_12,99.0,Hepatitis B Vaccination
+Ohio,Census,163687,86.9,95.0,NaN,2012_13,99.0,Hepatitis B Vaccination
+Ohio,Census,150000,92.5,95.0,NaN,2013_14,99.0,Hepatitis B Vaccination
+Ohio,Census (public); Voluntary response (private),149080,91.0,95.0,NaN,2014_15,95.2,Hepatitis B Vaccination
+Ohio,Census (public); Voluntary response (private),144604,93.7,95.0,NaN,2015_16,95.1,Hepatitis B Vaccination
+Ohio,Census,131137,100.0,95.0,*,2009_10,88.6,MMR Vaccination
+Ohio,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Ohio,Convenient ,146144,94.5,95.0,NaN,2011_12,96.1,MMR Vaccination
+Ohio,Census,163687,86.9,95.0,NaN,2012_13,96.3,MMR Vaccination
+Ohio,Census,150000,92.5,95.0,NaN,2013_14,96.2,MMR Vaccination
+Ohio,Census (public); Voluntary response (private),149080,91.0,95.0,NaN,2014_15,91.9,MMR Vaccination
+Ohio,Census (public); Voluntary response (private),144604,93.7,95.0,NaN,2015_16,92.1,MMR Vaccination
+Ohio,Census,131137,100.0,95.0,*,2009_10,88.3,Polio Vaccination
+Ohio,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Ohio,Convenient ,146144,94.5,95.0,NaN,2011_12,96.2,Polio Vaccination
+Ohio,Census,163687,86.9,95.0,NaN,2012_13,96.5,Polio Vaccination
+Ohio,Census,150000,92.5,95.0,NaN,2013_14,96.4,Polio Vaccination
+Ohio,Census (public); Voluntary response (private),149080,91.0,95.0,NaN,2014_15,92.5,Polio Vaccination
+Ohio,Census (public); Voluntary response (private),144604,93.7,95.0,NaN,2015_16,92.4,Polio Vaccination
+Oklahoma,Voluntary response,51128,88.9,95.0,NaN,2009_10,99.7,1 dose Varicella Vaccination (unknown disease history)
+Oklahoma,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Oklahoma,Census,52987,90.9,95.0,¶,2011_12,97.8,1 dose Varicella Vaccination (unknown disease history)
+Oklahoma,Census,56943,95.5,95.0,NaN,2012_13,92.8,1 dose Varicella Vaccination (unknown disease history)
+Oklahoma,Voluntary response,57377,71.3,95.0,NaN,2013_14,98.0,1 dose Varicella Vaccination (unknown disease history)
+Oklahoma,Census,56967,95.9,95.0,‡,2014_15,92.5,1 dose Varicella Vaccination (unknown disease history)
+Oklahoma,Census,54335,96.1,95.0,‡,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Oklahoma,Voluntary response,51128,88.9,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oklahoma,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Oklahoma,Census,52987,90.9,95.0,¶,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oklahoma,Census,56943,95.5,95.0,NaN,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oklahoma,Voluntary response,57377,71.3,95.0,NaN,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oklahoma,Census,56967,95.9,95.0,‡,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oklahoma,Census,54335,96.1,95.0,‡,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oklahoma,Voluntary response,51128,88.9,95.0,NaN,2009_10,97.3,DTP/DTaP/DT Vaccination
+Oklahoma,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Oklahoma,Census,52987,90.9,95.0,¶,2011_12,94.6,DTP/DTaP/DT Vaccination
+Oklahoma,Census,56943,95.5,95.0,NaN,2012_13,90.2,DTP/DTaP/DT Vaccination
+Oklahoma,Voluntary response,57377,71.3,95.0,NaN,2013_14,96.1,DTP/DTaP/DT Vaccination
+Oklahoma,Census,56967,95.9,95.0,‡,2014_15,90.0,DTP/DTaP/DT Vaccination
+Oklahoma,Census,54335,96.1,95.0,‡,2015_16,96.1,DTP/DTaP/DT Vaccination
+Oklahoma,Voluntary response,51128,88.9,95.0,NaN,2009_10,99.5,Hepatitis B Vaccination
+Oklahoma,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Oklahoma,Census,52987,90.9,95.0,¶,2011_12,97.7,Hepatitis B Vaccination
+Oklahoma,Census,56943,95.5,95.0,NaN,2012_13,92.7,Hepatitis B Vaccination
+Oklahoma,Voluntary response,57377,71.3,95.0,NaN,2013_14,97.7,Hepatitis B Vaccination
+Oklahoma,Census,56967,95.9,95.0,‡,2014_15,92.5,Hepatitis B Vaccination
+Oklahoma,Census,54335,96.1,95.0,‡,2015_16,96.4,Hepatitis B Vaccination
+Oklahoma,Voluntary response,51128,88.9,95.0,NaN,2009_10,97.3,MMR Vaccination
+Oklahoma,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Oklahoma,Census,52987,90.9,95.0,¶,2011_12,95.0,MMR Vaccination
+Oklahoma,Census,56943,95.5,95.0,NaN,2012_13,90.5,MMR Vaccination
+Oklahoma,Voluntary response,57377,71.3,95.0,NaN,2013_14,96.4,MMR Vaccination
+Oklahoma,Census,56967,95.9,95.0,‡,2014_15,90.3,MMR Vaccination
+Oklahoma,Census,54335,96.1,95.0,‡,2015_16,94.4,MMR Vaccination
+Oklahoma,Voluntary response,51128,88.9,95.0,NaN,2009_10,97.6,Polio Vaccination
+Oklahoma,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Oklahoma,Census,52987,90.9,95.0,¶,2011_12,94.6,Polio Vaccination
+Oklahoma,Census,56943,95.5,95.0,NaN,2012_13,90.6,Polio Vaccination
+Oklahoma,Voluntary response,57377,71.3,95.0,NaN,2013_14,96.5,Polio Vaccination
+Oklahoma,Census,56967,95.9,95.0,‡,2014_15,90.4,Polio Vaccination
+Oklahoma,Census,54335,96.1,95.0,‡,2015_16,95.9,Polio Vaccination
+Oregon,Census,44676,100.0,95.0,*,2009_10,95.2,1 dose Varicella Vaccination (unknown disease history)
+Oregon,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Oregon,Census,45855,100.0,95.0,*,2011_12,95.0,1 dose Varicella Vaccination (unknown disease history)
+Oregon,Census,47102,100.0,95.0,*. ‡,2012_13,94.5,1 dose Varicella Vaccination (unknown disease history)
+Oregon,Census,47649,100.0,95.0,*. ‡,2013_14,94.3,1 dose Varicella Vaccination (unknown disease history)
+Oregon,Census,46229,100.0,95.0,*. ‡,2014_15,95.2,1 dose Varicella Vaccination (unknown disease history)
+Oregon,Census,45531,100.0,95.0,*.‡,2015_16,95.2,1 dose Varicella Vaccination (unknown disease history)
+Oregon,Census,44676,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oregon,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Oregon,Census,45855,100.0,95.0,*,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oregon,Census,47102,100.0,95.0,*. ‡,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oregon,Census,47649,100.0,95.0,*. ‡,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oregon,Census,46229,100.0,95.0,*. ‡,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oregon,Census,45531,100.0,95.0,*.‡,2015_16,NReq,2 doses Varicella Vaccination (unknown disease history)
+Oregon,Census,44676,100.0,95.0,*,2009_10,93.9,DTP/DTaP/DT Vaccination
+Oregon,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Oregon,Census,45855,100.0,95.0,*,2011_12,93.7,DTP/DTaP/DT Vaccination
+Oregon,Census,47102,100.0,95.0,*. ‡,2012_13,93.4,DTP/DTaP/DT Vaccination
+Oregon,Census,47649,100.0,95.0,*. ‡,2013_14,93.3,DTP/DTaP/DT Vaccination
+Oregon,Census,46229,100.0,95.0,*.‡,2014_15,93.8,DTP/DTaP/DT Vaccination
+Oregon,Census,45531,100.0,95.0,*.‡,2015_16,93.5,DTP/DTaP/DT Vaccination
+Oregon,Census,44676,100.0,95.0,*,2009_10,95.0,Hepatitis B Vaccination
+Oregon,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Oregon,Census,45855,100.0,95.0,*,2011_12,94.6,Hepatitis B Vaccination
+Oregon,Census,47102,100.0,95.0,*. ‡,2012_13,94.3,Hepatitis B Vaccination
+Oregon,Census,47649,100.0,95.0,*. ‡,2013_14,93.5,Hepatitis B Vaccination
+Oregon,Census,46229,100.0,95.0,*.‡,2014_15,93.9,Hepatitis B Vaccination
+Oregon,Census,45531,100.0,95.0,*.‡,2015_16,93.7,Hepatitis B Vaccination
+Oregon,Census,44676,100.0,95.0,*,2009_10,94.4,MMR Vaccination
+Oregon,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Oregon,Census,45855,100.0,95.0,*,2011_12,94.0,MMR Vaccination
+Oregon,Census,47102,100.0,95.0,*. ‡,2012_13,93.5,MMR Vaccination
+Oregon,Census,47649,100.0,95.0,*. ‡,2013_14,93.2,MMR Vaccination
+Oregon,Census,46229,100.0,95.0,*.‡,2014_15,94.1,MMR Vaccination
+Oregon,Census,45531,100.0,95.0,*.‡,2015_16,93.9,MMR Vaccination
+Oregon,Census,44676,100.0,95.0,*,2009_10,94.3,Polio Vaccination
+Oregon,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Oregon,Census,45855,100.0,95.0,*,2011_12,94.0,Polio Vaccination
+Oregon,Census,47102,100.0,95.0,*. ‡,2012_13,93.6,Polio Vaccination
+Oregon,Census,47649,100.0,95.0,*. ‡,2013_14,93.3,Polio Vaccination
+Oregon,Census,46229,100.0,95.0,*.‡,2014_15,94.0,Polio Vaccination
+Oregon,Census,45531,100.0,95.0,*.‡,2015_16,93.7,Polio Vaccination
+Pennsylvania,Census,149656,100.0,95.0,*,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Pennsylvania,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,148042,99.0,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,151364,97.5,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,151253,100.0,95.0,*. ‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,146378,98.3,95.0,‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Pennsylvania,Census (public); Voluntary response (private),143298,93.2,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,149656,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Pennsylvania,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,148042,99.0,95.0,NaN,2011_12,85.1,2 doses Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,151364,97.5,95.0,NaN,2012_13,85.7,2 doses Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,151253,100.0,95.0,*. ‡,2013_14,84.0,2 doses Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,146378,98.3,95.0,‡,2014_15,92.0,2 doses Varicella Vaccination (unknown disease history)
+Pennsylvania,Census (public); Voluntary response (private),143298,93.2,95.0,NaN,2015_16,96.5,2 doses Varicella Vaccination (unknown disease history)
+Pennsylvania,Census,149656,100.0,95.0,||. *,2009_10,NReq,DTP/DTaP/DT Vaccination
+Pennsylvania,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Pennsylvania,Census,148042,99.0,95.0,||,2011_12,NReq,DTP/DTaP/DT Vaccination
+Pennsylvania,Census,151364,97.5,95.0,||,2012_13,NReq,DTP/DTaP/DT Vaccination
+Pennsylvania,Census,151253,100.0,95.0,||. *. ‡,2013_14,NReq,DTP/DTaP/DT Vaccination
+Pennsylvania,Census,146378,98.3,95.0,||. ‡,2014_15,NReq,DTP/DTaP/DT Vaccination
+Pennsylvania,Census (public); Voluntary response (private),143298,93.2,95.0,||,2015_16,NReq,DTP/DTaP/DT Vaccination
+Pennsylvania,Census,149656,100.0,95.0,*,2009_10,93.5,Hepatitis B Vaccination
+Pennsylvania,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Pennsylvania,Census,148042,99.0,95.0,NaN,2011_12,94.4,Hepatitis B Vaccination
+Pennsylvania,Census,151364,97.5,95.0,NaN,2012_13,94.1,Hepatitis B Vaccination
+Pennsylvania,Census,151253,100.0,95.0,*. ‡,2013_14,92.2,Hepatitis B Vaccination
+Pennsylvania,Census,146378,98.3,95.0,‡,2014_15,96.2,Hepatitis B Vaccination
+Pennsylvania,Census (public); Voluntary response (private),143298,93.2,95.0,NaN,2015_16,97.2,Hepatitis B Vaccination
+Pennsylvania,Census,149656,100.0,95.0,*,2009_10,86.9,MMR Vaccination
+Pennsylvania,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Pennsylvania,Census,148042,99.0,95.0,NaN,2011_12,86.9,MMR Vaccination
+Pennsylvania,Census,151364,97.5,95.0,NaN,2012_13,87.0,MMR Vaccination
+Pennsylvania,Census,151253,100.0,95.0,*. ‡,2013_14,85.3,MMR Vaccination
+Pennsylvania,Census,146378,98.3,95.0,‡,2014_15,91.7,MMR Vaccination
+Pennsylvania,Census (public); Voluntary response (private),143298,93.2,95.0,NaN,2015_16,95.5,MMR Vaccination
+Pennsylvania,Census,149656,100.0,95.0,*,2009_10,94.4,Polio Vaccination
+Pennsylvania,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Pennsylvania,Census,148042,99.0,95.0,NaN,2011_12,95.5,Polio Vaccination
+Pennsylvania,Census,151364,97.5,95.0,||,2012_13,94.9,Polio Vaccination
+Pennsylvania,Census,151253,100.0,95.0,*. ‡,2013_14,93.2,Polio Vaccination
+Pennsylvania,Census,146378,98.3,95.0,‡,2014_15,97.0,Polio Vaccination
+Pennsylvania,Census (public); Voluntary response (private),143298,93.2,95.0,NaN,2015_16,97.8,Polio Vaccination
+Rhode Island,Random sample,11818,11.6,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Rhode Island,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Rhode Island,2-stage Cluster Sample,12552,13.9,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Rhode Island,Voluntary Response,12552,75.2,95.0,‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Rhode Island,Census,11521,99.1,95.0,‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Rhode Island,Census,11163,98.9,95.0,‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Rhode Island,Census,11165,100.0,95.0,*.‡.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Rhode Island,Random sample,11818,11.6,95.0,NaN,2009_10,86.9,2 doses Varicella Vaccination (unknown disease history)
+Rhode Island,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Rhode Island,2-stage Cluster Sample,12552,13.9,95.0,NaN,2011_12,91.3,2 doses Varicella Vaccination (unknown disease history)
+Rhode Island,Voluntary Response,12552,75.2,95.0,‡,2012_13,94.2,2 doses Varicella Vaccination (unknown disease history)
+Rhode Island,Census,11521,99.1,95.0,‡,2013_14,94.7,2 doses Varicella Vaccination (unknown disease history)
+Rhode Island,Census,11163,98.9,95.0,‡,2014_15,95.4,2 doses Varicella Vaccination (unknown disease history)
+Rhode Island,Census,11165,100.0,95.0,*.‡.§,2015_16,96.0,2 doses Varicella Vaccination (unknown disease history)
+Rhode Island,Random sample,11818,11.6,95.0,NaN,2009_10,90.3,DTP/DTaP/DT Vaccination
+Rhode Island,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Rhode Island,2-stage Cluster Sample,12552,13.9,95.0,NaN,2011_12,93.4,DTP/DTaP/DT Vaccination
+Rhode Island,Voluntary Response,12552,75.2,95.0,‡,2012_13,95.2,DTP/DTaP/DT Vaccination
+Rhode Island,Census,11521,99.1,95.0,‡,2013_14,96.0,DTP/DTaP/DT Vaccination
+Rhode Island,Census,11163,98.9,95.0,‡,2014_15,96.1,DTP/DTaP/DT Vaccination
+Rhode Island,Census,11165,100.0,95.0,*.‡.§,2015_16,96.8,DTP/DTaP/DT Vaccination
+Rhode Island,Random sample,11818,11.6,95.0,NaN,2009_10,92.8,Hepatitis B Vaccination
+Rhode Island,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Rhode Island,2-stage Cluster Sample,12552,13.9,95.0,NaN,2011_12,93.1,Hepatitis B Vaccination
+Rhode Island,Voluntary Response,12552,75.2,95.0,‡,2012_13,98.0,Hepatitis B Vaccination
+Rhode Island,Census,11521,99.1,95.0,‡,2013_14,98.1,Hepatitis B Vaccination
+Rhode Island,Census,11163,98.9,95.0,‡,2014_15,97.7,Hepatitis B Vaccination
+Rhode Island,Census,11165,100.0,95.0,*.‡.§,2015_16,98.1,Hepatitis B Vaccination
+Rhode Island,Random sample,11818,11.6,95.0,NaN,2009_10,92.1,MMR Vaccination
+Rhode Island,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Rhode Island,2-stage Cluster Sample,12552,13.9,95.0,NaN,2011_12,91.7,MMR Vaccination
+Rhode Island,Voluntary Response,12552,75.2,95.0,‡,2012_13,94.2,MMR Vaccination
+Rhode Island,Census,11521,99.1,95.0,‡,2013_14,95.1,MMR Vaccination
+Rhode Island,Census,11163,98.9,95.0,‡,2014_15,95.7,MMR Vaccination
+Rhode Island,Census,11165,100.0,95.0,*.‡.§,2015_16,96.4,MMR Vaccination
+Rhode Island,Random sample,11818,11.6,95.0,NaN,2009_10,90.1,Polio Vaccination
+Rhode Island,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Rhode Island,2-stage Cluster Sample,12552,13.9,95.0,NaN,2011_12,92.6,Polio Vaccination
+Rhode Island,Voluntary Response,12552,75.2,95.0,‡,2012_13,95.5,Polio Vaccination
+Rhode Island,Census,11521,99.1,95.0,‡,2013_14,96.0,Polio Vaccination
+Rhode Island,Census,11163,98.9,95.0,‡,2014_15,96.2,Polio Vaccination
+Rhode Island,Census,11165,100.0,95.0,*.‡.§,2015_16,97.0,Polio Vaccination
+South Carolina,Random sample,53725,10.2,95.0,NaN,2009_10,91.0,1 dose Varicella Vaccination (unknown disease history)
+South Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Carolina,1-stage Cluster Sample,59307,10.7,95.0,NaN,2011_12,97.1,1 dose Varicella Vaccination (unknown disease history)
+South Carolina,1-Stage Cluster Sample,61799,17.9,95.0,≥,2012_13,90.9,1 dose Varicella Vaccination (unknown disease history)
+South Carolina,1-stage stratified sample,61661,11.0,95.0,NaN,2013_14,94.4,1 dose Varicella Vaccination (unknown disease history)
+South Carolina,Stratified 1-stage cluster sample,62864,12.2,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Carolina,Stratified 1-stage cluster sample,59240,8.9,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Carolina,Random sample,53725,10.2,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+South Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+South Carolina,1-stage Cluster Sample,59307,10.7,95.0,NaN,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+South Carolina,1-Stage Cluster Sample,61799,17.9,95.0,NaN,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+South Carolina,1-stage stratified sample,61661,11.0,95.0,NaN,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+South Carolina,Stratified 1-stage cluster sample,62864,12.2,95.0,NaN,2014_15,95.4,2 doses Varicella Vaccination (unknown disease history)
+South Carolina,Stratified 1-stage cluster sample,59240,8.9,95.0,NaN,2015_16,96.2,2 doses Varicella Vaccination (unknown disease history)
+South Carolina,Random sample,53725,10.2,95.0,NaN,2009_10,86.7,DTP/DTaP/DT Vaccination
+South Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+South Carolina,1-stage Cluster Sample,59307,10.7,95.0,NaN,2011_12,96.5,DTP/DTaP/DT Vaccination
+South Carolina,1-Stage Cluster Sample,61799,17.9,95.0,≥,2012_13,90.9,DTP/DTaP/DT Vaccination
+South Carolina,1-stage stratified sample,61661,11.0,95.0,NaN,2013_14,97.3,DTP/DTaP/DT Vaccination
+South Carolina,Stratified 1-stage cluster sample,62864,12.2,95.0,NaN,2014_15,97.2,DTP/DTaP/DT Vaccination
+South Carolina,Stratified 1-stage cluster sample,59240,8.9,95.0,NaN,2015_16,97.0,DTP/DTaP/DT Vaccination
+South Carolina,Random sample,53725,10.2,95.0,NaN,2009_10,87.6,Hepatitis B Vaccination
+South Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+South Carolina,1-stage Cluster Sample,59307,10.7,95.0,NaN,2011_12,96.6,Hepatitis B Vaccination
+South Carolina,1-Stage Cluster Sample,61799,17.9,95.0,≥,2012_13,90.9,Hepatitis B Vaccination
+South Carolina,1-stage stratified sample,61661,11.0,95.0,NaN,2013_14,96.5,Hepatitis B Vaccination
+South Carolina,Stratified 1-stage cluster sample,62864,12.2,95.0,NaN,2014_15,97.7,Hepatitis B Vaccination
+South Carolina,Stratified 1-stage cluster sample,59240,8.9,95.0,NaN,2015_16,97.2,Hepatitis B Vaccination
+South Carolina,Random sample,53725,10.2,95.0,NaN,2009_10,87.2,MMR Vaccination
+South Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+South Carolina,1-stage Cluster Sample,59307,10.7,95.0,NaN,2011_12,94.5,MMR Vaccination
+South Carolina,1-Stage Cluster Sample,61799,17.9,95.0,≥,2012_13,90.9,MMR Vaccination
+South Carolina,1-stage stratified sample,61661,11.0,95.0,NaN,2013_14,96.8,MMR Vaccination
+South Carolina,Stratified 1-stage cluster sample,62864,12.2,95.0,NaN,2014_15,96.5,MMR Vaccination
+South Carolina,Stratified 1-stage cluster sample,59240,8.9,95.0,NaN,2015_16,96.5,MMR Vaccination
+South Carolina,Random sample,53725,10.2,95.0,NaN,2009_10,87.7,Polio Vaccination
+South Carolina,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+South Carolina,1-stage Cluster Sample,59307,10.7,95.0,NaN,2011_12,96.7,Polio Vaccination
+South Carolina,1-Stage Cluster Sample,61799,17.9,95.0,≥,2012_13,90.9,Polio Vaccination
+South Carolina,1-stage stratified sample,61661,11.0,95.0,NaN,2013_14,97.6,Polio Vaccination
+South Carolina,Stratified 1-stage cluster sample,62864,12.2,95.0,NaN,2014_15,97.7,Polio Vaccination
+South Carolina,Stratified 1-stage cluster sample,59240,8.9,95.0,NaN,2015_16,97.5,Polio Vaccination
+South Dakota,Census,11499,100.0,95.0,*,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Dakota,Census,12127,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Dakota,Census,12468,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Dakota,Census,12566,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Dakota,Census,12008,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Dakota,Census,12181,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+South Dakota,Census,11499,100.0,95.0,*,2009_10,97.7,2 doses Varicella Vaccination (unknown disease history)
+South Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+South Dakota,Census,12127,100.0,95.0,*,2011_12,95.5,2 doses Varicella Vaccination (unknown disease history)
+South Dakota,Census,12468,100.0,95.0,*,2012_13,96.0,2 doses Varicella Vaccination (unknown disease history)
+South Dakota,Census,12566,100.0,95.0,*,2013_14,95.3,2 doses Varicella Vaccination (unknown disease history)
+South Dakota,Census,12008,100.0,95.0,*,2014_15,96.8,2 doses Varicella Vaccination (unknown disease history)
+South Dakota,Census,12181,100.0,95.0,*,2015_16,95.2,2 doses Varicella Vaccination (unknown disease history)
+South Dakota,Census,11499,100.0,95.0,*,2009_10,97.9,DTP/DTaP/DT Vaccination
+South Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+South Dakota,Census,12127,100.0,95.0,*,2011_12,97.5,DTP/DTaP/DT Vaccination
+South Dakota,Census,12468,100.0,95.0,*,2012_13,97.7,DTP/DTaP/DT Vaccination
+South Dakota,Census,12566,100.0,95.0,*,2013_14,96.7,DTP/DTaP/DT Vaccination
+South Dakota,Census,12008,100.0,95.0,*,2014_15,97.2,DTP/DTaP/DT Vaccination
+South Dakota,Census,12181,100.0,95.0,*,2015_16,96.4,DTP/DTaP/DT Vaccination
+South Dakota,Census,11499,100.0,95.0,*,2009_10,NReq,Hepatitis B Vaccination
+South Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+South Dakota,Census,12127,100.0,95.0,*.††,2011_12,95.4,Hepatitis B Vaccination
+South Dakota,Census,12468,100.0,95.0,*.††,2012_13,93.9,Hepatitis B Vaccination
+South Dakota,Census,12566,100.0,95.0,*.††,2013_14,92.8,Hepatitis B Vaccination
+South Dakota,Census,12008,100.0,95.0,*.††,2014_15,92.2,Hepatitis B Vaccination
+South Dakota,Census,12181,100.0,95.0,*.††,2015_16,94.3,Hepatitis B Vaccination
+South Dakota,Census,11499,100.0,95.0,*,2009_10,96.8,MMR Vaccination
+South Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+South Dakota,Census,12127,100.0,95.0,*,2011_12,97.4,MMR Vaccination
+South Dakota,Census,12468,100.0,95.0,*,2012_13,97.9,MMR Vaccination
+South Dakota,Census,12566,100.0,95.0,*,2013_14,96.6,MMR Vaccination
+South Dakota,Census,12008,100.0,95.0,*,2014_15,97.1,MMR Vaccination
+South Dakota,Census,12181,100.0,95.0,*,2015_16,96.5,MMR Vaccination
+South Dakota,Census,11499,100.0,95.0,*,2009_10,97.8,Polio Vaccination
+South Dakota,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+South Dakota,Census,12127,100.0,95.0,*,2011_12,97.2,Polio Vaccination
+South Dakota,Census,12468,100.0,95.0,*,2012_13,97.6,Polio Vaccination
+South Dakota,Census,12566,100.0,95.0,*,2013_14,96.4,Polio Vaccination
+South Dakota,Census,12008,100.0,95.0,*,2014_15,96.8,Polio Vaccination
+South Dakota,Census,12181,100.0,95.0,*,2015_16,96.3,Polio Vaccination
+Tennessee,Voluntary response,90811,88.1,95.0,≥,2009_10,97.4,1 dose Varicella Vaccination (unknown disease history)
+Tennessee,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Tennessee,Census,83950,99.9,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Tennessee,Census,85801,97.0,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Tennessee,Census,80212,99.8,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Tennessee,Census,78276,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Tennessee,Census,79233,100.0,95.0,*.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Tennessee,Voluntary response,90811,88.1,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Tennessee,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Tennessee,Census,83950,99.9,95.0,≥,2011_12,97.3,2 doses Varicella Vaccination (unknown disease history)
+Tennessee,Census,85801,97.0,95.0,≥,2012_13,94.5,2 doses Varicella Vaccination (unknown disease history)
+Tennessee,Census,80212,99.8,95.0,≥,2013_14,94.9,2 doses Varicella Vaccination (unknown disease history)
+Tennessee,Census,78276,100.0,95.0,≥. *,2014_15,95.1,2 doses Varicella Vaccination (unknown disease history)
+Tennessee,Census,79233,100.0,95.0,*.§,2015_16,93.5,2 doses Varicella Vaccination (unknown disease history)
+Tennessee,Voluntary response,90811,88.1,95.0,≥,2009_10,97.4,DTP/DTaP/DT Vaccination
+Tennessee,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Tennessee,Census,83950,99.9,95.0,≥,2011_12,97.3,DTP/DTaP/DT Vaccination
+Tennessee,Census,85801,97.0,95.0,≥,2012_13,94.5,DTP/DTaP/DT Vaccination
+Tennessee,Census,80212,99.8,95.0,≥,2013_14,94.9,DTP/DTaP/DT Vaccination
+Tennessee,Census,78276,100.0,95.0,≥. *,2014_15,95.1,DTP/DTaP/DT Vaccination
+Tennessee,Census,79233,100.0,95.0,*.§,2015_16,93.5,DTP/DTaP/DT Vaccination
+Tennessee,Voluntary response,90811,88.1,95.0,≥,2009_10,97.4,Hepatitis B Vaccination
+Tennessee,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Tennessee,Census,83950,99.9,95.0,≥,2011_12,97.3,Hepatitis B Vaccination
+Tennessee,Census,85801,97.0,95.0,≥,2012_13,94.5,Hepatitis B Vaccination
+Tennessee,Census,80212,99.8,95.0,≥,2013_14,94.9,Hepatitis B Vaccination
+Tennessee,Census,78276,100.0,95.0,≥. *,2014_15,95.1,Hepatitis B Vaccination
+Tennessee,Census,79233,100.0,95.0,*.§,2015_16,94.1,Hepatitis B Vaccination
+Tennessee,Voluntary response,90811,88.1,95.0,≥,2009_10,97.4,MMR Vaccination
+Tennessee,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Tennessee,Census,83950,99.9,95.0,≥,2011_12,97.3,MMR Vaccination
+Tennessee,Census,85801,97.0,95.0,≥,2012_13,94.5,MMR Vaccination
+Tennessee,Census,80212,99.8,95.0,≥,2013_14,94.9,MMR Vaccination
+Tennessee,Census,78276,100.0,95.0,≥. *,2014_15,95.1,MMR Vaccination
+Tennessee,Census,79233,100.0,95.0,*.§,2015_16,93.5,MMR Vaccination
+Tennessee,Voluntary response,90811,88.1,95.0,≥,2009_10,97.4,Polio Vaccination
+Tennessee,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Tennessee,Census,83950,99.9,95.0,≥,2011_12,97.3,Polio Vaccination
+Tennessee,Census,85801,97.0,95.0,≥,2012_13,94.5,Polio Vaccination
+Tennessee,Census,80212,99.8,95.0,≥,2013_14,94.9,Polio Vaccination
+Tennessee,Census,78276,100.0,95.0,≥. *,2014_15,95.1,Polio Vaccination
+Tennessee,Census,79233,100.0,95.0,*.§,2015_16,93.6,Polio Vaccination
+Texas,Census,381425,98.3,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Texas,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Texas,Census,388178,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Texas,Census,414688,96.6,95.0,‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Texas,Census,409255,97.1,95.0,‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Texas,Census (public); Voluntary response (private),406099,98.3,95.0,‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Texas,Census (public); Voluntary response (private),394801,98.7,95.0,‡.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Texas,Census,381425,98.3,95.0,NaN,2009_10,96.8,2 doses Varicella Vaccination (unknown disease history)
+Texas,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Texas,Census,388178,100.0,95.0,*,2011_12,99.2,2 doses Varicella Vaccination (unknown disease history)
+Texas,Census,414688,96.6,95.0,‡,2012_13,97.2,2 doses Varicella Vaccination (unknown disease history)
+Texas,Census,409255,97.1,95.0,‡,2013_14,97.2,2 doses Varicella Vaccination (unknown disease history)
+Texas,Census (public); Voluntary response (private),406099,98.3,95.0,‡,2014_15,97.0,2 doses Varicella Vaccination (unknown disease history)
+Texas,Census (public); Voluntary response (private),394801,98.7,95.0,‡.§,2015_16,97.2,2 doses Varicella Vaccination (unknown disease history)
+Texas,Census,381425,98.3,95.0,NaN,2009_10,97.7,DTP/DTaP/DT Vaccination
+Texas,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Texas,Census,388178,100.0,95.0,*,2011_12,99.3,DTP/DTaP/DT Vaccination
+Texas,Census,414688,96.6,95.0,‡,2012_13,97.3,DTP/DTaP/DT Vaccination
+Texas,Census,409255,97.1,95.0,‡,2013_14,97.2,DTP/DTaP/DT Vaccination
+Texas,Census (public); Voluntary response (private),406099,98.3,95.0,‡,2014_15,97.2,DTP/DTaP/DT Vaccination
+Texas,Census (public); Voluntary response (private),394801,98.7,95.0,‡.§,2015_16,97.4,DTP/DTaP/DT Vaccination
+Texas,Census,381425,98.3,95.0,NaN,2009_10,98.6,Hepatitis B Vaccination
+Texas,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Texas,Census,388178,100.0,95.0,*,2011_12,99.7,Hepatitis B Vaccination
+Texas,Census,414688,96.6,95.0,‡,2012_13,98.2,Hepatitis B Vaccination
+Texas,Census,409255,97.1,95.0,‡,2013_14,98.1,Hepatitis B Vaccination
+Texas,Census (public); Voluntary response (private),406099,98.3,95.0,‡,2014_15,98.0,Hepatitis B Vaccination
+Texas,Census (public); Voluntary response (private),394801,98.7,95.0,‡.§,2015_16,98.1,Hepatitis B Vaccination
+Texas,Census,381425,98.3,95.0,NaN,2009_10,98.1,MMR Vaccination
+Texas,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Texas,Census,388178,100.0,95.0,*,2011_12,99.3,MMR Vaccination
+Texas,Census,414688,96.6,95.0,‡,2012_13,97.5,MMR Vaccination
+Texas,Census,409255,97.1,95.0,‡,2013_14,97.5,MMR Vaccination
+Texas,Census (public); Voluntary response (private),406099,98.3,95.0,‡,2014_15,97.4,MMR Vaccination
+Texas,Census (public); Voluntary response (private),394801,98.7,95.0,‡.§,2015_16,97.6,MMR Vaccination
+Texas,Census,381425,98.3,95.0,NaN,2009_10,98.1,Polio Vaccination
+Texas,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Texas,Census,388178,100.0,95.0,*,2011_12,99.3,Polio Vaccination
+Texas,Census,414688,96.6,95.0,‡,2012_13,97.5,Polio Vaccination
+Texas,Census,409255,97.1,95.0,‡,2013_14,97.4,Polio Vaccination
+Texas,Census (public); Voluntary response (private),406099,98.3,95.0,‡,2014_15,97.3,Polio Vaccination
+Texas,Census (public); Voluntary response (private),394801,98.7,95.0,‡.§,2015_16,97.6,Polio Vaccination
+U.S. Median,NaN,NaN,NaN,NaN,NaN,2009_10,97.4,1 dose Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,NaN,NaN,2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,NaN,NaN,2011_12,97.0,1 dose Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,NaN,NaN,2012_13,96.1,1 dose Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,NaN,NaN,2013_14,96.5,1 dose Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,NaN,NaN,2014_15,95.4,1 dose Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,NaN,NaN,2015_16,96.1,1 dose Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2009_10,90.3,2 doses Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2011_12,92.7,2 doses Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2012_13,93.9,2 doses Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2013_14,93.3,2 doses Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2014_15,93.9,2 doses Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2015_16,94.3,2 doses Varicella Vaccination (unknown disease history)
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2009_10,96.1,DTP/DTaP/DT Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2010_11,"NA",DTP/DTaP/DT Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2011_12,95.5,DTP/DTaP/DT Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2012_13,95.1,DTP/DTaP/DT Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2013_14,95.0,DTP/DTaP/DT Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2014_15,94.3,DTP/DTaP/DT Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2015_16,94.2,DTP/DTaP/DT Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2009_10,97.2,Hepatitis B Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2010_11,"NA",Hepatitis B Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2011_12,96.5,Hepatitis B Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2012_13,95.8,Hepatitis B Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2013_14,95.9,Hepatitis B Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2014_15,95.4,Hepatitis B Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2015_16,95.8,Hepatitis B Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2009_10,94.5,MMR Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2010_11,"NA",MMR Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2011_12,94.8,MMR Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2012_13,94.5,MMR Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2013_14,94.7,MMR Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2014_15,94.0,MMR Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2015_16,94.6,MMR Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2009_10,95.8,Polio Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2010_11,"NA",Polio Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2011_12,95.9,Polio Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2012_13,95.1,Polio Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2013_14,94.9,Polio Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2014_15,94.7,Polio Vaccination
+U.S. Median,NaN,NaN,NaN,95.0,NaN,2015_16,94.7,Polio Vaccination
+Utah,Census,49957,100.0,95.0,*,2009_10,99.3,1 dose Varicella Vaccination (unknown disease history)
+Utah,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Utah,Census,53800,100.0,95.0,*,2011_12,99.5,1 dose Varicella Vaccination (unknown disease history)
+Utah,Census,54605,100.0,95.0,*,2012_13,99.6,1 dose Varicella Vaccination (unknown disease history)
+Utah,Census,54779,100.0,95.0,*,2013_14,99.6,1 dose Varicella Vaccination (unknown disease history)
+Utah,Census,50916,100.0,95.0,*,2014_15,97.2,1 dose Varicella Vaccination (unknown disease history)
+Utah,Census,50114,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Utah,Census,49957,100.0,95.0,*,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Utah,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Utah,Census,53800,100.0,95.0,*,2011_12,NReq,2 doses Varicella Vaccination (unknown disease history)
+Utah,Census,54605,100.0,95.0,*,2012_13,NReq,2 doses Varicella Vaccination (unknown disease history)
+Utah,Census,54779,100.0,95.0,*,2013_14,NReq,2 doses Varicella Vaccination (unknown disease history)
+Utah,Census,50916,100.0,95.0,*,2014_15,NReq,2 doses Varicella Vaccination (unknown disease history)
+Utah,Census,50114,100.0,95.0,*,2015_16,94.8,2 doses Varicella Vaccination (unknown disease history)
+Utah,Census,49957,100.0,95.0,*,2009_10,97.5,DTP/DTaP/DT Vaccination
+Utah,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Utah,Census,53800,100.0,95.0,*,2011_12,97.7,DTP/DTaP/DT Vaccination
+Utah,Census,54605,100.0,95.0,*,2012_13,97.8,DTP/DTaP/DT Vaccination
+Utah,Census,54779,100.0,95.0,*,2013_14,98.1,DTP/DTaP/DT Vaccination
+Utah,Census,50916,100.0,95.0,*,2014_15,93.8,DTP/DTaP/DT Vaccination
+Utah,Census,50114,100.0,95.0,*,2015_16,93.7,DTP/DTaP/DT Vaccination
+Utah,Census,49957,100.0,95.0,*,2009_10,98.6,Hepatitis B Vaccination
+Utah,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Utah,Census,53800,100.0,95.0,*,2011_12,99.1,Hepatitis B Vaccination
+Utah,Census,54605,100.0,95.0,*,2012_13,99.1,Hepatitis B Vaccination
+Utah,Census,54779,100.0,95.0,*,2013_14,99.3,Hepatitis B Vaccination
+Utah,Census,50916,100.0,95.0,*,2014_15,95.4,Hepatitis B Vaccination
+Utah,Census,50114,100.0,95.0,*,2015_16,95.1,Hepatitis B Vaccination
+Utah,Census,49957,100.0,95.0,*,2009_10,97.7,MMR Vaccination
+Utah,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Utah,Census,53800,100.0,95.0,*,2011_12,98.0,MMR Vaccination
+Utah,Census,54605,100.0,95.0,*,2012_13,96.3,MMR Vaccination
+Utah,Census,54779,100.0,95.0,*,2013_14,98.5,MMR Vaccination
+Utah,Census,50916,100.0,95.0,*,2014_15,94.0,MMR Vaccination
+Utah,Census,50114,100.0,95.0,*,2015_16,94.2,MMR Vaccination
+Utah,Census,49957,100.0,95.0,*,2009_10,97.9,Polio Vaccination
+Utah,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Utah,Census,53800,100.0,95.0,*,2011_12,98.1,Polio Vaccination
+Utah,Census,54605,100.0,95.0,*,2012_13,98.1,Polio Vaccination
+Utah,Census,54779,100.0,95.0,*,2013_14,98.4,Polio Vaccination
+Utah,Census,50916,100.0,95.0,*,2014_15,94.2,Polio Vaccination
+Utah,Census,50114,100.0,95.0,*,2015_16,94.1,Polio Vaccination
+Vermont,Census,6713,100.0,95.0,*,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Vermont,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Vermont,Census,6548,100.0,95.0,*,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Vermont,Census,6792,100.0,95.0,*,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Vermont,Census,6771,100.0,95.0,*,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Vermont,Census,6277,100.0,95.0,*,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Vermont,Census,6366,100.0,95.0,*,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Vermont,Census,6713,100.0,95.0,*,2009_10,88.2,2 doses Varicella Vaccination (unknown disease history)
+Vermont,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Vermont,Census,6548,100.0,95.0,*,2011_12,90.3,2 doses Varicella Vaccination (unknown disease history)
+Vermont,Census,6792,100.0,95.0,*,2012_13,90.1,2 doses Varicella Vaccination (unknown disease history)
+Vermont,Census,6771,100.0,95.0,*,2013_14,89.4,2 doses Varicella Vaccination (unknown disease history)
+Vermont,Census,6277,100.0,95.0,*,2014_15,90.5,2 doses Varicella Vaccination (unknown disease history)
+Vermont,Census,6366,100.0,95.0,*,2015_16,91.9,2 doses Varicella Vaccination (unknown disease history)
+Vermont,Census,6713,100.0,95.0,*,2009_10,91.8,DTP/DTaP/DT Vaccination
+Vermont,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Vermont,Census,6548,100.0,95.0,*,2011_12,92.7,DTP/DTaP/DT Vaccination
+Vermont,Census,6792,100.0,95.0,*,2012_13,92.6,DTP/DTaP/DT Vaccination
+Vermont,Census,6771,100.0,95.0,*,2013_14,92.0,DTP/DTaP/DT Vaccination
+Vermont,Census,6277,100.0,95.0,*,2014_15,93.2,DTP/DTaP/DT Vaccination
+Vermont,Census,6366,100.0,95.0,*,2015_16,93.6,DTP/DTaP/DT Vaccination
+Vermont,Census,6713,100.0,95.0,*,2009_10,94.8,Hepatitis B Vaccination
+Vermont,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Vermont,Census,6548,100.0,95.0,*,2011_12,95.6,Hepatitis B Vaccination
+Vermont,Census,6792,100.0,95.0,*,2012_13,95.0,Hepatitis B Vaccination
+Vermont,Census,6771,100.0,95.0,*,2013_14,93.8,Hepatitis B Vaccination
+Vermont,Census,6277,100.0,95.0,*,2014_15,94.4,Hepatitis B Vaccination
+Vermont,Census,6366,100.0,95.0,*,2015_16,94.3,Hepatitis B Vaccination
+Vermont,Census,6713,100.0,95.0,*,2009_10,91.8,MMR Vaccination
+Vermont,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Vermont,Census,6548,100.0,95.0,*,2011_12,92.9,MMR Vaccination
+Vermont,Census,6792,100.0,95.0,*,2012_13,92.8,MMR Vaccination
+Vermont,Census,6771,100.0,95.0,*,2013_14,91.2,MMR Vaccination
+Vermont,Census,6277,100.0,95.0,*,2014_15,92.7,MMR Vaccination
+Vermont,Census,6366,100.0,95.0,*,2015_16,93.6,MMR Vaccination
+Vermont,Census,6713,100.0,95.0,*,2009_10,92.1,Polio Vaccination
+Vermont,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Vermont,Census,6548,100.0,95.0,*,2011_12,92.7,Polio Vaccination
+Vermont,Census,6792,100.0,95.0,*,2012_13,92.6,Polio Vaccination
+Vermont,Census,6771,100.0,95.0,*,2013_14,91.8,Polio Vaccination
+Vermont,Census,6277,100.0,95.0,*,2014_15,93.7,Polio Vaccination
+Vermont,Census,6366,100.0,95.0,*,2015_16,93.8,Polio Vaccination
+Virginia,Random sample,100891,4.4,95.0,NaN,2009_10,98.3,1 dose Varicella Vaccination (unknown disease history)
+Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Virginia,2-stage Cluster Sample,101121,4.3,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Virginia,2-stage Cluster Sample,104826,4.2,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Virginia,2-stage cluster  sample,105692,4.1,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Virginia,Stratified 2-stage cluster sample,103821,4.1,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Virginia,Stratified 2-stage cluster sample,100074,4.3,95.0,†.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Virginia,Random sample,100891,4.4,95.0,NaN,2009_10,NReq,2 doses Varicella Vaccination (unknown disease history)
+Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Virginia,2-stage Cluster Sample,101121,4.3,95.0,NaN,2011_12,90.6,2 doses Varicella Vaccination (unknown disease history)
+Virginia,2-stage Cluster Sample,104826,4.2,95.0,NaN,2012_13,91.2,2 doses Varicella Vaccination (unknown disease history)
+Virginia,2-stage cluster  sample,105692,4.1,95.0,NaN,2013_14,91.3,2 doses Varicella Vaccination (unknown disease history)
+Virginia,Stratified 2-stage cluster sample,103821,4.1,95.0,NaN,2014_15,90.4,2 doses Varicella Vaccination (unknown disease history)
+Virginia,Stratified 2-stage cluster sample,100074,4.3,95.0,†.§,2015_16,93.7,2 doses Varicella Vaccination (unknown disease history)
+Virginia,Random sample,100891,4.4,95.0,NaN,2009_10,98.4,DTP/DTaP/DT Vaccination
+Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Virginia,2-stage Cluster Sample,101121,4.3,95.0,NaN,2011_12,98.6,DTP/DTaP/DT Vaccination
+Virginia,2-stage Cluster Sample,104826,4.2,95.0,NaN,2012_13,98.5,DTP/DTaP/DT Vaccination
+Virginia,2-stage cluster  sample,105692,4.1,95.0,NaN,2013_14,98.3,DTP/DTaP/DT Vaccination
+Virginia,Stratified 2-stage cluster sample,103821,4.1,95.0,NaN,2014_15,97.4,DTP/DTaP/DT Vaccination
+Virginia,Stratified 2-stage cluster sample,100074,4.3,95.0,†.§,2015_16,98.3,DTP/DTaP/DT Vaccination
+Virginia,Random sample,100891,4.4,95.0,NaN,2009_10,97.6,Hepatitis B Vaccination
+Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Virginia,2-stage Cluster Sample,101121,4.3,95.0,NaN,2011_12,92.7,Hepatitis B Vaccination
+Virginia,2-stage Cluster Sample,104826,4.2,95.0,NaN,2012_13,91.7,Hepatitis B Vaccination
+Virginia,2-stage cluster  sample,105692,4.1,95.0,NaN,2013_14,93.2,Hepatitis B Vaccination
+Virginia,Stratified 2-stage cluster sample,103821,4.1,95.0,NaN,2014_15,92.8,Hepatitis B Vaccination
+Virginia,Stratified 2-stage cluster sample,100074,4.3,95.0,†.§,2015_16,94.6,Hepatitis B Vaccination
+Virginia,Random sample,100891,4.4,95.0,NaN,2009_10,92.1,MMR Vaccination
+Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Virginia,2-stage Cluster Sample,101121,4.3,95.0,NaN,2011_12,93.0,MMR Vaccination
+Virginia,2-stage Cluster Sample,104826,4.2,95.0,NaN,2012_13,93.1,MMR Vaccination
+Virginia,2-stage cluster  sample,105692,4.1,95.0,NaN,2013_14,93.1,MMR Vaccination
+Virginia,Stratified 2-stage cluster sample,103821,4.1,95.0,NaN,2014_15,93.4,MMR Vaccination
+Virginia,Stratified 2-stage cluster sample,100074,4.3,95.0,†.§,2015_16,95.7,MMR Vaccination
+Virginia,Random sample,100891,4.4,95.0,NaN,2009_10,99.1,Polio Vaccination
+Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Virginia,2-stage Cluster Sample,101121,4.3,95.0,NaN,2011_12,93.0,Polio Vaccination
+Virginia,2-stage Cluster Sample,104826,4.2,95.0,NaN,2012_13,94.1,Polio Vaccination
+Virginia,2-stage cluster  sample,105692,4.1,95.0,NaN,2013_14,93.3,Polio Vaccination
+Virginia,Stratified 2-stage cluster sample,103821,4.1,95.0,NaN,2014_15,91.9,Polio Vaccination
+Virginia,Stratified 2-stage cluster sample,100074,4.3,95.0,†.§,2015_16,93.9,Polio Vaccination
+Washington,Census,81511,93.3,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Washington,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Washington,Voluntary Response,85134,89.1,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Washington,Census,87773,94.7,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Washington,Voluntary response,89165,88.5,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Washington,Census (public); Voluntary response (private),88809,96.7,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Washington,Census,86492,97.3,95.0,§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Washington,Census,81511,93.3,95.0,NaN,2009_10,88.6,2 doses Varicella Vaccination (unknown disease history)
+Washington,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Washington,Voluntary Response,85134,89.1,95.0,NaN,2011_12,90.4,2 doses Varicella Vaccination (unknown disease history)
+Washington,Census,87773,94.7,95.0,NaN,2012_13,90.3,2 doses Varicella Vaccination (unknown disease history)
+Washington,Voluntary response,89165,88.5,95.0,NaN,2013_14,88.4,2 doses Varicella Vaccination (unknown disease history)
+Washington,Census (public); Voluntary response (private),88809,96.7,95.0,NaN,2014_15,87.9,2 doses Varicella Vaccination (unknown disease history)
+Washington,Census,86492,97.3,95.0,§,2015_16,89.4,2 doses Varicella Vaccination (unknown disease history)
+Washington,Census,81511,93.3,95.0,NaN,2009_10,91.6,DTP/DTaP/DT Vaccination
+Washington,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Washington,Voluntary Response,85134,89.1,95.0,NaN,2011_12,90.9,DTP/DTaP/DT Vaccination
+Washington,Census,87773,94.7,95.0,NaN,2012_13,92.4,DTP/DTaP/DT Vaccination
+Washington,Voluntary response,89165,88.5,95.0,NaN,2013_14,90.3,DTP/DTaP/DT Vaccination
+Washington,Census (public); Voluntary response (private),88809,96.7,95.0,NaN,2014_15,90.7,DTP/DTaP/DT Vaccination
+Washington,Census,86492,97.3,95.0,§,2015_16,91.1,DTP/DTaP/DT Vaccination
+Washington,Census,81511,93.3,95.0,NaN,2009_10,92.8,Hepatitis B Vaccination
+Washington,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Washington,Voluntary Response,85134,89.1,95.0,NaN,2011_12,93.0,Hepatitis B Vaccination
+Washington,Census,87773,94.7,95.0,NaN,2012_13,93.4,Hepatitis B Vaccination
+Washington,Voluntary response,89165,88.5,95.0,NaN,2013_14,91.8,Hepatitis B Vaccination
+Washington,Census (public); Voluntary response (private),88809,96.7,95.0,NaN,2014_15,91.9,Hepatitis B Vaccination
+Washington,Census,86492,97.3,95.0,§,2015_16,92.7,Hepatitis B Vaccination
+Washington,Census,81511,93.3,95.0,NaN,2009_10,91.7,MMR Vaccination
+Washington,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Washington,Voluntary Response,85134,89.1,95.0,NaN,2011_12,91.8,MMR Vaccination
+Washington,Census,87773,94.7,95.0,NaN,2012_13,91.7,MMR Vaccination
+Washington,Voluntary response,89165,88.5,95.0,NaN,2013_14,89.7,MMR Vaccination
+Washington,Census (public); Voluntary response (private),88809,96.7,95.0,NaN,2014_15,89.4,MMR Vaccination
+Washington,Census,86492,97.3,95.0,§,2015_16,91.0,MMR Vaccination
+Washington,Census,81511,93.3,95.0,NaN,2009_10,91.8,Polio Vaccination
+Washington,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Washington,Voluntary Response,85134,89.1,95.0,NaN,2011_12,91.0,Polio Vaccination
+Washington,Census,87773,94.7,95.0,NaN,2012_13,91.4,Polio Vaccination
+Washington,Voluntary response,89165,88.5,95.0,NaN,2013_14,89.1,Polio Vaccination
+Washington,Census (public); Voluntary response (private),88809,96.7,95.0,NaN,2014_15,88.4,Polio Vaccination
+Washington,Census,86492,97.3,95.0,§,2015_16,88.7,Polio Vaccination
+West Virginia,Voluntary response,22730,86.7,95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+West Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+West Virginia,Convenient ,22449,94.9,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary Response,22588,86.5,95.0,NaN,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,22814,84.7,95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,22016,81.3,95.0,NaN,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,21333,87.6,95.0,NaN,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,22730,86.7,95.0,NaN,2009_10,88.4,2 doses Varicella Vaccination (unknown disease history)
+West Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+West Virginia,Convenient ,22449,94.9,95.0,NaN,2011_12,88.9,2 doses Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary Response,22588,86.5,95.0,NaN,2012_13,96.2,2 doses Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,22814,84.7,95.0,NaN,2013_14,95.5,2 doses Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,22016,81.3,95.0,NaN,2014_15,97.0,2 doses Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,21333,87.6,95.0,NaN,2015_16,94.3,2 doses Varicella Vaccination (unknown disease history)
+West Virginia,Voluntary response,22730,86.7,95.0,NaN,2009_10,91.9,DTP/DTaP/DT Vaccination
+West Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+West Virginia,Convenient ,22449,94.9,95.0,NaN,2011_12,92.6,DTP/DTaP/DT Vaccination
+West Virginia,Voluntary Response,22588,86.5,95.0,NaN,2012_13,96.3,DTP/DTaP/DT Vaccination
+West Virginia,Voluntary response,22814,84.7,95.0,NaN,2013_14,96.5,DTP/DTaP/DT Vaccination
+West Virginia,Voluntary response,22016,81.3,95.0,NaN,2014_15,97.6,DTP/DTaP/DT Vaccination
+West Virginia,Voluntary response,21333,87.6,95.0,NaN,2015_16,94.8,DTP/DTaP/DT Vaccination
+West Virginia,Voluntary response,22730,86.7,95.0,NaN,2009_10,92.0,Hepatitis B Vaccination
+West Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+West Virginia,Convenient ,22449,94.9,95.0,NaN,2011_12,93.3,Hepatitis B Vaccination
+West Virginia,Voluntary Response,22588,86.5,95.0,NaN,2012_13,95.6,Hepatitis B Vaccination
+West Virginia,Voluntary response,22814,84.7,95.0,NaN,2013_14,96.8,Hepatitis B Vaccination
+West Virginia,Voluntary response,22016,81.3,95.0,NaN,2014_15,98.7,Hepatitis B Vaccination
+West Virginia,Voluntary response,21333,87.6,95.0,NaN,2015_16,96.4,Hepatitis B Vaccination
+West Virginia,Voluntary response,22730,86.7,95.0,NaN,2009_10,91.2,MMR Vaccination
+West Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+West Virginia,Convenient ,22449,94.9,95.0,NaN,2011_12,92.0,MMR Vaccination
+West Virginia,Voluntary Response,22588,86.5,95.0,NaN,2012_13,96.3,MMR Vaccination
+West Virginia,Voluntary response,22814,84.7,95.0,NaN,2013_14,96.1,MMR Vaccination
+West Virginia,Voluntary response,22016,81.3,95.0,NaN,2014_15,97.6,MMR Vaccination
+West Virginia,Voluntary response,21333,87.6,95.0,NaN,2015_16,95.2,MMR Vaccination
+West Virginia,Voluntary response,22730,86.7,95.0,NaN,2009_10,91.5,Polio Vaccination
+West Virginia,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+West Virginia,Convenient ,22449,94.9,95.0,NaN,2011_12,92.6,Polio Vaccination
+West Virginia,Voluntary Response,22588,86.5,95.0,NaN,2012_13,96.3,Polio Vaccination
+West Virginia,Voluntary response,22814,84.7,95.0,NaN,2013_14,96.1,Polio Vaccination
+West Virginia,Voluntary response,22016,81.3,95.0,NaN,2014_15,98.8,Polio Vaccination
+West Virginia,Voluntary response,21333,87.6,95.0,NaN,2015_16,95.4,Polio Vaccination
+Wisconsin,Random sample,61095,2.3,95.0,¶,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wisconsin,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wisconsin,2-stage Cluster Sample,70672,2.3,95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wisconsin,2-stage Cluster Sample,72416,1.8,95.0,‡,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wisconsin,Stratified  2-stage cluster sample,71363,2.8,95.0,‡,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wisconsin,Stratified 2-stage cluster sample,69335,2.5,95.0,‡,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wisconsin,Stratified 2-stage cluster sample,70220,2.0,95.0,‡.§,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wisconsin,Random sample,61095,2.3,95.0,¶,2009_10,90.3,2 doses Varicella Vaccination (unknown disease history)
+Wisconsin,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Wisconsin,2-stage Cluster Sample,70672,2.3,95.0,NaN,2011_12,91.0,2 doses Varicella Vaccination (unknown disease history)
+Wisconsin,2-stage Cluster Sample,72416,1.8,95.0,‡,2012_13,91.1,2 doses Varicella Vaccination (unknown disease history)
+Wisconsin,Stratified  2-stage cluster sample,71363,2.8,95.0,‡,2013_14,91.2,2 doses Varicella Vaccination (unknown disease history)
+Wisconsin,Stratified 2-stage cluster sample,69335,2.5,95.0,‡,2014_15,90.9,2 doses Varicella Vaccination (unknown disease history)
+Wisconsin,Stratified 2-stage cluster sample,70220,2.0,95.0,‡.§,2015_16,92.5,2 doses Varicella Vaccination (unknown disease history)
+Wisconsin,Random sample,61095,2.3,95.0,¶,2009_10,97.3,DTP/DTaP/DT Vaccination
+Wisconsin,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Wisconsin,2-stage Cluster Sample,70672,2.3,95.0,NaN,2011_12,87.7,DTP/DTaP/DT Vaccination
+Wisconsin,2-stage Cluster Sample,72416,1.8,95.0,‡,2012_13,96.1,DTP/DTaP/DT Vaccination
+Wisconsin,Stratified  2-stage cluster sample,71363,2.8,95.0,‡,2013_14,96.3,DTP/DTaP/DT Vaccination
+Wisconsin,Stratified 2-stage cluster sample,69335,2.5,95.0,‡,2014_15,96.5,DTP/DTaP/DT Vaccination
+Wisconsin,Stratified 2-stage cluster sample,70220,2.0,95.0,‡.§,2015_16,96.9,DTP/DTaP/DT Vaccination
+Wisconsin,Random sample,61095,2.3,95.0,¶,2009_10,97.4,Hepatitis B Vaccination
+Wisconsin,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Wisconsin,2-stage Cluster Sample,70672,2.3,95.0,NaN,2011_12,96.2,Hepatitis B Vaccination
+Wisconsin,2-stage Cluster Sample,72416,1.8,95.0,‡,2012_13,97.3,Hepatitis B Vaccination
+Wisconsin,Stratified  2-stage cluster sample,71363,2.8,95.0,‡,2013_14,95.4,Hepatitis B Vaccination
+Wisconsin,Stratified 2-stage cluster sample,69335,2.5,95.0,‡,2014_15,95.9,Hepatitis B Vaccination
+Wisconsin,Stratified 2-stage cluster sample,70220,2.0,95.0,‡.§,2015_16,96.5,Hepatitis B Vaccination
+Wisconsin,Random sample,61095,2.3,95.0,¶,2009_10,94.2,MMR Vaccination
+Wisconsin,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Wisconsin,2-stage Cluster Sample,70672,2.3,95.0,NaN,2011_12,93.1,MMR Vaccination
+Wisconsin,2-stage Cluster Sample,72416,1.8,95.0,‡,2012_13,92.8,MMR Vaccination
+Wisconsin,Stratified  2-stage cluster sample,71363,2.8,95.0,‡,2013_14,92.6,MMR Vaccination
+Wisconsin,Stratified 2-stage cluster sample,69335,2.5,95.0,‡,2014_15,91.6,MMR Vaccination
+Wisconsin,Stratified 2-stage cluster sample,70220,2.0,95.0,‡.§,2015_16,93.2,MMR Vaccination
+Wisconsin,Random sample,61095,2.3,95.0,¶,2009_10,98.2,Polio Vaccination
+Wisconsin,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Wisconsin,2-stage Cluster Sample,70672,2.3,95.0,NaN,2011_12,96.9,Polio Vaccination
+Wisconsin,2-stage Cluster Sample,72416,1.8,95.0,‡,2012_13,98.2,Polio Vaccination
+Wisconsin,Stratified  2-stage cluster sample,71363,2.8,95.0,‡,2013_14,96.7,Polio Vaccination
+Wisconsin,Stratified 2-stage cluster sample,69335,2.5,95.0,‡,2014_15,96.7,Polio Vaccination
+Wisconsin,Stratified 2-stage cluster sample,70220,2.0,95.0,‡.§,2015_16,93.4,Polio Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wyoming,"NA","NA","NA",95.0,"NA",2010_11,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2011_12,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wyoming,Census,8133,100.0,95.0,* .¶,2012_13,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2013_14,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wyoming,Census,7983,97.9,95.0,¶,2014_15,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wyoming,Voluntary response,7825,74.0,95.0,§.¶,2015_16,"NA",1 dose Varicella Vaccination (unknown disease history)
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",2 doses Varicella Vaccination (unknown disease history)
+Wyoming,"NA","NA","NA",95.0,"NA",2010_11,"NA",2 doses Varicella Vaccination (unknown disease history)
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2011_12,"NA",2 doses Varicella Vaccination (unknown disease history)
+Wyoming,Census,8133,100.0,95.0,* .¶,2012_13,97.0,2 doses Varicella Vaccination (unknown disease history)
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2013_14,"NA",2 doses Varicella Vaccination (unknown disease history)
+Wyoming,Census,7983,97.9,95.0,¶,2014_15,96.5,2 doses Varicella Vaccination (unknown disease history)
+Wyoming,Voluntary response,7825,74.0,95.0,§.¶,2015_16,96.5,2 doses Varicella Vaccination (unknown disease history)
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",DTP/DTaP/DT Vaccination
+Wyoming,"NA","NA","NA",95.0,"NA",2010_11,"NA",DTP/DTaP/DT Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2011_12,"NA",DTP/DTaP/DT Vaccination
+Wyoming,Census,8133,100.0,95.0,* .¶,2012_13,97.4,DTP/DTaP/DT Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2013_14,"NA",DTP/DTaP/DT Vaccination
+Wyoming,Census,7983,97.9,95.0,¶,2014_15,96.7,DTP/DTaP/DT Vaccination
+Wyoming,Voluntary response,7825,74.0,95.0,§.¶,2015_16,96.6,DTP/DTaP/DT Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",Hepatitis B Vaccination
+Wyoming,"NA","NA","NA",95.0,"NA",2010_11,"NA",Hepatitis B Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2011_12,"NA",Hepatitis B Vaccination
+Wyoming,Census,8133,100.0,95.0,* .¶,2012_13,97.8,Hepatitis B Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2013_14,"NA",Hepatitis B Vaccination
+Wyoming,Census,7983,97.9,95.0,¶,2014_15,97.3,Hepatitis B Vaccination
+Wyoming,Voluntary response,7825,74.0,95.0,§.¶,2015_16,97.3,Hepatitis B Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",MMR Vaccination
+Wyoming,"NA","NA","NA",95.0,"NA",2010_11,"NA",MMR Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2011_12,"NA",MMR Vaccination
+Wyoming,Census,8133,100.0,95.0,* .¶,2012_13,97.5,MMR Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2013_14,"NA",MMR Vaccination
+Wyoming,Census,7983,97.9,95.0,¶,2014_15,96.8,MMR Vaccination
+Wyoming,Voluntary response,7825,74.0,95.0,§.¶,2015_16,96.9,MMR Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2009_10,"NA",Polio Vaccination
+Wyoming,"NA","NA","NA",95.0,"NA",2010_11,"NA",Polio Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2011_12,"NA",Polio Vaccination
+Wyoming,Census,8133,100.0,95.0,* .¶,2012_13,97.6,Polio Vaccination
+Wyoming,Not conducted,"NA","NA",95.0,NaN,2013_14,"NA",Polio Vaccination
+Wyoming,Census,7983,97.9,95.0,¶,2014_15,96.9,Polio Vaccination
+Wyoming,Voluntary response,7825,74.0,95.0,§.¶,2015_16,96.9,Polio Vaccination
